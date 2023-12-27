@@ -4,12 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I recently retired from UW-Madison after over 40 years.
+See my UW-Madison home page <https://www.stat.wisc.edu/~yandell>.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+This web page will evolve as I define my post-retirement path.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[byandell@wisc.edu](mailto:byandell@wisc.edu)
