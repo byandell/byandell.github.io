@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Jaron Lanier There is no A.I.
+title: Jaron Lanier--There is no A.I.
 ---
 
 Quotes below are from Jaron Lanier's article [There Is No A.I. | The New Yorker](https://www.newyorker.com/science/annals-of-artificial-intelligence/there-is-no-ai) (20 Apr 2023) and an UnHerd interview by Flo Read: [Jaron Lanier: How humanity can defeat AI](https://www.youtube.com/watch?v=qjki5Y7Y7Uw) (YouTube 2023).
