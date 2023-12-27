@@ -2,6 +2,12 @@
 layout: default
 ---
 
+Stuff here.
+
+- [Blah](blah.html)
+
+Stuff there.
+
 {% for post in site.posts %}
 
 [{{ post.title }}]({{ site.baseurl }}{{ post.url }})
