@@ -10,4 +10,6 @@ I have worked most of my career on systems genetics, notable focused on quantita
 - [Yandell Research Links](https://pages.stat.wisc.edu/~yandell/home.html#Research)
 - [Software Packages](software/)
 - [Diet Systems Genetics Google Drive](https://drive.google.com/drive/u/1/folders/0AGugqlk2Del8Uk9PVA)
+  + [Founder Calcium Study](https://connect.doit.wisc.edu/FounderCalciumStudy) [broken]
+  + [Founder Diet Study](https://connect.doit.wisc.edu/FounderDietStudy) [password protected]
 
