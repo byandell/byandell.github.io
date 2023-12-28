@@ -11,4 +11,4 @@ My next direction will be an inspired mix of personal interests and intellectual
 - [What is Data Science?](/What-is-Data-Science/)
   + [Useful Data Science Quotes](/Useful-Data-Science-Quotes/)
 - [Software](/pages/software/)
-- [Yandell's UW-Madison Page](https://www.stat.wisc.edu/~yandell)
+- [My UW-Madison Page](https://www.stat.wisc.edu/~yandell)
