@@ -4,7 +4,7 @@ title: Data Sciences Collaboratory
 ---
 
 This was an idea for a collaborative environment for data science activity. It has been successful at various other institutions, including [Stanford](https://datascience.stanford.edu/programs/data-science-collaboratory), [Columbia](https://entrepreneurship.columbia.edu/collaboratory/) and [U VA](https://datascience.virginia.edu/research/CAEDS). See
-the [Harvard Data Science Review of Columbia](https://hdsr.mitpress.mit.edu/pub/j8v2h5hc/release/5).
+the [Harvard Data Science Review of Columbia's Collaboratory](https://hdsr.mitpress.mit.edu/pub/j8v2h5hc/release/5).
 
 **Purpose:** The Data Sciences Collaboratory (DSC) will promote educational innovation in the data sciences. DSC will work closely with a federation of campus units to enhance scholarship with big data.
 
