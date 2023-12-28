@@ -7,6 +7,6 @@ success.
 
 - [Software](/pages/software/)
 - [Data Sovereignty](/_posts/2023-6-29-Data-Sovereignty/)
-- [System Genetics]()
-- [Bland Ewing & Population Ethology](/pages/ewing/)
+- [System Genetics](/pages/sysgen/)
+- [The Life and Work of Bland Ewing](/pages/ewing/)
 - [Yandell's UW-Madison Page](https://www.stat.wisc.edu/~yandell)
