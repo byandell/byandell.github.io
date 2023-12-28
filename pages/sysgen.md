@@ -3,7 +3,7 @@ layout: page
 title: Systems Genetics
 ---
 
-I have worked most of my career on systems genetics, notable focused on quantitative trait loci (QTLs).
+I have worked most of my career on systems genetics, notably focused on quantitative trait loci (QTLs). Some of this work continues into retirement, with a particular emphasis on collaborating to build interactive data-rich tools.
 
 - [Systems Genetics Analysis Platform](https://www.stat.wisc.edu/~yandell/sysgen/)
 - [R/qtl2shiny Demo](https://pages.stat.wisc.edu/~yandell/software/qtl2shiny/)
