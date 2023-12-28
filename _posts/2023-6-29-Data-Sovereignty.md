@@ -3,14 +3,16 @@ layout: post
 title: Data Sovereignty
 ---
 
+I spent a week (24-26 May 2023) in Stat 678, Introduction to Statistical Consulting, having students think and write about data sovereignty as it relates to their Statistics masters option degree programs in[ Statistics and Data Science](https://stat.wisc.edu/graduate-admissions/data-science-option/) or[ Applied Statistics](https://stat.wisc.edu/graduate-admissions/applied-statistics-option/).
+
 ## Assignment
 
-I spent a week (24-26 May 2023) in Stat 678, Introduction to Statistical Consulting, having students think and write about data sovereignty as it relates to their Statistics masters option degree programs in[ Statistics and Data Science](https://stat.wisc.edu/graduate-admissions/data-science-option/) or[ Applied Statistics](https://stat.wisc.edu/graduate-admissions/applied-statistics-option/). Below is the assignment. Reports are in this folder:
+This unit concerns Indigenous data sovereignty as it relates to statistics and data science collaboration. The goal is for you to be able to explain what Indigenous data sovereignty is, and to articulate (in a 1-2 page report) how data sovereignty may affect how you approach statistics consulting and collaboration. Consider the discussion and questions below, and examine the references, resources and videos found at the bottom to inform your report.
+Reports:
 
 * [Data Sovereignty #1](/pages/Data_Sovereignty_2023_1/)
 * [Data Sovereignty #2](/pages/Data_Sovereignty_2023_1/) 
 
-This unit concerns Indigenous data sovereignty as it relates to statistics and data science collaboration. The goal is for you to be able to explain what Indigenous data sovereignty is, and to articulate (in a 1-2 page report) how data sovereignty may affect how you approach statistics consulting and collaboration. Consider the discussion and questions below, and examine the references, resources and videos found at the bottom to inform your report.
 
 ## Data Sovereignty
 
