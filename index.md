@@ -2,11 +2,13 @@
 layout: default
 ---
 
-Brian S. Yandell retired in 2023 from the University of Wisconsin-Madison after more than 40 years of academic
-success. 
+{% for post in site.posts %}
 
-- [Software](/pages/software/)
-- [Data Sovereignty](/_posts/2023-6-29-Data-Sovereignty/)
-- [System Genetics](/pages/sysgen/)
-- [The Life and Work of Bland Ewing](/pages/ewing/)
-- [Yandell's UW-Madison Page](https://www.stat.wisc.edu/~yandell)
+[{{ post.title }}]({{ site.baseurl }}{{ post.url }})
+====================================================
+
+{{ post.excerpt }}
+
+[Read More]({{ site.baseurl }}{{ post.url }})
+
+{% endfor %}
