@@ -10,3 +10,6 @@ node_modules
 package.json
 .Rproj.user
 *.Rproj
+
+_posts/*.html
+pages/*.html

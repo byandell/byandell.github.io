@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Jaron Lanier--There is no A.I.
+title: Jaron Lanier--There is no AI
 ---
 
 Quotes below are from Jaron Lanier's article [There Is No AI](https://www.newyorker.com/science/annals-of-artificial-intelligence/there-is-no-ai) (The New Yorker 20 Apr 2023) and an UnHerd interview by Flo Read: [Jaron Lanier: How humanity can defeat AI](https://www.youtube.com/watch?v=qjki5Y7Y7Uw) (YouTube 2023).
 
-##Data Dignity
+## Data Dignity
 
 Data dignity involves tracing human contributions to AI mashups. It is a philosophical argument needing a technological implementation.
 
