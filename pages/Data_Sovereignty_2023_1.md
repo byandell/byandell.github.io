@@ -1,4 +1,7 @@
-# Data Sovereignty
+---
+layout: page
+title: Data Sovereignty Report 1
+---
 
 ## What is Indigenous Data Sovereignty?
 
