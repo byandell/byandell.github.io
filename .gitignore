@@ -13,3 +13,4 @@ package.json
 
 _posts/*.html
 pages/*.html
+pages/ewing/*.html

@@ -7,15 +7,14 @@ NB: Links on this page are largely broken as files migrate from stat HTML pages 
 
 This site is dedicated to the life and work of Bland Ewing. I am writing his biography, and have actively worked with him and others on his ideas on population ethology modeling.
 
-*   [My involvement with Bland Ewing]()
-*   [Ewing Bibliography on Ecological Modeling](biblio/)
-*   [Software for Quantitative Population Ethology](#software)
-*   [Ewing Vitae](ewing.html)
-*   [Huntington's Disease](hd.html)
-*   [Bland Ewing Special Needs Trust](besnt.html)
-    
-*   [Self Organizing Complexity and Highly Optimized Tolerance](complex.html)
-*   [Petri Nets and Ecological Modelling](petri.html)
+*   [My involvement with Bland Ewing](#my-involvement-with-bland-ewing)
+*   [Ewing Bibliography on Ecological Modeling](#ewing-bibliography)
+*   [Software for Quantitative Population Ethology](#quantitative-population-ethology-software)
+*   [Ewing Vitae](ewing/)
+*   [Huntington's Disease](hd/)
+
+*   [Self Organizing Complexity and Highly Optimized Tolerance](complex/)
+*   [Petri Nets and Ecological Modelling](petri/)
 
 ## My Involvement with Bland Ewing
 
