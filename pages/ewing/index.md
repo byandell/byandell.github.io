@@ -8,6 +8,7 @@ For original, see <http://www.stat.wisc.edu/~yandell/ewing/>.
 
 *   [My Involvement with Bland Ewing](#my-involvement-with-bland-ewing)
 *   [Ewing Bibliography on Ecological Modeling](#ewing-bibliography)
+  * [Ewing Google Drive](https://drive.google.com/drive/u/1/folders/12bimDvEoG1EnssZT_Bn2HwdrAHt74guv) [limited access]
 *   [Software for Quantitative Population Ethology](#quantitative-population-ethology-software)
 *   [Ewing Vitae](ewing/)
 *   [Huntington's Disease](hd/)
@@ -54,4 +55,5 @@ We are developing software to implement the quantitative population ethology sim
 Please read the [Practical Model Building](build.html) paper for detailed information on our code. First one needs to install the R system, however. See the R Project for instructions.
 
 *   [GitHub Source of ewing library](https://github.com/byandell/ewing)
+  * [Shiny Ewing Interface](https://connect.doit.wisc.edu/ewing) [under development]
 *   [redscale](https://github.com/byandell/redscale) R library: data initialization
