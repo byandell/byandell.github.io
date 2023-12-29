@@ -1,0 +1,1 @@
+UW Crest is downloaded from <https://brand.wisc.edu/resource/crest-only-logo-for-web-digital-use-full-color/> and is used according to logo use guidelines detailed therein.

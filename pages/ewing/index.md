@@ -6,7 +6,7 @@ title: The Life and Work of Bland Ewing
 This site is dedicated to the life and work of Bland Ewing. I am writing his biography, and have actively worked with him and others on his ideas on population ethology modeling.
 For original, see <http://www.stat.wisc.edu/~yandell/ewing/>.
 
-*   [My involvement with Bland Ewing](#my-involvement-with-bland-ewing)
+*   [My Involvement with Bland Ewing](#my-involvement-with-bland-ewing)
 *   [Ewing Bibliography on Ecological Modeling](#ewing-bibliography)
 *   [Software for Quantitative Population Ethology](#quantitative-population-ethology-software)
 *   [Ewing Vitae](ewing/)
