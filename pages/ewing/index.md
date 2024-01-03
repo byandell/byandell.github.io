@@ -1,10 +1,17 @@
 ---
 layout: page
-title: The Life and Work of Bland Ewing
+title: Systems Ethology--The Life and Work of Bland Ewing
 ---
 
-This site is dedicated to the life and work of Bland Ewing. I am writing his biography, and have actively worked with him and others on his ideas on population ethology modeling.
+This site is dedicated to the life and work of Bland Ewing.
+Bland identified his research work as `quantitative population ethology`,
+but it may be more appropriate today to use the phrase `systems ethology`.
+These pages have substantial content about systems ethology, as well as
+a biography of Bland Ewing and connections to other related topics.
+
+I am writing Bland's biography, and have actively worked with him and others on his ideas on population ethology modeling.
 For original, see <http://www.stat.wisc.edu/~yandell/ewing/>.
+More will be added over time.
 
 *   [My Involvement with Bland Ewing](#my-involvement-with-bland-ewing)
 *   [Ewing Bibliography on Ecological Modeling](#ewing-bibliography)
@@ -12,7 +19,6 @@ For original, see <http://www.stat.wisc.edu/~yandell/ewing/>.
 *   [Software for Quantitative Population Ethology](#quantitative-population-ethology-software)
 *   [Ewing Vitae](ewing/)
 *   [Huntington's Disease](hd/)
-
 *   [Self Organizing Complexity and Highly Optimized Tolerance](complex/)
 *   [Petri Nets and Ecological Modelling](petri/)
 

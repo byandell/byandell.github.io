@@ -1,7 +1,13 @@
 ---
 layout: page
-title: Software
+title: Software Projects
 ---
+
+I began working on software in the 1970s as an undergraduate, both at Caltech and during
+summer employment at UC-Berkeley Entomology (with [Bland Ewing](/pages/ewing)).
+Later as a graduate student at UC-Berkeley, my thesis involved a substantial computing part, along with high-end theory.
+My professor-track employment at UW-Madison involved a careful balance of theoretical work
+(to establish my bonafides) and computational projects (to explore tools and ground ideas in data-driven stories).
 
 *   [R Software Introduction for Stat 571](https://www.stat.wisc.edu/~yandell/st571/R/)
 *   [R Appendices for the Stat/For/Hort 571 Course Notes](https://www.stat.wisc.edu/~yandell/st571/R/append.html)
