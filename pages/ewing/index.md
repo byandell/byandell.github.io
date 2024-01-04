@@ -13,6 +13,7 @@ I am writing Bland's biography, and have actively worked with him and others on 
 For original, see <http://www.stat.wisc.edu/~yandell/ewing/>.
 More will be added over time.
 
+* [Quantitative Population Ethology](https://connect.doit.wisc.edu/qpe/) book draft ([GitHub](https://github.com/byandell/ewing_book))
 *   [My Involvement with Bland Ewing](#my-involvement-with-bland-ewing)
 *   [Ewing Bibliography on Ecological Modeling](#ewing-bibliography)
   * [Ewing Google Drive](https://drive.google.com/drive/u/1/folders/12bimDvEoG1EnssZT_Bn2HwdrAHt74guv) [limited access]
