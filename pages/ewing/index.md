@@ -25,9 +25,9 @@ More will be added over time.
 
 ## My Involvement with Bland Ewing
 
-Bland Ewing was my first mentor. I worked for him at UC-Berkeley during the summers while I was an undergrad at Caltech in the early 1970s. By the late 1970s we lost touch, and only reconnected in the mid 1990s. At that time, Bland was suffering in a serious way from [Huntington's Disease](hd/), the same malady that took his father, grandfather, and Woody Guthrie. Bland Ewing is now approaching 70. His mind is quite active, while he is largely confined to his apartment due to low energy and difficulty walking. Bland' short-term memory is sporadic, and he ocassionally has trouble with names, but his depth of reasoning is phenomenal, as it always was.
+Bland Ewing was my first mentor. I worked for him at UC-Berkeley during the summers while I was an undergrad at Caltech in the early 1970s. By the late 1970s we lost touch, and only reconnected in the mid 1990s. At that time, Bland was suffering in a serious way from [Huntington's Disease](hd/), the same malady that took his father, grandfather, and Woody Guthrie. Bland Ewing died in the early 2000s. His mind was quite active to the last day, though he was largely confined to his apartment and later a nursing home due to low energy and difficulty walking. Bland's short-term memory in those last years was sporadic, and he ocasionally has trouble with names, but his depth of reasoning was phenomenal.
 
-During the past two years, Bland and I, along with Jim Barbieri and more recently Bob Luck, have been reviewing the modeling ideas that Bland first proposed in his intended dissertation. As near as any of us can tell, these ideas have not been superseded in the past quarter century. In fact, they may be more relevant today than ever.
+During the early 2000s, Bland and I, along with Jim Barbieri and more recently Bob Luck, reviewed modeling ideas that Bland first proposed in his intended dissertation. As near as any of us can tell, these ideas have not been superseded in the past quarter century. In fact, they may be more relevant today than ever.
 
 ## Ewing Bibliography
 
