@@ -10,7 +10,8 @@ node_modules
 package.json
 .Rproj.user
 *.Rproj
+.Rhistory
 
 _posts/*.html
 pages/*.html
-pages/ewing/*.html
+pages/*/*.html
