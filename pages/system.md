@@ -6,7 +6,7 @@ title: Systems Thinking
 Much of my "work/career" has involved thinking about complicated systems,
 which do not readily lend themselves to easy (mathematical or statistical)
 resolution.
-I give Bland Ewing, and my parents, major credit to my embrace of projects
+I give [Bland Ewing](/pages/ewing/#my-involvement-with-bland-ewing), and my parents, major credit to my embrace of projects
 and perspectives that defy simple models and approaches. Interestingly,
 this has led to a broad-based journey on multiple levels, with me sometimes
 doubting the coherence of my approach.

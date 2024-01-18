@@ -7,9 +7,9 @@ Environmental data science (EDS) has been a reoccuring but tangential interest f
 for decades. My work on [systems ethology](/pages/ewing/) involves the study of
 interacting individuals in a complex environment, and for me dates back to the early 1970s.
 
-In the face of challenges of climate change, I have gotten involved in the 2020s with how to empower people to better use data science to tell their environmental stories, whether that be high-end research at scale (big data and big computing) or community groups. While I tried to lead an effort to build an NSF center at UW-Madison, I have been please that [ESIIL](https://esiil.org) was awarded the center at University of Colorado Boulder. I look forward to continuing to work with them in coming years.
+In the face of challenges of climate change, I have gotten involved in the 2020s with how to empower people to better use data science to tell their environmental stories, whether that be high-end research at scale (big data and big computing) or in community groups. While I tried to lead an effort to build an NSF center at UW-Madison, I have been pleased that [ESIIL](https://esiil.org) was awarded that center at University of Colorado Boulder. I look forward to continuing to work with them in coming years.
 
-My efforts to network around EDS put me in touch with several talented [Indigenous Data Scientsists](/pages/indigenous/) who are teaching me much about Data Sovereignty, Traditional Knowledge,
+My efforts to network around EDS put me in touch with several talented [Indigenous Data Scientists](/pages/indigenous/) who are teaching me much about Data Sovereignty, Traditional Knowledge,
 and how we might better collaborate in the future to heal the planet.
 I am curious about how these new conversations and collaborations will evolve my thinking and contributions.
 
