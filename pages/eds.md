@@ -16,3 +16,6 @@ I am curious about how these new conversations and collaborations will evolve my
 - [Environmental Data Science Innovation & Inclusion Lab (ESIIL)](https://esiil.org)
 - [Indigenous Data Science](/pages/indigenous/)
 - [Systems Ethology](/pages/ewing/)
+- [What is Data Science?](/What-is-Data-Science/)
+- [Useful Data Science Quotes](/Useful-Data-Science-Quotes/)
+

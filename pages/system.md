@@ -17,6 +17,7 @@ among projects that have intrigued me for decades.
 - [Systems Genetics](/pages/sysgen/)
 - [Systems Ethology](/pages/ewing/)
 - [Environmental Systems](/pages/envsys/)
+- [Health Systems--Covid19](/pages/covid19/)
 
 ## What is systems thinking?
 
