@@ -26,7 +26,7 @@ Over time, I may add more information on our activities here.
 Our group developed a number of web pages to communicate with
 the public and with decision makers at UW-Madison and health leaders across the state and beyond. Sri talked about our work at UW's Posit Day 2024. Many of those pages are now defunct.
 
-- [Data Science in the Time of Coronavirus, Srikanth Aravamuthan, 17 Jan 2024](https://connect.doit.wisc.edu/posit-day/) [see [UW Posit Day](https://researchci.it.wisc.edu/data-science-platform-sponsored-events/)]]
+- [Data Science in the Time of Coronavirus, Srikanth Aravamuthan, 17 Jan 2024](https://connect.doit.wisc.edu/posit-day/) [see [UW Posit Day](https://researchci.it.wisc.edu/data-science-platform-sponsored-events/)]] [vidwo starts at 2:23:40](https://mediaspace.wisc.edu/media/Posit+Day+2023-01-17+%E2%80%93+morning+session/1_hcbezw5h)]
 - [Paltiel et al. 2020 Covid19 Dashboard](https://connect.doit.wisc.edu/secondary-shock/)
 - [COVID-19 Wastewater Analysis](https://github.com/UW-Madison-DSI/Covid19-Wastewater-Analysis) &
 [Analysis Package](https://github.com/UW-Madison-DSI/Covid19Wastewater)
