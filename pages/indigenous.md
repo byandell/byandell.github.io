@@ -35,7 +35,7 @@ and how we might better collaborate in the future to heal the planet. I am curio
 * [Rising Voices](https://risingvoices.ucar.edu/): Workshops & Activities
 * [Seven Generation Inter-Tribal Leadership Summit](https://www.lco.edu/7gensummit) (LCOOU 29-30 Sep 2022)
 * [Status of Tribes and Climate Change Report (STACC)](https://sites.google.com/view/stacc2021-itep/home)
-* [Traditional Lifeways and Storytelling: Tools for Adaptation and Resilience to Ecosystem Change | SpringerLink](https://link.springer.com/article/10.1007/s10745-019-00113-8) 
+* [Traditional Lifeways and Storytelling--Tools for Adaptation and Resilience to Ecosystem Change](https://link.springer.com/article/10.1007/s10745-019-00113-8) 
 * [Tribal Climate Adaptation Menu](https://forestadaptation.org/tribal-climate-adaptation-menu)
 * [Tribal Exchange Network (TXG)](http://www.tribalexchangenetwork.org/)
   * [Tribal Data Drop-In](https://www.tribalexchangenetwork.org/trainings-events/july-tribal-data-drop-in-session)
