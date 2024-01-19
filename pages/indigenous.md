@@ -49,7 +49,7 @@ and how we might better collaborate in the future to heal the planet. I am curio
 
 * [ESIIL Innovation Summit (annual in May)](https://esiil.org/innovation-summit)
 * [ESIIL Hackathon (annual in Oct/Nov)](https://esiil.org/virtual-hackathon)
-* [Food sovereignty, Native knowledge-keeping part of Indigenous Peoples Day events (8-11 Oct 2023) | CU Boulder Today](https://www.colorado.edu/today/2023/10/06/food-sovereignty-native-knowledge-keeping-part-indigenous-peoples-day-events) 
+* [Food sovereignty, Native knowledge-keeping part of Indigenous Peoples Day events (8-11 Oct 2023, CU Boulder)](https://www.colorado.edu/today/2023/10/06/food-sovereignty-native-knowledge-keeping-part-indigenous-peoples-day-events) 
 * [ADSA Panel: Community-Centered Benefit Sharing and New Data Equities](https://adsaannual2021.sched.com/event/q8Ui) (9 Feb 2022)
     * https://m.youtube.com/watch?v=Q2jb7f_1aNY
     * [Keolu Fox (University of California, San Diego)](https://ifi.ucsd.edu/dr-keolu-fox/) - Moderator
@@ -82,7 +82,7 @@ and how we might better collaborate in the future to heal the planet. I am curio
 ### Menominee
 
 * [Ada Deer, Native American Voice Inside Government and Out, Dies at 88 - The New York Times](https://www.nytimes.com/2023/08/18/us/ada-deer-dead.html) 
-* [Forging Firsts: The Remarkable Life of Ada Deer | Wisconsin Alumni Association](https://www.uwalumni.com/news/forging-firsts-the-remarkable-life-of-ada-deer/) 
+* [The Remarkable Life of Ada Deer (WI Alumni Association)](https://www.uwalumni.com/news/forging-firsts-the-remarkable-life-of-ada-deer/) 
 * Jennifer K. Gauthier (13 Mar 2023, [CESA](https://login.myquickreg.com/register/event/event.cfm?eventid=33325)) Mamaceqtawak: The Movers Strengthening Community Connections to Menominee Ways of Well-Being
 * [Kemāmaceqtaq: Harvest of the Moon](https://menominee.extension.wisc.edu/kemamaceqtaq-were-all-moving/)
 * [Menominee Theoretical Model of Sustainability](https://www.menominee.edu/sustainable-development-institute/about-sdi/the-menominee-theoretical-model-of-sustainability)
@@ -103,9 +103,9 @@ and how we might better collaborate in the future to heal the planet. I am curio
 * [Native American Boarding Schools Took Children's Culture, and Hundreds Died - The New York Times](https://www.nytimes.com/interactive/2023/08/30/us/native-american-boarding-schools.html) 
 * [David R. Beck (2002) Siege & Survival. U NE Press](https://www.nebraskapress.unl.edu/nebraska/9780803213302)
 * [Megan Bang](https://sites.northwestern.edu/meganbang/), Ananda Marin and Douglas Medin (2018) If Indigenous Peoples Stand with the Sciences, Will Scientists Stand with Us? In issue on Unfolding Futures: Indigenous Ways of Knowing for the Twenty-First Century. [Daedalus , Spring 147(2): 148-159.](https://www.amacad.org/publication/if-indigenous-peoples-stand-sciences-will-scientists-stand-us) [https://www.jstor.org/stable/10.2307/48563027](https://www.jstor.org/stable/10.2307/48563027) 
-* [An Introduction to Remote Sensing for Tribal Lands | NASA Applied Sciences](https://appliedsciences.nasa.gov/join-mission/training/english/introduction-remote-sensing-tribal-lands)
-* [State Of the Craft in Research Data Management | globus](https://www.globus.org/blog/state-craft-research-data-management-1) (discusses sovereignty) 
-* [The Missing Millions | RTI International](https://www.rti.org/publication/missing-millions/fulltext.pdf)  
+* [An Introduction to Remote Sensing for Tribal Lands (NASA Applied Sciences)](https://appliedsciences.nasa.gov/join-mission/training/english/introduction-remote-sensing-tribal-lands)
+* [State Of the Craft in Research Data Management (GLOBUS)](https://www.globus.org/blog/state-craft-research-data-management-1) (discusses sovereignty) 
+* [The Missing Millions (RTI International)](https://www.rti.org/publication/missing-millions/fulltext.pdf)  
 * [This Land is Their Land by Hayden Royster](https://alumni.berkeley.edu/california-magazine/2022-summer/this-land-is-their-land/)
     * [Land-Grab Universities Website & Database](https://www.landgrabu.org/)
     * [Land-grab universities (High Country News 2020)](https://www.hcn.org/issues/52.4/indigenous-affairs-education-land-grab-universities)  
