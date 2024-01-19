@@ -9,7 +9,7 @@ and how we might better collaborate in the future to heal the planet. I am curio
 * [Data Sovereignty Course Project](/Data-Sovereignty/)
 * [Organizations and Communities](#organizations-and-communities)
 * [Talks and Events](#data-sovereignty-talks-and-events)
-* [Data Sovereignty Papers and Resources](#data-sovereignty-papers-and-resources)
+* [Papers and Resources](#data-sovereignty-papers-and-resources)
 * [Additional Material](#additional-material)
 
 ### Upcoming Events
