@@ -2,7 +2,7 @@
 layout: default
 ---
 
-I retired in 2023 from the University of Wisconsin-Madison after more than 40 years of academic success.
+I retired in 2023 from the University of Wisconsin-Madison after more than 40 years of academic success in [statistics](https://www.stat.wisc.edu) and [data science](https://datascience.wisc.edu).
 My next direction will be an inspired mix of personal interests and intellectual pursuits.
 
 I am continuing some aspects of my prior research activity,
