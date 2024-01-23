@@ -12,6 +12,7 @@ package.json
 *.Rproj
 .Rhistory
 
+*.html
 _posts/*.html
 pages/*.html
 pages/*/*.html
