@@ -33,7 +33,7 @@ the public and with decision makers at UW-Madison and health leaders across the 
 
 ## Publications
 
-- Currie DW, Moreno GK, Delahoy MJ, Pray IW, Jovaag A, Braun KM, Cole D, Shechter T, Fajardo GC, Griggs C, Yandell BS , Goldstein S, Bushman D, Segaloff H, Kelly GP, Pitts C, Lee C, Grande KM, Kita-Yarbro A, Grogan B, Mader S, Baggott J, Bateman AC, Westergaard RP, Tate JE, Friedrich TC, Kirking HL, O’Connor DH, Killerby ME (2021) Description of a University COVID-19 Outbreak and Interventions to Disrupt Transmission, Wisconsin, August - October, 2020. Emerging Infectious Diseases 27 : 2776–2785. <https://doi.org/10.3201/eid2711.211306>
+- Currie DW, Moreno GK, Delahoy MJ, Pray IW, Jovaag A, Braun KM, Cole D, Shechter T, Fajardo GC, Griggs C, Yandell BS, Goldstein S, Bushman D, Segaloff H, Kelly GP, Pitts C, Lee C, Grande KM, Kita-Yarbro A, Grogan B, Mader S, Baggott J, Bateman AC, Westergaard RP, Tate JE, Friedrich TC, Kirking HL, O’Connor DH, Killerby ME (2021) Description of a University COVID-19 Outbreak and Interventions to Disrupt Transmission, Wisconsin, August - October, 2020. Emerging Infectious Diseases 27 : 2776–2785. <https://doi.org/10.3201/eid2711.211306>
 - Aravamuthan S, Reyes JFM, Yandell BS, Döpfer D (2023) Real-Time Estimation and Forecasting of COVID-19 Cases and Hospitalizations in Wisconsin HERC Regions for Public Health Decision Making Processes. BMC Public Health 23 : 359. <https://doi.org/10.1186/s12889-023-15160-6>
 
 <!--
