@@ -22,6 +22,7 @@ life, including information about my family (protecting privacy of those who are
 - [biking](http://www.ci.madison.wi.us/transp/bicycle.html)
 - [folk music](https://www.stat.wisc.edu/~yandell/music.html)
 - [genealogy](https://www.stat.wisc.edu/~yandell/music.htmlfamily.html)
+  + [Yandell family genealogy](https://pages.stat.wisc.edu/~yandell/family.html)
 
 ## My Chronology
 
