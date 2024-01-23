@@ -26,5 +26,6 @@ siblings.
 - [Systems Thinking](/pages/system/)
 - [Environmental Data Science](/pages/eds/)
 - [Personal Reflections](/pages/reflect/)
+- [Collaboration](/pages/collaborate/)
 - [Software Projects](/pages/software/)
 - [My UW-Madison Page](https://www.stat.wisc.edu/~yandell)

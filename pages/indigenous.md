@@ -42,8 +42,9 @@ and how we might better collaborate in the future to heal the planet. I am curio
 * [UCAR Indigenous data sovereignty & Earth System Sciences](https://ncar.ucar.edu/who-we-are/diversity-inclusion/core-awards/indigenous-data-sovereignty)
 * [US Indigenous Data Sovereignty Network (usindigenousdata.org)](https://usindigenousdata.org/)
 * UW-Madison
-  * [UW Regents Policy on Tribal Consultation](https://www.wisconsin.edu/regents/policies/tribal-consultation/)
+  * [Earth Partnership](https://earthpartnership.wisc.edu)
   * [Native Nations UW Google Group](https://groups.google.com/u/1/a/g-groups.wisc.edu/g/nn_uw-2019)
+  * [UW Regents Policy on Tribal Consultation](https://www.wisconsin.edu/regents/policies/tribal-consultation/)
 
 ## Data Sovereignty Talks and Events
 

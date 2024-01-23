@@ -4,10 +4,25 @@ title: Software Projects
 ---
 
 I began working on software in the 1970s as an undergraduate, both at Caltech and during
-summer employment at UC-Berkeley Entomology (with [Bland Ewing](/pages/ewing)).
+summer employment at UC-Berkeley Entomology (with [Bland Ewing](/pages/ewing)). I played around with [APL](https://xpqz.github.io/learnapl/), [Pascal](https://www.tutorialspoint.com/pascal/), [Fortran](https://fortran-lang.org/) and [Assembly](https://www.tutorialspoint.com/assembly_programming/assembly_introduction.htm) computer languages.
+In one project, I redesigned the Pascal compiler to be able to insert Assembly code for fast computation.
+UC-Berkeley had a CDC 6600 and a 7600 computer, which required users to stand in line with decks of computer cards (think one line of code per piece of cardboard, each fitting in a legal envelope).
+Nevertheless, our team got access through early "high-speed" telephone wires to a computer each in San Francisco and UCLA.
+
 Later as a graduate student at UC-Berkeley, my thesis involved a substantial computing part, along with high-end theory.
+I happened to be in the same building with some of the designers of [4BSD Unix](https://en.wikipedia.org/wiki/History_of_the_Berkeley_Software_Distribution) and some of the popular early Unix tools.
+Networking was rather rudimentary, with a colleague rigging a 2-wire connection between terminals to transfer coded between machines.
+There were still only a few computers on campus,
+with the new generation being [PDP-11 minicomputers](https://en.wikipedia.org/wiki/PDP-11). The UC-Berkeley CS and Stat departments shared a machine with 11 MB for each on a disk the size of a airport-friendly suitcase.
+One day, I watched a colleage trash the [superblock](https://www.techopedia.com/definition/13376/superblock) of this computer, which lost all the pointers to computer file components. I helped him design tools (functions) to recover most of the files from the major crash.
+
 My professor-track employment at UW-Madison involved a careful balance of theoretical work
-(to establish my bonafides) and computational projects (to explore tools and ground ideas in data-driven stories).
+(to establish my bonafides) and computational projects (to explore tools and ground ideas in data-driven stories). That is, I needed to write
+theory papers to justify my tenure case, but managed to back up most of these with computer tools to justify the methodology.
+
+I was actually stretched in a third, important way, through my career-long interest in collaboration. This has involved developing professional relationships with colleagues across campus, and around the world. While some of this work extends existing, or develops new, stats theory, many of my collaborations have involved more attention to the practical aspects of addressing challenging research questions through data analysis and visualization.
+This work led to my book,
+[Practical Data Analysis for Designed Experiments](http://www.stat.wisc.edu/~yandell/pda), along with a companion package, [pda](https://github.com/byandell/pda).
 
 *   [R Software Introduction for Stat 571](https://www.stat.wisc.edu/~yandell/st571/R/)
 *   [R Appendices for the Stat/For/Hort 571 Course Notes](https://www.stat.wisc.edu/~yandell/st571/R/append.html)
