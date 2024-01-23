@@ -5,8 +5,13 @@ permalink: /about/
 ---
 
 I recently retired from UW-Madison after over 40 years.
-See my UW-Madison home page <https://www.stat.wisc.edu/~yandell>.
-The source for my home page is <https://github.com/byandell/byandell.github.io>.
+This involves many transitions, including web presence.
+
+### Home pages
+
+- academic: <https://www.stat.wisc.edu/~yandell>
+- personal: <https://byandell.github.io>
+  + source: <https://github.com/byandell/byandell.github.io>
 
 ### Contact me
 

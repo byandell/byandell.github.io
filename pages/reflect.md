@@ -4,14 +4,17 @@ title: Personal Reflections
 ---
 
 This is a place where I will be placing personal reflections on my
-life, including information about my family (protecting privacy of those who are still with us).
+life, including information about my family (protecting privacy of those who are still with us). I was inspired by creative parents--my
+father as a doctor, scientist and humanist,
+and
+my mother as a child actress, world traveller and
+artist--and see that creative blend in my life and in those of my
+siblings.
 
-- [Peggy Yandell, in Memoriam](https://peggyyandell.wordpress.com/)
+
 - [My Interests](#my-interests)
 - [My Chronology](#my-chronology)
-- [Brian Personal Reflections (restricted video)](https://drive.google.com/file/d/1wHrSzJMmFAd4KoSgSzA7445KIEgGbcGY)
-- [Watson Year (1974-75) Notes and Slides (restricted)](https://docs.google.com/document/d/1H3xS2ISieJT6decYtzpU9NLgl2bunWrH63Cgnkzn5hM)
-- [Brian Story Google Drive (restricted)](https://drive.google.com/drive/folders/1cLPSYhXHzVnnkSZXGdWWjrkadhPWU5Cg)
+- [Peggy Yandell, in Memoriam](https://peggyyandell.wordpress.com/)
 
 ## My Interests
 
@@ -21,7 +24,7 @@ life, including information about my family (protecting privacy of those who are
 - [hiking](http://www.slackpacker.com/map_wi.html)
 - [biking](http://www.ci.madison.wi.us/transp/bicycle.html)
 - [folk music](https://www.stat.wisc.edu/~yandell/music.html)
-- [genealogy](https://www.stat.wisc.edu/~yandell/music.htmlfamily.html)
+- [genealogy](https://www.stat.wisc.edu/~yandell/gene.html)
   + [Yandell family genealogy](https://pages.stat.wisc.edu/~yandell/family.html)
 
 ## My Chronology
@@ -31,8 +34,6 @@ OK, not just personal, but this goes beyond my UW persona.
 [Home Page](https://www.stat.wisc.edu/~yandell/)
 
 [Curriculum Vitae](https://www.stat.wisc.edu/~yandell/vita.pdf)
-
-
 
 * 1970-74 Caltech
     * Birdwatching across southern California, 4 instructors, 3 students
@@ -90,3 +91,9 @@ OK, not just personal, but this goes beyond my UW persona.
         * 2017–23 Director, [Biometry Program](https://biometry.wisc.edu)
         * 2019–22 David R. Anderson Founding Director, [American Family Insurance Data Science Institute](https://datascience.wisc.edu/institute/)
         * Various campus-level committe leads
+        
+## Resources
+
+- [Brian Personal Reflections (restricted video)](https://drive.google.com/file/d/1wHrSzJMmFAd4KoSgSzA7445KIEgGbcGY)
+- [Watson Year (1974-75) Notes and Slides (restricted)](https://docs.google.com/document/d/1H3xS2ISieJT6decYtzpU9NLgl2bunWrH63Cgnkzn5hM)
+- [Brian Story Google Drive (restricted)](https://drive.google.com/drive/folders/1cLPSYhXHzVnnkSZXGdWWjrkadhPWU5Cg)

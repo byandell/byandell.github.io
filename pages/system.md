@@ -18,6 +18,8 @@ among projects that have intrigued me for decades.
 - [Systems Ethology](/pages/ewing/)
 - [Environmental Systems](/pages/envsys/)
 - [Health Systems--Covid19](/pages/covid19/)
+- [communities@uw](https://maps.datascience.wisc.edu/#users/688901)
+- [Knowledge Map](https://datascience.sharedigm.com/cmap/?query=yandell&category=people&info=collaborators)
 
 ## What is systems thinking?
 

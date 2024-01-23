@@ -9,7 +9,9 @@ Examples of these can be found in my academic [CV](https://pages.stat.wisc.edu/~
 while others are in my book, 
 [Practical Data Analysis for Designed Experiments](http://www.stat.wisc.edu/~yandell/pda).
 
-Beyond my direct collaborations, I have strived
+Beyond
+[my direct collaborations](https://datascience.sharedigm.com/cmap/?query=yandell&category=people&info=collaborators),
+I have strived
 to foster collaboration in multiple ways.
 For most of my faculty life, I was a member of the Biometry Program, a collaboration between the Statistics Department and the College of Agricultural & Life Sciences (CALS),
 directing that program for my last six years.
@@ -30,5 +32,9 @@ This collaboration includes personal connections
 and data-rich story telling about how technology
 and data science will be used effectively to
 shorten [knowledge turns](https://impolitegeography.wordpress.com/2012/12/10/what-is-the-knowledge-turn-and-why-does-it-matter/).
+
+- [Knowledge Map](https://datascience.sharedigm.com/cmap/?query=yandell&category=people&info=collaborators)
+
+## Resources
 
 * [Stats Collaboration Box](https://uwmadison.app.box.com/folder/198764997699) (restricted)
