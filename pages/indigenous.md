@@ -143,6 +143,7 @@ and how we might better collaborate in the future to heal the planet. I am curio
 * [Erik Ness (2023 Isthmus) We’re in our forever home](https://isthmus.com/news/cover-story/ojibwe-fight-enbridge-pipeline-on-bad-river/) 
 * [UW Press - : Spirits of Earth: The Effigy Mound Landscape of Madison and the Four Lakes, Robert A. Birmingham](https://uwpress.wisc.edu/books/3734.htm) 
 
+<!--
 ## Additional Material
 
 The above list I curated over time. Additional (restricted) resources include the following:
@@ -152,4 +153,5 @@ The above list I curated over time. Additional (restricted) resources include th
 * [Yandell ESIIL Google Folder (restricted)](https://drive.google.com/drive/u/1/folders/19pwBLpKVDbk5KrYVSba_w20T_3RfJQti)
 * [Yandell Inclusion and Bio/Eco/Env Synthesis (Box Notes)](https://uwmadison.app.box.com/file/787813586808)
 * [Yandell Inclusion Notes for NC-NODES](https://docs.google.com/document/d/1XMQvx1f7o5lNoYmL38dl_QaWVRXVUvPJjcB7fF9DaSA) 
+-->
 

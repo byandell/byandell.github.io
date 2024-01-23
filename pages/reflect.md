@@ -71,7 +71,7 @@ OK, not just personal, but this goes beyond my UW persona.
         * 2023— Professor Emeritus 
     * Sabbaticals
         * 1990 Spring: Visiting Fellow, Departments of Statistics, University of Glasgow and University of Strathclyde, Scotland (M Titterington, BD Ripley).
-        * 2001-02 at home: consulting and brith of Zoey
+        * 2001-02 at home: consulting and birth of Zoey
         * 2016-17 at home: data science
     * Research
         * 1990-2002 Flowering Time for Brassica Rape Seed
@@ -91,9 +91,11 @@ OK, not just personal, but this goes beyond my UW persona.
         * 2017–23 Director, [Biometry Program](https://biometry.wisc.edu)
         * 2019–22 David R. Anderson Founding Director, [American Family Insurance Data Science Institute](https://datascience.wisc.edu/institute/)
         * Various campus-level committe leads
-        
+   
+<!--     
 ## Resources
 
 - [Brian Personal Reflections (restricted video)](https://drive.google.com/file/d/1wHrSzJMmFAd4KoSgSzA7445KIEgGbcGY)
 - [Watson Year (1974-75) Notes and Slides (restricted)](https://docs.google.com/document/d/1H3xS2ISieJT6decYtzpU9NLgl2bunWrH63Cgnkzn5hM)
 - [Brian Story Google Drive (restricted)](https://drive.google.com/drive/folders/1cLPSYhXHzVnnkSZXGdWWjrkadhPWU5Cg)
+-->

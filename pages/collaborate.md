@@ -35,6 +35,8 @@ shorten [knowledge turns](https://impolitegeography.wordpress.com/2012/12/10/wha
 
 - [Knowledge Map](https://datascience.sharedigm.com/cmap/?query=yandell&category=people&info=collaborators)
 
+<!--
 ## Resources
 
 * [Stats Collaboration Box](https://uwmadison.app.box.com/folder/198764997699) (restricted)
+-->
