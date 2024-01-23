@@ -6,6 +6,8 @@ permalink: /about/
 
 I recently retired from UW-Madison after over 40 years.
 This involves many transitions, including web presence.
+[Coaching](/pages/coach/) has been an excellent aid in strategizing about
+this personal transformation.
 
 ### Home pages
 
