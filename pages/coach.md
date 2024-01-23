@@ -20,6 +20,8 @@ Recently, I have been working with a retirement coach to chart a different
 type of path forward.
 This web site is only part of that path.
 
+![](../images/cotter.jpg)
+
 ## Links
 
 - [What is Retirement/Life Coaching?](https://www.newretirement.com/retirement/retirement-coach-can-help-you-have-a-better-retirement/)
