@@ -31,9 +31,27 @@ contribute to [environmental data science](/pages/eds/) and [Indigenous data sci
 This collaboration includes personal connections
 and data-rich story telling about how technology
 and data science will be used effectively to
-shorten [knowledge turns](https://impolitegeography.wordpress.com/2012/12/10/what-is-the-knowledge-turn-and-why-does-it-matter/).
+shorten [knowledge turns](#knowledge-turns).
 
-- [Knowledge Map](https://datascience.sharedigm.com/cmap/?query=yandell&category=people&info=collaborators)
+- [UW Knowledge Map](https://datascience.sharedigm.com/cmap/?query=yandell&category=people&info=collaborators)
+
+## Knowledge Turns
+
+I first learned about "knowledge turns" from a talk by [Josh Sommer, Chordoma Foundation](https://www.chordomafoundation.org/) at the [2010 Sage Congress](https://sagebionetworks.org/events/commons-congress-2010-2012/).
+He talked about how scientists with labs next door might not hear about each
+others' ideas until in turns through colleagues at some distance. That is,
+the knowledge turns with distant colleagues may be quick (due to meeting at
+conferences or otherwise collaborating) while the knowledge turns from
+immediate colleagues may be long (due to primary focus on department mechanics,
+etc.). Josh showed the following quote:
+
+"The dominant cause for [the] discrepancy [between progress in the healthcare and microchip industries] appears to lie in the disparate rates of knowledge turns between the 2 industries.... Knowledge turns are indicators of the time it takes for an experiment to proceed from hypothesis to results and then lead to a new hypothesis and a new result." Grove AS. Efficiency in the Health Care Industries: A View From the Outside. JAMA. 2005;294(4):490–492. <https://doi.org/10.1001/jama.294.4.490>
+
+- [What is the ‘knowledge turn’ and why does it matter?](https://impolitegeography.wordpress.com/2012/12/10/what-is-the-knowledge-turn-and-why-does-it-matter/)
+- [After the knowledge turn? Politics and pedagogy](https://www.tandfonline.com/doi/full/10.1080/09585176.2019.1601844)
+- [Knowledge Turns: A Quick Check](https://www.kee-inc.com/kturns.htm)
+- [Opening Doors: A Turn to Knowledge](https://onlinelibrary.wiley.com/doi/abs/10.1111/hith.12179)
+
 
 <!--
 ## Resources
