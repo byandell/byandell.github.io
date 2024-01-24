@@ -19,6 +19,11 @@ and how we might better collaborate in the future to heal the planet. I am curio
 
 ## Organizations and Communities
 
+This list is primarily about Indigenous data science, but includes other links
+pertinent to EDS and climate change.
+
+* [350 WI](https://350wisconsin.org/)
+* [Digital Mappa](https://www.digitalmappa.org/)
 * [Enrich Hub](https://www.enrich-hub.org/)  
 * [Environmental Data Science Innovation & Inclusion Lab (ESIIL)](https://esiil.org)
 * [Geoscience Alliance](https://geosciencealliance.org) 
@@ -32,6 +37,7 @@ and how we might better collaborate in the future to heal the planet. I am curio
 * [National Conference of American Indians](https://www.ncai.org/)
 * [Native Land Digital Map](https://native-land.ca/)
 * [Native Nations Institute: Indigenous Data Sovereignty and Governance](https://nni.arizona.edu/programs-projects/policy-analysis-research/indigenous-data-sovereignty-and-governance) (U AZ)
+* [Project DrawDown](https://drawdown.org/)
 * [Rising Voices](https://risingvoices.ucar.edu/): Workshops & Activities
 * [Seven Generation Inter-Tribal Leadership Summit](https://www.lco.edu/7gensummit) (LCOOU 29-30 Sep 2022)
 * [Status of Tribes and Climate Change Report (STACC)](https://sites.google.com/view/stacc2021-itep/home)

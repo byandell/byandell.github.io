@@ -11,8 +11,7 @@ while others are in my book,
 
 Beyond
 [my direct collaborations](https://datascience.sharedigm.com/cmap/?query=yandell&category=people&info=collaborators),
-I have strived
-to foster collaboration in multiple ways.
+I have strived to foster collaboration in multiple ways.
 For most of my faculty life, I was a member of the Biometry Program, a collaboration between the Statistics Department and the College of Agricultural & Life Sciences (CALS),
 directing that program for my last six years.
 This involved coordinating a team of academic staff and graduate students who met periodically
