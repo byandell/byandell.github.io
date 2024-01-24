@@ -20,7 +20,7 @@ Recently, I have been working with a retirement coach to chart a different
 type of path forward.
 This web site is only part of that path.
 
-![](../images/cotter.jpg)
+<img src="../images/cotter.jpg" height="100" />
 
 ## Links
 
