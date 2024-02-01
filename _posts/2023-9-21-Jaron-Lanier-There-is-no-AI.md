@@ -43,7 +43,7 @@ preserved provenance. Now A.I. is revealing the true costs of ignoring this appr
 
 - Jaron Lanier Web Page 
   + There is No A.I. ([Nelson Series, Harvey Mudd College](https://www.hmc.edu/calendar/nelson-speaker-series/), 20 Sep 2023)
-  + [There Is No A.I. | The New Yorker](https://www.newyorker.com/science/annals-of-artificial-intelligence/there-is-no-ai) (Jaron Lanier, 20 Apr 2023) [subscription after one view]
+  + [There Is No A.I. (The New Yorker)](https://www.newyorker.com/science/annals-of-artificial-intelligence/there-is-no-ai) (Jaron Lanier, 20 Apr 2023) [subscription after one view]
   + [Jaron Lanier - Wikipedia](https://en.wikipedia.org/wiki/Jaron_Lanier) 
 - Jaron Lanier: How humanity can defeat AI (UnHerd's Flo Read interview, YouTube 2023) 
   + absolute knowledge is a matter of faith
