@@ -57,5 +57,5 @@ _ Vannevar Bush
   + see [movie clip from Werner Herzog](https://www.youtube.com/watch?v=Bqx6li5dbEY)
   + interconnection, representation, sequentialization
 - ChatGPT
-  + [ChatGPT, Explained](https://www.youtube.com/watch?v=fxPoX5llT04). <https://youtu.be/CgHuGp8Tz0g?si=oEtzHzrefo7xikEB> (Jerry Zhu, Fred Sala, UW-Madison) 
+  + [ChatGPT, Explained](https://youtu.be/CgHuGp8Tz0g?si=oEtzHzrefo7xikEB) (Jerry Zhu, Fred Sala, UW-Madison) 
   + [What Is ChatGPT Doing … and Why Does It Work?—Stephen Wolfram Writings](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/) 
