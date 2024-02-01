@@ -50,7 +50,7 @@ preserved provenance. Now A.I. is revealing the true costs of ignoring this appr
   + pragmatic decision process: drawing a circle around your universe
   + Alan Watts: morality is like gravity, all relative
   + mashup from people of data constrained by human wishes
-_ Vannevar Bush
+- Vannevar Bush
   + [As We May Think - The Atlantic](https://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/) (Vannevar Bush, July 1945)
   + [Vannevar Bush in 1945](https://en.wikipedia.org/wiki/As_We_May_Think) (Wikipedia)
 - Ted Nelson Web Site
