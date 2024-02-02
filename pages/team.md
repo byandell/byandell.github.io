@@ -12,7 +12,7 @@ I learned some tough lessons about how to lead and collaborate as associate chai
 [Statistics Department](https://stat.wisc.edu).
 While I played a major role in transforming the department's mission (see
 [Data, Models and Statistics](/Data-Models-and-Statistics))
-and made possible department expansion of teaching staff, and led or co-led development of multiple innovative degree programs,
+enabled substantial expansion of academic staff, and fostered development of multiple innovative degree programs,
 I fell short in team-building and fostering broad "buy-in".
 During that time, I began taking various leadership trainings, which led later to [coaching](/pages/coach/) as I founded the
 [Data Science Institute](https://datascience.wisc.edu/institute).
