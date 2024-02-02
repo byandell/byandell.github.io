@@ -24,7 +24,9 @@ I continued this spirit of collaboration into
 the creation of the [Data Science Hub](https://datascience.wisc.edu/hub) (co-creator) and the [Data Science Institute](https://datascience.wisc.edu/institution) (founding director).
 
 I collaborate by catalyzing partnerships widely,
-bringing together people with common interests who might not otherwise find each other. 
+bringing together people with common interests who might not otherwise find each other.
+Central to this process is [team leadership](/pages/team/),
+fostering leadership among team partners.
 I think this is a crucial way in which I 
 contribute to [environmental data science](/pages/eds/) and [Indigenous data science](/pages/indigenous/).
 This collaboration includes personal connections
@@ -32,6 +34,13 @@ and data-rich story telling about how technology
 and data science will be used effectively to
 shorten [knowledge turns](#knowledge-turns).
 
+- [Yandell CV](https://pages.stat.wisc.edu/~yandell/vita.pdf)
+- [Practical Data Analysis for Designed Experiments](http://www.stat.wisc.edu/~yandell/pda) (book & package)
+- [Data Science Hub](https://datascience.wisc.edu/hub) (co-creator)
+- [Data Science Institute](https://datascience.wisc.edu/institution) (founder)
+- [Team Leadership](/pages/team/)
+- [Environmental Data Science](/pages/eds/)
+- [Indigenous Data Science](/pages/indigenous/)
 - [UW Knowledge Map](https://datascience.sharedigm.com/cmap/?query=yandell&category=people&info=collaborators)
 
 ## Knowledge Turns
