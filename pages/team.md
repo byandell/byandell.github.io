@@ -15,7 +15,7 @@ While I played a major role in transforming the department's mission (see
 enabled substantial expansion of academic staff, and fostered development of multiple innovative degree programs,
 I fell short in team-building and getting broad "buy-in" from faculty.
 During that time, I began taking various leadership trainings, which led later to [coaching](/pages/coach/) as I founded the
-[Data Science Institute](https://datascience.wisc.edu/institute).
+[Data Science Institute (DSI)](https://datascience.wisc.edu/institute).
 I made many mistakes along the way, grounds for substantial personal and professional growth.
 
 ## My teams as case studies 
@@ -34,7 +34,7 @@ Recently, I have been teaming up with [UW Earth Partnership](https://earthpartne
 
 * [Data, Models and Statistics, 29 Feb 2012](/Data-Models-and-Statistics)
 * [Data Rich Story Telling, 14 Apr 2015](https://docs.google.com/presentation/d/1eLpGkyVni2AYGCz0RzsyJ2G0UIT38PV8QATtYCrQXuY)
-* [Data Science Institute Covid-19 Research Group Presentations, 2020-2022](/pages/covid19#presentations)
+* [DSI Covid-19 Research Group Presentations, 2020-2022](/pages/covid19#presentations)
 * [DSI Founding Director Overview, 1 Jun 2021](https://docs.google.com/presentation/d/1sYxnN0Fwm1EM2GC7Vk97IsHs62vi3p6hrwwD_U6ts4Y)
 * [Stats Collaboration, 22 Jan 2023](https://docs.google.com/presentation/d/1Md6s17XdROAkViLT7ughd-Ps_yEXcqR25MCFORWpgck)
 * [Bird's Eye View of QTLs, 9 Nov 2023](https://docs.google.com/presentation/d/1UPueI38aK_yRJUWviHR-eNJRRFVR9f-EOWpLpUMQASU)
