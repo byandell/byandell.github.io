@@ -33,7 +33,7 @@ This web site is only part of that path.
 * [Bill Isaacs (1999) Dialogue and the Art of Thinking Together](https://books.google.com/books/about/Dialogue.html?id=cBbxXWEUFsoC)
 * [Frederic Laloux (2014) Reinventing Organizations](http://www.reinventingorganizations.com/uploads/2/1/9/8/21988088/140305_laloux_reinventing_organizations.pdf)
 * [Pat Lencioni (2002) The Five Dysfunctions of a Team](https://www.talentsquare.com/blog/book-summary-the-five-dysfunctions-of-a-team/)
-* Houston we have a Problem
+* [Houston we have a Problem](https://en.wikipedia.org/wiki/Houston,_we_have_a_problem)
 * [Influencer: the new science of leading change](https://docs.google.com/document/d/1jv_3e4Q4DCj878OEy3g_DE9GzXjvpUKNLPs59mtbBGE/edit#heading=h.s6mbs0xthvwz) by Joseph Grenny et al.
 * [Bob Anderson](#bob-anderson)
 * [Susan Cook-Greuter](#susan-cook-greuter)
