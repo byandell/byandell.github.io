@@ -28,4 +28,6 @@ Recently, I have been teaming up with [UW Earth Partnership](https://earthpartne
 * [DSI Founding Director Overview, 1 Jun 2021](https://docs.google.com/presentation/d/1sYxnN0Fwm1EM2GC7Vk97IsHs62vi3p6hrwwD_U6ts4Y)
 * [Data Science Institute Covid-19 Research Group](/pages/covid19#presentations)
 
+<!---
 ## Team skills/training/carpentry
+--->
