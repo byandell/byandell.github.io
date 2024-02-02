@@ -8,6 +8,17 @@ It is not about who is the leader of the team, but the process of building confi
 This includes skill building but is not about skills _per se_.
 It involves competencies, both core technical competence and interpersonal and cultural competence.
 
+I learned some tough lessons about how to lead and collaborate as associate chair and later chair of the
+[Statistics Department](https://stat.wisc.edu).
+While I played a major role in transforming the department's mission (see
+[Data, Models and Statistics](/Data-Models-and-Statistics))
+and made possible department expansion of teaching staff, and led or co-led development of multiple innovative degree programs (see
+[stat.wisc.edu](https://stat.wisc.edu),
+I fell short in team-building and fostering broad "buy-in".
+During that time, I began taking various leadership trainings, which led later to [coaching](/pages/coach/) as I founded the
+[Data Science Institute](https://datascience.wisc.edu/institute).
+I made many mistakes along the way, grounds for substantial personal and professional growth.
+
 ## My teams as case studies 
 
 The slide decks below illustrate my experiences leading and being in teams. Each team member has multiple roles and perspectives, which influence their path toward multiple competencies.
@@ -27,6 +38,7 @@ Recently, I have been teaming up with [UW Earth Partnership](https://earthpartne
 * [Bird's Eye View of QTLs, 9 Nov 2023](https://docs.google.com/presentation/d/1UPueI38aK_yRJUWviHR-eNJRRFVR9f-EOWpLpUMQASU)
 * [DSI Founding Director Overview, 1 Jun 2021](https://docs.google.com/presentation/d/1sYxnN0Fwm1EM2GC7Vk97IsHs62vi3p6hrwwD_U6ts4Y)
 * [Data Science Institute Covid-19 Research Group](/pages/covid19#presentations)
+* [Data, Models and Statistics, 29 Feb 2012](/Data-Models-and-Statistics)
 
 <!---
 ## Team skills/training/carpentry
