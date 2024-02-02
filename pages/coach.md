@@ -20,9 +20,7 @@ Recently, I have been working with a retirement coach to chart a different
 type of path forward.
 This web site is only part of that path.
 
-<center>
 ![](../images/cotter.jpg)
-</center>
 
 ## Coaching Books and Resources
 
