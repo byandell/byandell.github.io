@@ -15,6 +15,7 @@ siblings.
 - [My Interests](#my-interests)
 - [My Chronology](#my-chronology)
 - [Peggy Yandell, in Memoriam](https://peggyyandell.wordpress.com/)
+- [Paul Yandell Art Page](https://yandellart.com)
 
 ## My Interests
 

@@ -19,7 +19,14 @@ Our collaborations helped WSLH get awarded a [CDC Center of Excellence for waste
   + [Covid Fairness](https://news.wisc.edu/research-aims-to-give-everyone-a-fair-shot-at-accessing-covid-19-vaccines/)
   
 Over time, I may add more information on our activities here.
-  
+
+## Presentations
+
+* [DSI Covid-19 Research Group, 12 Apr 2020](https://docs.google.com/presentation/d/11j7af3mf0xCctFv00mi4sTsGZi_oTBWHBheB7wuUYgg)
+* [COVID-19 Campus Models, 29 Jul 2020](https://docs.google.com/presentation/d/1UVYdV5Vu_36-8OYbz9jZAkWboMq3JbQ7ssS4jX4fSAM)
+* [DSI Covid-19 Research Group, 9 Feb 2021](https://docs.google.com/presentation/d/1v6tUZTbQda_RIK7Pb-s4wmUTfzNkj99h4St8lEmznZI)
+* [DSI Wastewater Team, 6 Sep 2022](https://docs.google.com/presentation/d/129i2G5avbnLZrWV5fC_HPJeQQjpsGm8bBJjtHvV2bc8)
+
 ## Web Pages
 
 Our group developed a number of web pages to communicate with

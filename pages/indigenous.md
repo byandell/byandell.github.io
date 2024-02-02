@@ -107,6 +107,13 @@ pertinent to EDS and climate change.
 
 ## Data Sovereignty Papers and Resources
 
+* Lakota
+  * [Lakota Nation vs United States](https://www.lakotanationvsus.movie/) (movie)
+  * [120 Years of Lakota History on Calendar (Smithsonian)](https://www.smithsonianmag.com/smithsonian-institution/120-years-lakota-history-on-calendar-180953641/)
+  * [Why ancient calendars still rule the world (Nature)](https://www.bbc.com/reel/playlist/hidden-histories?vpid=p0fh38ts) (movie)
+  * [Calendars Then and Now (Lakota Times)](https://www.lakotatimes.com/articles/calendars-then-and-now/)
+  * [Lakota Seasons & Moon Phases](https://aktalakota.stjo.org/lakota-seasons-moon-phases/)
+
 * [Native American Boarding Schools Took Children's Culture, and Hundreds Died - The New York Times](https://www.nytimes.com/interactive/2023/08/30/us/native-american-boarding-schools.html) 
 * [David R. Beck (2002) Siege & Survival. U NE Press](https://www.nebraskapress.unl.edu/nebraska/9780803213302)
 * [Megan Bang](https://sites.northwestern.edu/meganbang/), Ananda Marin and Douglas Medin (2018) If Indigenous Peoples Stand with the Sciences, Will Scientists Stand with Us? In issue on Unfolding Futures: Indigenous Ways of Knowing for the Twenty-First Century. [Daedalus , Spring 147(2): 148-159.](https://www.amacad.org/publication/if-indigenous-peoples-stand-sciences-will-scientists-stand-us) [https://www.jstor.org/stable/10.2307/48563027](https://www.jstor.org/stable/10.2307/48563027) 

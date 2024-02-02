@@ -59,3 +59,6 @@ preserved provenance. Now A.I. is revealing the true costs of ignoring this appr
 - ChatGPT
   + [ChatGPT, Explained](https://youtu.be/CgHuGp8Tz0g?si=oEtzHzrefo7xikEB) (Jerry Zhu, Fred Sala, UW-Madison) 
   + [What Is ChatGPT Doing … and Why Does It Work?—Stephen Wolfram Writings](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/) 
+- [AI Powered Search Engine Perplexity (NY Times 2024)](https://www.nytimes.com/2024/02/01/technology/perplexity-search-ai-google.html)
+
+_Updated on February 1, 2024_
