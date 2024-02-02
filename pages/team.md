@@ -30,7 +30,7 @@ have been a prominent part of my research collaborations, blending teams of biol
 As 
 [DSI Founding Director](https://docs.google.com/presentation/d/1sYxnN0Fwm1EM2GC7Vk97IsHs62vi3p6hrwwD_U6ts4Y),
 I oversaw multiple teams to first create and build the center, and later collaborate with other [teams to address the Covid-19 pandemic](/pages/covid19#presentations).
-Recently, I have been teaming up with [UW Earth Partnership](https://earthpartnership.wisc.edu/pre-college-opportunities-for-native-youth-in-wi/) and [NSF's ESIIL](https://esiil.org) on [Indigenous pathways to environmental data science](/pages/Indigenous/).
+Recently, I have been teaming up with [UW Earth Partnership](https://earthpartnership.wisc.edu/pre-college-opportunities-for-native-youth-in-wi/) and [NSF's ESIIL](https://esiil.org) on [Indigenous pathways to environmental data science](/pages/indigenous/).
 
 * [Data, Models and Statistics, 29 Feb 2012](/Data-Models-and-Statistics)
 * [Data Rich Story Telling, 14 Apr 2015](https://docs.google.com/presentation/d/1eLpGkyVni2AYGCz0RzsyJ2G0UIT38PV8QATtYCrQXuY)
