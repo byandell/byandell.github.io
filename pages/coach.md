@@ -47,147 +47,70 @@ This web site is only part of that path.
 * [Leadership Circle Self-Assessment](https://self-assessment.theleadershipcircle.com/welcome) 
 ([Tool](https://self-assessment.theleadershipcircle.com/en-US/reports))
 
-basic idea
-
-* transformation to more creative mindset
-  * socialize mind
-  * self-authoring mind
-* bottom : reactive
-* top : creative, self-authoring
-
-### Introduction
-
-* designed to transform leadership to next level of effectiveness
-* integrated model of leadership effectiveness and how it develops
-* ways to measure and track progress
-* change belief and behavior to yield predictable results
-* second half: deep inner work
-
-### 1 The Promise of Leadership
-
-**4 universal promises of leadership**
+The basic idea of Anderson and Adams's "Mastering Leadership" is to transform oneself to a more creative mindset involving socializing and self-authoring mind. This is represented in a wheel with the bottom for reactive (less desirable) and the top for creative self-authoring (more desirable). The goal is to transform oneself from the bottom to the top in multiple ways to realize each next level of effectiveness. Anderson developed an integrated model of leadership effectiveness and how it develops, with ways to measure and track progress. That is, change belief and behavior to yield predictable results.
+This method recognized four **universal promises of leadership**
 
 * Set the right direction and create meaningful work
 * Engage all stakeholders and hold them accountable for performance
 * Ensure that processes and systems facilitate focus and execution
 * Maintain relationships of trust to achieve and sustain results
 
-### 2 Leadership Effectiveness and Business Performance
-
-what is your leadership quotient?
-
-### 3 Mastery and Maturity, Consciousness and Complexity
-
-* outer game
-    * leadership process: rhythm & management
-    * leadership competencies
-* inner game
-    * evolving leadership consciousness
-* inner game runs the outer game
-
-**four foundational premises**
+The process involves balancing the outer game (leadership competencies and process: rhythm & management) with the inner game (evolving leadership consciousness). The inner game runs the outer game based on four **foundational premises**
 
 * structure determines performance
 * you are a structure
-* consciousness is operating system of performance
+* consciousness is the operating system of performance
 * to achieve higher performance, you must be restructured
 
-### 4 Stages of Development
+**Mind development** passes through four stages: 
+egocentric (self-sovereigning);
+reactive (socialized);
+creative (self-authoring);
+and integral (self-transforming).
+These lead ultimately to a transcendent unitive mind. Leadership involves transforming oneself through these development stages, moving oneself around the wheel from complying to achieving, controlling to relating, and protecting to creative (self aware, authentic, systems aware).
 
-* egocentric: self-sovereign mind
-* reactive: socialized mind
-* creative: self-authoring mind
-* integral: self-transforming mind
-* unitive
+Anderson and Adams focus on six **systems of organizational effectiveness**:
+leadership (vision & value, strategy & approach, structure & alignment);
+effective communication (leading to organizational meaning in context);
+accountability (clarity of import, expectations and consequences aligned with performance);
+delivery (simple processes, internally efficient, locally responsive, globally adaptable);
+performance; and
+measurement.
+They identify three **core reactive types** in moving from patriarchy to partnership:
+heart (complying);
+will (controlling); and
+head (protecting).
+The path toward balancing these involves six **practices**:
+discerning purpose;
+distilling vision;
+knowing doubts & fears;
+engaging in authentic, courageous dialogue;
+developing intuition, open to inspiration; and
+thinking systematically.
+Integration involves seeing the entire development spectrum, holding onto unresolvedness, conflict, and tension.
 
-### 5 Five Levels of Leadership
-
-* egocentric leadership
-* reactive leadership
-* creative leadership
-* integral leadership
-* unitive leadership
-
-### 6 The Universal Model and Metrics
-
-complying to achieving; controlling to relating; protecting to creative (self aware, authentic, systems aware)
-
-### 7 The Leadership System
-
-**six systems of organizational effectiveness**
-
-* leadership
-  * vision & value; strategy & approach; structure & alignment
-* communication
-  * effective communication -> organizational meaning -> context
-* accountability
-  * clarify importance and expectations
-  * align consequences with performance
-* delivery
-  * simple processes, internally efficient, locally responsive, globally adaptable
-* performance
-* measurement
-
-### 8 Reactive Leadership
-
-**two primary movements**
-
-* motive: safety to purpose
-    * approval to vision
-    * reactive to creative structure of mind
-* identity: outside in to inside out
-
-### 9 Reactive Leadership at Work
-
-**three core reactive types**
-moving from patriarchy to partnership as 2 journeys
-
-* heart: complying
-* will: controlling
-* head: protecting
-
-### 10 Creative Leadership
-
-**two currents of transformation**
-
-### 11 Six Leadership Practices
-
-* discerning purpose
-* distilling vision
-* knowing doubts & fears
-* engaging in authentic, courageous dialogue
-* developing intuition, open to inspiration
-* thinking systematically
-
-### 12 Integral Leadership
-
-* seeing entire development spectrum
-* holding unresolvedness, conflict, tension
-
-### 13 Unity
-
-* We surf on the ocean, experiencing ups and downs of wave life
-* Ultimate fulfillment: awake from the dream of our separate wave-ness
-
-**two arguments for development**
-
-* if you want to develop mastery in the art of leadership, a mature Structure of Mind is required.
-* development into mature Structures of Mind and Identity is preliminary to breakthrough to Unity, the arduous work of surrendering identity altogether
+Unity is a more ethereal, philosophical level in which "we surf on the ocean", experiencing ups and downs of wave life, with ultimate fulfillment by awakening from the dream of our separate wave-ness. This involes recognizing that if you want to develop mastery in the art of leadership, a mature **Structure of Mind** is required. However, development into this mature identity is preliminary to breakthrough to unity, the arduous work of surrendering identity altogether.
 
 ## Susan Cook-Greuter
 
-After 4 decades, … I now focus on writing about my discoveries and concerns…. I shifted my attention from adult development theories to re-exploring values and character development…. I [am] writing the book on ego development theory from a perspective that includes an appreciation of [non-WEIRD definitions](https://wiki.p2pfoundation.net/WEIRD_vs_Non-WEIRD_Psychology_and_Culture) of what it means to be a person in Indigenous cultures…. Our separate self-sense in the West has caused much of the trouble we are in now having exploited nature for our own benefit and to the detriment of overall well-being of our home…. As a member of [Integral Africa](https://www.thecoachingcentre.co.za/), we explore "how to do human better" and "how to become better ancestors." 
-[Susanne Cook-Greuter](https://integrallife.com/author/susanne-cook-greuter/) ([LinkedIn](https://www.linkedin.com/in/susanne-cook-greuter-60056322b/)) 
+[The MAP (Maturity Profile for Leaders)](https://robinsoncoaching.com/wp-content/uploads/2020/03/Doc_B___MAP_Brochure_Combo_Sept_2019.pdf) explains an important assessment tool developed by Cook-Greuter over four decades.
 
-* [Vertical Development](https://verticaldevelopment.com/) 
-  * Horizontal development: acquires experience and knowledge, as well as new skills and competencies
-  * Vertical development: fosters growth of new perspectives and greater ability to handle difficult problems
-* Integral+Life: adult developmental process
+'After 4 decades, … I now focus on writing about my discoveries and concerns…. I shifted my attention from adult development theories to re-exploring values and character development…. I [am] writing the book on ego development theory from a perspective that includes an appreciation of [non-WEIRD definitions](https://wiki.p2pfoundation.net/WEIRD_vs_Non-WEIRD_Psychology_and_Culture) of what it means to be a person in Indigenous cultures…. Our separate self-sense in the West has caused much of the trouble we are in now having exploited nature for our own benefit and to the detriment of overall well-being of our home…. As a member of [Integral Africa](https://www.thecoachingcentre.co.za/), we explore "how to do human better" and "how to become better ancestors."' 
+[Susanne Cook-Greuter](https://integrallife.com/author/susanne-cook-greuter/) ([LinkedIn](https://www.linkedin.com/in/susanne-cook-greuter-60056322b/)). 
+Listen to her on the
+[Deep Transformation Podcast](https://deeptransformation.io/?s=cook-greuter).
+
+Cook-Greuter emphasizes
+[Vertical Development](https://verticaldevelopment.com/),
+which fosters growth of new perspectives and greater ability to handle difficult problems,
+as opposed to the typical
+Horizontal Development,
+which involves acquiring experience and knowledge, as well as new skills and competencies.
+This area is known as the adult developmental process, embodied in [Integral+Life](https://integrallife.com). 
+
   * [The Stages of Leadership Maturity – Integral Life](https://integrallife.com/stages-leadership-maturity/) 
   * [Integral Life Images](https://integrallife.com/stages-leadership-maturity/#gallery-image/2)
   * [Maturity Assessment Profile (MAP) - Fenix Leadership Consulting](https://www.fenixleadershipconsulting.com/services/coaching/map-assessment/)
-  * [THE MAP](https://robinsoncoaching.com/wp-content/uploads/2020/03/Doc_B___MAP_Brochure_Combo_Sept_2019.pdf)
-* [Deep Transformation Podcast](https://deeptransformation.io/?s=cook-greuter) 
 
 <!--
 ## Resources
