@@ -2,7 +2,7 @@
 layout: default
 ---
 
-I retired in 2023 from the University of Wisconsin-Madison after more than 40 years of academic success in [stats](https://www.stat.wisc.edu) and [data science](https://datascience.wisc.edu)[^1].
+I retired in 2023 from the University of Wisconsin-Madison after more than 40 years of academic success in [stats](https://www.stat.wisc.edu) and [data science](https://datascience.wisc.edu)<sup>[^1]</sup>.
 My next direction will be an inspired mix of personal interests and intellectual pursuits.
 
 [^1]: I am [professor emeritus](https://hr.wisc.edu/docs/retirement-emeritus-status.pdf) in [stats](https://www.stat.wisc.edu) and an [affiliate](https://datascience.wisc.edu/institute/dsi-affiliates-list/) of the [DSI](https://datascience.wisc.edu/institute).
