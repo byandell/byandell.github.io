@@ -47,10 +47,10 @@ shorten [knowledge turns](#knowledge-turns).
 
 I first learned about "knowledge turns" from a talk by [Josh Sommer, Chordoma Foundation](https://www.chordomafoundation.org/) at the [2010 Sage Congress](https://sagebionetworks.org/events/commons-congress-2010-2012/).
 He talked about how scientists with labs next door might not hear about each
-others' ideas until in turns through colleagues at some distance. That is,
-the knowledge turns with distant colleagues may be quick (due to meeting at
+others' ideas until hearing about them from colleagues at some distance. That is,
+the knowledge turns with distant colleagues may be quick/short (due to meeting at
 conferences or otherwise collaborating) while the knowledge turns from
-immediate colleagues may be long (due to primary focus on department mechanics,
+immediate colleagues may be slow/long (due to primary focus on department mechanics,
 etc.). Josh showed the following quote:
 
 "The dominant cause for [the] discrepancy [between progress in the healthcare and microchip industries] appears to lie in the disparate rates of knowledge turns between the 2 industries.... Knowledge turns are indicators of the time it takes for an experiment to proceed from hypothesis to results and then lead to a new hypothesis and a new result." Grove AS. Efficiency in the Health Care Industries: A View From the Outside. JAMA. 2005;294(4):490–492. <https://doi.org/10.1001/jama.294.4.490>

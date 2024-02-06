@@ -8,15 +8,16 @@ It is not about who is the leader of the team, but the process of building confi
 This includes skill building but is not about skills _per se_.
 It involves competencies, both core technical competence and interpersonal and cultural competence.
 
-I learned some tough lessons about how to lead and collaborate as associate chair and later chair of the
+I learned some tough lessons about how (not) to lead and collaborate as associate chair and later chair of the
 [Statistics Department](https://stat.wisc.edu).
-While I played a major role in transforming the department's mission (see
-[Data, Models and Statistics](/Data-Models-and-Statistics))
-enabled substantial expansion of academic staff, and fostered development of multiple innovative degree programs,
-I fell short in team-building and getting broad "buy-in" from faculty.
+I played a major role in transforming the department's mission (see
+[Data, Models and Statistics](/Data-Models-and-Statistics)),
+which enabled substantial expansion of academic staff and fostered development of multiple innovative degree programs.
+However, I fell short in team-building and getting broad "buy-in" from faculty.
 During that time, I began taking various leadership trainings, which led later to [coaching](/pages/coach/) as I founded the
 [Data Science Institute (DSI)](https://datascience.wisc.edu/institute).
-I made many mistakes along the way, grounds for substantial personal and professional growth.
+I have made many mistakes along my journey,
+fertile ground for substantial personal and professional growth.
 
 ## My teams as case studies 
 

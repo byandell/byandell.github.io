@@ -40,7 +40,7 @@ This web site is only part of that path.
 
 <hr>
 
-## Bob Anderson
+### Bob Anderson
 
 * Anderson RJ, Adams WA (2015) [Mastering Leadership](https://www.amazon.com/Mastering-Leadership-Breakthrough-Performance-Extraordinary/dp/1119147190): An Integrated Framework for Breakthrough Performance and Extraordinary Business Results (p. xvii). Wiley. 
 * [Bob Anderson](https://leadershipcircle.com/wp-content/uploads/2020/10/Anderson-Bob-bio-MAY-2020.pdf)
@@ -91,7 +91,7 @@ Integration involves seeing the entire development spectrum, holding onto unreso
 
 Unity is a more ethereal, philosophical level in which "we surf on the ocean", experiencing ups and downs of wave life, with ultimate fulfillment by awakening from the dream of our separate wave-ness. This involes recognizing that if you want to develop mastery in the art of leadership, a mature **Structure of Mind** is required. However, development into this mature identity is preliminary to breakthrough to unity, the arduous work of surrendering identity altogether.
 
-## Susan Cook-Greuter
+### Susan Cook-Greuter
 
 [The MAP (Maturity Profile for Leaders)](https://robinsoncoaching.com/wp-content/uploads/2020/03/Doc_B___MAP_Brochure_Combo_Sept_2019.pdf) explains an important assessment tool developed by Cook-Greuter over four decades.
 

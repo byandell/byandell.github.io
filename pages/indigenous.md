@@ -3,7 +3,11 @@ layout: page
 title: Indigenous Data Science
 ---
 
-My efforts to network around [environmental data science (EDS)](/pages/eds/) during the 2020s have put me in touch with several talented Indians who are teaching me much about [Data Sovereignty](/Data-Sovereignty/), [Traditional Knowledge](https://www.wipo.int/tk),
+My efforts to network around
+[environmental data science (EDS)](/pages/eds/)
+during the 2020s have put me in touch with several talented Indigenous data scientists who are teaching me much about
+[Data Sovereignty](/Data-Sovereignty/),
+[Traditional Knowledge](https://www.wipo.int/tk),
 and how we might better collaborate in the future to heal the planet. I am curious about how these new conversations and collaborations will evolve my thinking and contributions.
 
 * [Data Sovereignty Course Project](/Data-Sovereignty/)
@@ -20,9 +24,15 @@ and how we might better collaborate in the future to heal the planet. I am curio
 ## Organizations and Communities
 
 This list is primarily about Indigenous data science, but includes other links
-pertinent to EDS and climate change.
+pertinent to EDS and climate change. For instance,
+[Digital Mappa](https://www.digitalmappa.org/)
+is a system to network maps and ancient scrolls/texts, which could be quite useful for organizing sovereign documents.
+[350](https://350.org/)
+and
+[Project DrawDown](https://drawdown.org/)
+are global efforts to address climate change, growing connections with Indigenous communities.
 
-* [350 WI](https://350wisconsin.org/)
+* [350](https://350.org/) and [350 WI](https://350wisconsin.org/)
 * [Digital Mappa](https://www.digitalmappa.org/)
 * [Enrich Hub](https://www.enrich-hub.org/)  
 * [Environmental Data Science Innovation & Inclusion Lab (ESIIL)](https://esiil.org)
