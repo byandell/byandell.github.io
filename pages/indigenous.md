@@ -20,6 +20,7 @@ and how we might better collaborate in the future to heal the planet. I am curio
 
   * [Exploring Data Sovereignty and the Sovereign Data Network 13-15 Feb 2024](https://ncar.ucar.edu/exploring-data-sovereignty-workshop)
   * [ESIIL Innovation Summit 14-16 May 2024](https://esiil.org/innovation-summit)
+  * [UW Earth Partnership Native Education Pathways Workshop 24-28 Jun 2024](https://earthpartnership.wisc.edu/pre-college-opportunities-for-native-youth-in-wi/)
 
 ## Organizations and Communities
 
