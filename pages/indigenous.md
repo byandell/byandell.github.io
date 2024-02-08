@@ -16,7 +16,7 @@ and how we might better collaborate in the future to heal the planet. I am curio
 * [Papers and Resources](#data-sovereignty-papers-and-resources)
 * [Additional Material](#additional-material)
 
-### Upcoming Events
+### My Upcoming Events
 
   * [Exploring Data Sovereignty and the Sovereign Data Network 13-15 Feb 2024](https://ncar.ucar.edu/exploring-data-sovereignty-workshop)
   * [ESIIL Innovation Summit 14-16 May 2024](https://esiil.org/innovation-summit)
