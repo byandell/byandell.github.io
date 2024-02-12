@@ -23,10 +23,6 @@ or the
 [MS Statistics Option Statistics and Data Science](https://stat.wisc.edu/graduate-admissions/data-science-option/)
 degree program?
 
-<!--
-[Spring 2023 Canvas Course Page](https://canvas.wisc.edu/courses/346352)
--->
-
 <hr>
 
 ## Data Sovereignty

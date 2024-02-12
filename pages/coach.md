@@ -111,11 +111,3 @@ This area is known as the adult developmental process, embodied in [Integral+Lif
   * [The Stages of Leadership Maturity – Integral Life](https://integrallife.com/stages-leadership-maturity/) 
   * [Integral Life Images](https://integrallife.com/stages-leadership-maturity/#gallery-image/2)
   * [Maturity Assessment Profile (MAP) - Fenix Leadership Consulting](https://www.fenixleadershipconsulting.com/services/coaching/map-assessment/)
-
-<!--
-## Resources
-
-* [Coaching Google Drive](https://drive.google.com/drive/u/1/folders/1oqr4yjlb399vETmvSTRZpULaOfypR4hO) (restricted)
-* [Coaching Box Drive](https://uwmadison.app.box.com/folder/89487800356) (restricted)
-* [Bob Anderson Leadership Circle Self-Assessment](https://uwmadison.app.box.com/folder/239742189039)
--->
