@@ -57,7 +57,7 @@ Below are quotes from three of the references, which capture some flavor of the 
 * [United States Indigenous Data Sovereignty Network (usindigenousdata.org)](https://usindigenousdata.org/)
 * [Geoscience Alliance](https://geosciencealliance.org/our-vision-and-mission/)
 * [Rising Voices](https://risingvoices.ucar.edu/)
-* [Land Grab Universities](https://www.landgrabu.org/) 
+* [Land Grab Universities](https://www.landgrabu.org/)
 
 ## Videos
 
@@ -74,7 +74,7 @@ Below are quotes from three of the references, which capture some flavor of the 
 * [NOAA Environmental Data Talks - Speaker Series Data, Diversity, and Disaster](https://youtu.be/CAZpPuJX9uM). Rising Voices Panel, October 16, 2020.
 * [Indigenous Data Sovereignty: How Scientists and Researchers can Empower Data Governance](https://www.youtube.com/watch?v=RjolET69Z8c). Lydia Jennings.
 * [NCEAS Seminar Series: Advancing Ecology and Environmental Data Science for a More Just and Equitable Future](https://www.nceas.ucsb.edu/equity-justice-seminar). Spring 2021 and 2022.
-* [Poster](https://www.nceas.ucsb.edu/sites/default/files/2021-03/NCEAS-Equity-Justice-Seminar-JENNINGS.pdf)
+  * [Lydia Jennings Poster](https://www.nceas.ucsb.edu/sites/default/files/2021-03/NCEAS-Equity-Justice-Seminar-JENNINGS.pdf)
 
 <hr>
 
