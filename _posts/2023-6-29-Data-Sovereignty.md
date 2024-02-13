@@ -55,23 +55,26 @@ Below are quotes from three of the references, which capture some flavor of the 
 * [Global Indigenous Data Alliance (GIDA)](https://www.gida-global.org/)
 * [Native Nations Institute: Indigenous Data Sovereignty and Governance](https://nni.arizona.edu/programs-projects/policy-analysis-research/indigenous-data-sovereignty-and-governance) (U AZ)
 * [United States Indigenous Data Sovereignty Network (usindigenousdata.org)](https://usindigenousdata.org/)
-* [Geoscience Alliance](https://geosciencealliance.org/our-vision-and-mission/) 
+* [Geoscience Alliance](https://geosciencealliance.org/our-vision-and-mission/)
 * [Rising Voices](https://risingvoices.ucar.edu/)
 * [Land Grab Universities](https://www.landgrabu.org/) 
 
 ## Videos
 
 * Maggie Werner-Washburne
-    * [Why DEI is important | Letters to the Editor captimes.com](https://captimes.com/opinion/letters-to-the-editor/letter-why-dei-is-important/article_5310b99a-2772-5fa1-83c8-87dd183f9b19.html) 
-    * [Maggie Werner-Washburne | stemboomerang.org](https://stemboomerang.org/maggie-werner-wasburne/)
+    * [Why DEI is important (CapTimes Letters to the Editor](https://captimes.com/opinion/letters-to-the-editor/letter-why-dei-is-important/article_5310b99a-2772-5fa1-83c8-87dd183f9b19.html) 
+    * [Maggie Werner-Washburne](https://stemboomerang.org/maggie-werner-wasburne/)
     * [5 Things About Me: Biologist Maggie Werner-Washburne (AAAS)](https://www.aaas.org/5-things-about-me-biologist-maggie-werner-washburne) 
 * [Sara Smith](https://www.wisconsinacademy.org/contributor/sara-smith) (18 Apr 2023, WI Academy) [Traditional Perspectives and Tribal Resilience](https://www.wisconsinacademy.org/evenings/traditional-perspectives-and-tribal-resilience) ([video](https://www.wisconsinacademy.org/video/traditional-perspectives-and-tribal-resilience))
-* [ADSA Panel: Community-Centered Benefit Sharing and New Data EquitiesLinks to an external site.](https://adsaannual2021.sched.com/event/q8Ui) (9 Feb 2022) [https://m.youtube.com/watch?v=Q2jb7f_1aNY Links to an external site.](https://m.youtube.com/watch?v=Q2jb7f_1aNY)
+* [ADSA Panel: Community-Centered Benefit Sharing and New Data EquitiesLinks to an external site.](https://adsaannual2021.sched.com/event/q8Ui) (9 Feb 2022)
+  * [YouTube](https://m.youtube.com/watch?v=Q2jb7f_1aNY)
 * [Earth Partnership IAS Webinar Series](https://earthpartnership.wisc.edu/spencer-webinar-resources/)
     * Good Relatives? 2018 Federal Evidence-Based Policy Making Act and Implications for Tribal and Academic Research Partnerships. Nicole Bowman, 31 Mar 2021
     * Culturally Responsive Research Relationships. Nicole Bowman, 12 Oct 2020
 * [NOAA Environmental Data Talks - Speaker Series Data, Diversity, and Disaster](https://youtu.be/CAZpPuJX9uM). Rising Voices Panel, October 16, 2020.
-* [Indigenous Data Sovereignty: How Scientists and Researchers can Empower Data Governance](https://www.youtube.com/watch?v=RjolET69Z8c). Lydia Jennings. [NCEAS Seminar Series: Advancing Ecology and Environmental Data Science for a More Just and Equitable Future.](https://www.nceas.ucsb.edu/equity-justice-seminar). 7 April 2021. [Poster](https://www.nceas.ucsb.edu/sites/default/files/2021-03/NCEAS-Equity-Justice-Seminar-JENNINGS.pdf)
+* [Indigenous Data Sovereignty: How Scientists and Researchers can Empower Data Governance](https://www.youtube.com/watch?v=RjolET69Z8c). Lydia Jennings.
+* [NCEAS Seminar Series: Advancing Ecology and Environmental Data Science for a More Just and Equitable Future](https://www.nceas.ucsb.edu/equity-justice-seminar). Spring 2021 and 2022.
+* [Poster](https://www.nceas.ucsb.edu/sites/default/files/2021-03/NCEAS-Equity-Justice-Seminar-JENNINGS.pdf)
 
 <hr>
 
