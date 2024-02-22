@@ -125,7 +125,7 @@ are global efforts to address climate change, growing connections with Indigenou
   * [Calendars Then and Now (Lakota Times)](https://www.lakotatimes.com/articles/calendars-then-and-now/)
   * [Lakota Seasons & Moon Phases](https://aktalakota.stjo.org/lakota-seasons-moon-phases/)
   * [Jhon Goes in Center Collection Spotlight (Ralph T Coe Center)](https://www.coeartscenter.org/blog/collection-spotlight-with-jhon-goes-in-center/)
-  * [JohnDuane Goes in Center 101 Show 2020 (Brinton Museum)](https://thebrintonmuseum.org/jhon-duane-goes-in-center-2020-brinton-101/)
+  * [JhonDuane Goes in Center 101 Show 2020 (Brinton Museum)](https://thebrintonmuseum.org/jhon-duane-goes-in-center-2020-brinton-101/)
 
 * [Native American Boarding Schools Took Children's Culture, and Hundreds Died - The New York Times](https://www.nytimes.com/interactive/2023/08/30/us/native-american-boarding-schools.html) 
 * [David R. Beck (2002) Siege & Survival. U NE Press](https://www.nebraskapress.unl.edu/nebraska/9780803213302)
