@@ -126,10 +126,10 @@ are global efforts to address climate change, growing connections with Indigenou
   * [Lakota Seasons & Moon Phases](https://aktalakota.stjo.org/lakota-seasons-moon-phases/)
   * [Jhon Goes in Center Collection Spotlight (Ralph T Coe Center)](https://www.coeartscenter.org/blog/collection-spotlight-with-jhon-goes-in-center/)
   * [JhonDuane Goes in Center 101 Show 2020 (Brinton Museum)](https://thebrintonmuseum.org/jhon-duane-goes-in-center-2020-brinton-101/)
-
 * [Native American Boarding Schools Took Children's Culture, and Hundreds Died - The New York Times](https://www.nytimes.com/interactive/2023/08/30/us/native-american-boarding-schools.html) 
 * [David R. Beck (2002) Siege & Survival. U NE Press](https://www.nebraskapress.unl.edu/nebraska/9780803213302)
 * [Megan Bang](https://sites.northwestern.edu/meganbang/), Ananda Marin and Douglas Medin (2018) If Indigenous Peoples Stand with the Sciences, Will Scientists Stand with Us? In issue on Unfolding Futures: Indigenous Ways of Knowing for the Twenty-First Century. [Daedalus , Spring 147(2): 148-159.](https://www.amacad.org/publication/if-indigenous-peoples-stand-sciences-will-scientists-stand-us) [https://www.jstor.org/stable/10.2307/48563027](https://www.jstor.org/stable/10.2307/48563027) 
+* [Sarah Dickson-Hoyle et al. (2021) Walking on two legs: a pathway of Indigenous restoration and reconciliation in fire-adapted landscapes](https://doi.org/10.1111/rec.13566)
 * [An Introduction to Remote Sensing for Tribal Lands (NASA Applied Sciences)](https://appliedsciences.nasa.gov/join-mission/training/english/introduction-remote-sensing-tribal-lands)
 * [State Of the Craft in Research Data Management (GLOBUS)](https://www.globus.org/blog/state-craft-research-data-management-1) (discusses sovereignty) 
 * [The Missing Millions (RTI International)](https://www.rti.org/publication/missing-millions/fulltext.pdf)  
