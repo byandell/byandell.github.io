@@ -16,7 +16,7 @@ and how we might better collaborate in the future to heal the planet. I am curio
 * [Papers and Resources](#data-sovereignty-papers-and-resources)
 * [Additional Material](#additional-material)
 
-### My Upcoming Events
+### My Events
 
   * [Exploring Data Sovereignty and the Sovereign Data Network 13-15 Feb 2024](https://ncar.ucar.edu/exploring-data-sovereignty-workshop)
   * [ESIIL Innovation Summit 14-16 May 2024](https://esiil.org/innovation-summit)
@@ -47,7 +47,8 @@ are global efforts to address climate change, growing connections with Indigenou
 * [Local Contexts](https://localcontexts.org/)
 * [National Conference of American Indians](https://www.ncai.org/)
 * [Native Land Digital Map](https://native-land.ca/)
-* [Native Nations Institute: Indigenous Data Sovereignty and Governance](https://nni.arizona.edu/programs-projects/policy-analysis-research/indigenous-data-sovereignty-and-governance) (U AZ)
+* [Native Languages of the Americas](https://www.native-languages.org/)
+* [Native Nations Institute--Indigenous Data Sovereignty and Governance](https://nni.arizona.edu/programs-projects/policy-analysis-research/indigenous-data-sovereignty-and-governance) (U AZ)
 * [Project DrawDown](https://drawdown.org/)
 * [Rising Voices](https://risingvoices.ucar.edu/): Workshops & Activities
 * [Seven Generation Inter-Tribal Leadership Summit](https://www.lco.edu/7gensummit) (LCOOU 29-30 Sep 2022)
@@ -57,7 +58,7 @@ are global efforts to address climate change, growing connections with Indigenou
 * [Tribal Exchange Network (TXG)](http://www.tribalexchangenetwork.org/)
   * [Tribal Data Drop-In](https://www.tribalexchangenetwork.org/trainings-events/july-tribal-data-drop-in-session)
 * [UCAR Indigenous data sovereignty & Earth System Sciences](https://ncar.ucar.edu/who-we-are/diversity-inclusion/core-awards/indigenous-data-sovereignty)
-* [US Indigenous Data Sovereignty Network (usindigenousdata.org)](https://usindigenousdata.org/)
+* [US Indigenous Data Sovereignty Network](https://usindigenousdata.org/)
 * UW-Madison
   * [Earth Partnership](https://earthpartnership.wisc.edu)
   * [Native Nations UW Google Group](https://groups.google.com/u/1/a/g-groups.wisc.edu/g/nn_uw-2019)
@@ -66,10 +67,10 @@ are global efforts to address climate change, growing connections with Indigenou
 ## Data Sovereignty Talks and Events
 
 * [ESIIL Innovation Summit (annual in May)](https://esiil.org/innovation-summit)
-* [ESIIL Hackathon (annual in Oct/Nov)](https://esiil.org/virtual-hackathon)
+& [ESIIL Hackathon (annual in Oct/Nov)](https://esiil.org/virtual-hackathon)
 * [Food sovereignty, Native knowledge-keeping part of Indigenous Peoples Day events (8-11 Oct 2023, CU Boulder)](https://www.colorado.edu/today/2023/10/06/food-sovereignty-native-knowledge-keeping-part-indigenous-peoples-day-events) 
 * [ADSA Panel: Community-Centered Benefit Sharing and New Data Equities](https://adsaannual2021.sched.com/event/q8Ui) (9 Feb 2022)
-    * https://m.youtube.com/watch?v=Q2jb7f_1aNY
+    * [Video Recording](https://m.youtube.com/watch?v=Q2jb7f_1aNY)
     * [Keolu Fox (University of California, San Diego)](https://ifi.ucsd.edu/dr-keolu-fox/) - Moderator
     * [Latifa Jackson (Howard University)](http://www.georgetownhowardctsa.org/research/meet-our-researchers/latifa-jackson-phd)
     * [Kaja Wasik (Variant Bio)](https://www.linkedin.com/in/kaja-wasik-8a8aa26b)
@@ -80,7 +81,7 @@ are global efforts to address climate change, growing connections with Indigenou
 * [Workshop on International Law, the United Nations Declarations of the Rights of Indigenous Peoples and Indigenous Data Sovereignty](https://www.iisj.net/en/workshops/international-law-united-nations-declarations-rights-indigenous-peoples-and-indigenous), 11-12 July, 2019
 * [Webinar on ethical use of indigenous data](https://www.icpsr.umich.edu/web/about/cms/3322)
 * Indigenous Data Sovereignty and Tribal Nation Implications for Addressing the Federal Evidence-Based Policy Making Act of 2018. Nicole Bowman. Feb 2021. [CRRR Webinar 3.31.21 Final.pdf](https://drive.google.com/file/d/18f05xIRdYHMza2UunPV4hAYzkuLKL6uW)
-* [Indigenous Data Sovereignty: How Scientists and Researchers can Empower Data Governance](https://www.youtube.com/watch?v=RjolET69Z8c). Lydia Jennings. [NCEAS Seminar Series: Advancing Ecology and Environmental Data Science for a More Just and Equitable Future](https://www.nceas.ucsb.edu/equity-justice-seminar). 7 April 2021. [Poster](https://www.nceas.ucsb.edu/sites/default/files/2021-03/NCEAS-Equity-Justice-Seminar-JENNINGS.pdf) 
+* [Indigenous Data Sovereignty--How Scientists and Researchers can Empower Data Governance](https://www.youtube.com/watch?v=RjolET69Z8c). Lydia Jennings. [NCEAS Seminar Series: Advancing Ecology and Environmental Data Science for a More Just and Equitable Future](https://www.nceas.ucsb.edu/equity-justice-seminar). 7 April 2021. [Poster](https://www.nceas.ucsb.edu/sites/default/files/2021-03/NCEAS-Equity-Justice-Seminar-JENNINGS.pdf) 
 * [Operationalising Be FAIR and CARE](https://www.rd-alliance.org/operationalising-be-fair-and-care). 3 Apr 2020
 * [Implementing the CARE Principles: The CARE-full Process](https://www.rd-alliance.org/implementing-care-principles-care-full-process). 29 Jan 2021
 
@@ -120,6 +121,7 @@ are global efforts to address climate change, growing connections with Indigenou
 
 * Lakota
   * [Lakota Nation vs United States](https://www.lakotanationvsus.movie/) (movie)
+  * [Oceti Sakawin Nation](https://americanindian.si.edu/nk360/plains-belonging-nation/oceti-sakowin)
   * [120 Years of Lakota History on Calendar (Smithsonian)](https://www.smithsonianmag.com/smithsonian-institution/120-years-lakota-history-on-calendar-180953641/)
   * [Why ancient calendars still rule the world (Nature)](https://www.bbc.com/reel/playlist/hidden-histories?vpid=p0fh38ts) (movie)
   * [Calendars Then and Now (Lakota Times)](https://www.lakotatimes.com/articles/calendars-then-and-now/)
@@ -164,6 +166,7 @@ are global efforts to address climate change, growing connections with Indigenou
 
 ### Wisconsin
 
+* [Bad River Film](https://www.badriverfilm.com/)
 * [About The Ways – PBS Wisconsin Education](https://theways.org/story/waadookodaading) 
 * [Don't Just Teach About Cultures—Teach Culturally. Here's the Difference (David J O'Connor)](https://www.hmhco.com/blog/teaching-culture-vs-teaching-culturally) 
 * [Erik Ness (2023 Isthmus) We’re in our forever home](https://isthmus.com/news/cover-story/ojibwe-fight-enbridge-pipeline-on-bad-river/) 
