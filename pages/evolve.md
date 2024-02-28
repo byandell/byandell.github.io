@@ -12,7 +12,7 @@ The noun `data` implies it is somehow static. However, data evolve in multiple w
 - questions about data evolve as the broader context changes
 - "small data" augmented by "Big Data" evolve our ability to ask questions
 
-One `datum` (a single piece of data) may not change, but everything around it may, and hence its importance and value may change. A datum to one person or situation may be a world of data to another--consider a painting, which to one person may represent a single datum in a collection, such as current owner, while to another person may contain a rich history of technique, setting, artist, and [provenance](https://www.merriam-webster.com/dictionary/provenance).
+One `datum` (a single piece of data) may not change, but everything around it may, and hence its importance and value may change. A datum to one person or situation may be a world of data to another--consider a painting, which to one person may represent a single datum in a collection, such as current owner, while to another person may contain a rich history of technique, setting, artist, and [provenance](https://www.nnlm.gov/guides/data-glossary/data-provenance).
 
 I started thinking about how data evolve in our lives as a verb when I met
 [Jhon Goes-in-Center](https://thebrintonmuseum.org/jhon-duane-goes-in-center-2020-brinton-101/)
