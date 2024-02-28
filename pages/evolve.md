@@ -22,8 +22,8 @@ He was musing on how difficult it is to understand the noun `data` when his Lako
 
 Much earlier, in Fall 2017, I wrote a living (evolving) document as a guide for the language [R for teams in the data sciences](https://github.com/UW-Madison-DataScience/R_for_data_sciences). I organized it as a series of verbs--curate, visualize, organize, analyze, profile, and connect--to emphasize how to think about examining data with such a language.
 About that time, I and others were asking, [What is Data Science?](/What-is-Data-Science/)
-Interestingly, `science` is also a noun, but the process of science, of studying the world,
-is very much verb-driven, as is the incorporation of data science into science to make sense of complex patterns and relationships.
+Interestingly, `science` is also a noun. [What is Science?](https://undsci.berkeley.edu/understanding-science-101/what-is-science/), a 101-level explanation from UC-Berkely, points out that science is both a body of knowledge (noun) and a process (verb) of studying the world.
+Science is very much verb-driven, as is the incorporation of data science into science to make sense of complex patterns and relationships.
 
 Nowadays, I continue to rely on the lessons I learned building that guide.
 I now think more about how [teams](/pages/team/) evolve their relationship with data,
