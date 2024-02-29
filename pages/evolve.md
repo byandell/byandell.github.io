@@ -29,7 +29,7 @@ Science is very much verb-driven, as is the incorporation of data science into s
 
 Someone once told me that
 [software rots](https://towardsdatascience.com/why-and-how-software-systems-decay-fa7ec83c4ff3).
-That is, software/code cannot be static, or it becomes irrelevant as the computing system, data and context around it evolves.
+That is, software/code cannot be static, or it becomes irrelevant as the computing system, data and context around it evolve.
 Consider a data project that benefits from software scripting (that is, most data projects),
 here illustrated with the
 [R language system](https://www.r-project.org/about.html).
