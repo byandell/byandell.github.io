@@ -13,6 +13,8 @@ and how we might better collaborate in the future to heal the planet. I am curio
 * [Data Sovereignty Course Project](/Data-Sovereignty/)
 * [Organizations and Communities](#organizations-and-communities)
 * [Talks and Events](#data-sovereignty-talks-and-events)
+  * [Wisconsin](#wisconsin)
+  * [Tribes](#tribes)
 * [Papers and Resources](#data-sovereignty-papers-and-resources)
 * [Additional Material](#additional-material)
 
@@ -98,26 +100,15 @@ are global efforts to address climate change, growing connections with Indigenou
     * Good Relatives? 2018 Federal Evidence-Based Policy Making Act and Implications for Tribal and Academic Research Partnerships. Nicole Bowman, 31 Mar 2021
     * Culturally Responsive Research Relationships. Nicole Bowman, 12 Oct 2020
 
-### Menominee
+### Tribes
 
-* [Ada Deer, Native American Voice Inside Government and Out, Dies at 88 - The New York Times](https://www.nytimes.com/2023/08/18/us/ada-deer-dead.html) 
-* [The Remarkable Life of Ada Deer (WI Alumni Association)](https://www.uwalumni.com/news/forging-firsts-the-remarkable-life-of-ada-deer/) 
-* Jennifer K. Gauthier (13 Mar 2023, [CESA](https://login.myquickreg.com/register/event/event.cfm?eventid=33325)) Mamaceqtawak: The Movers Strengthening Community Connections to Menominee Ways of Well-Being
-* [Kemāmaceqtaq: Harvest of the Moon](https://menominee.extension.wisc.edu/kemamaceqtaq-were-all-moving/)
-* [Menominee Theoretical Model of Sustainability](https://www.menominee.edu/sustainable-development-institute/about-sdi/the-menominee-theoretical-model-of-sustainability)
-* [Reynold "Renny"" Katchenago, Menominee mural artist](https://m.facebook.com/MenomineeIndianTribeofWI/videos/the-artist-at-work-reynold-katchenago/172070528247174/)
-* [Nicholas Perloff (1982) Menominee DRUMS. U OK Press](https://www.oupress.com/9780806137773/menominee-drums/)
-* Menominee videos on YouTube
-    * [The Land Is a Teacher: A Conversation with Jeff Grignon](https://edgeeffects.net/jeff-grignon/)
-    * [Broadband Literacy Menominee Nation WI](https://youtu.be/hjJlDtcQRfs) 
-    * [Nama’o: The Ancient Story Teller](https://www.youtube.com/watch?v=c5vII8Qzi3c)
-    * [https://www.youtube.com/results?search_query=menominee+tribe](https://www.youtube.com/results?search_query=menominee+tribe) 
-* Menominee sturgeon 
-    * [https://www.jstor.org/stable/4636602](https://www.jstor.org/stable/4636602) Return to Namä'o Uskíwämît: The Importance of Sturgeon in Menominee Indian History
-    * [http://www.icad-cisd.com/our-resources/icad-publications-and-resources/case-study-sturgeon-lake-traditional-health-program/](http://www.icad-cisd.com/our-resources/icad-publications-and-resources/case-study-sturgeon-lake-traditional-health-program/)
-    * [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5257223/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5257223/)
+* Bad River
+  * [Bad River Band of Lake Superior Chippewa](https://www.badriver-nsn.gov/)
+  * [Bad River Film](https://www.badriverfilm.com/)
 
-## Data Sovereignty Papers and Resources
+* Ho Chunk
+  * [Ho Chunk Nation](https://ho-chunknation.com/)
+  * [Ho-Chunk History -- Past, Present, and Future (John Greendeer and Bill Quackenbush, 17 May 2023)](https://ecals.cals.wisc.edu/wp-content/uploads/sites/358/2023/04/Ho-Chunk-Nation-Virtual-LLC-Presentation-Flyer.pdf)
 
 * Lakota
   * [Lakota Nation vs United States](https://www.lakotanationvsus.movie/) (movie)
@@ -128,6 +119,26 @@ are global efforts to address climate change, growing connections with Indigenou
   * [Lakota Seasons & Moon Phases](https://aktalakota.stjo.org/lakota-seasons-moon-phases/)
   * [Jhon Goes in Center Collection Spotlight (Ralph T Coe Center)](https://www.coeartscenter.org/blog/collection-spotlight-with-jhon-goes-in-center/)
   * [JhonDuane Goes in Center 101 Show 2020 (Brinton Museum)](https://thebrintonmuseum.org/jhon-duane-goes-in-center-2020-brinton-101/)
+
+* Menominee
+  * [Ada Deer, Native American Voice Inside Government and Out, Dies at 88 - The New York Times](https://www.nytimes.com/2023/08/18/us/ada-deer-dead.html) 
+  * [The Remarkable Life of Ada Deer (WI Alumni Association)](https://www.uwalumni.com/news/forging-firsts-the-remarkable-life-of-ada-deer/) 
+  * Jennifer K. Gauthier (13 Mar 2023, [CESA](https://login.myquickreg.com/register/event/event.cfm?eventid=33325)) Mamaceqtawak: The Movers Strengthening Community Connections to Menominee Ways of Well-Being
+  * [Kemāmaceqtaq: Harvest of the Moon](https://menominee.extension.wisc.edu/kemamaceqtaq-were-all-moving/)
+  * [Menominee Theoretical Model of Sustainability](https://www.menominee.edu/sustainable-development-institute/about-sdi/the-menominee-theoretical-model-of-sustainability)
+  * [Reynold "Renny"" Katchenago, Menominee mural artist](https://m.facebook.com/MenomineeIndianTribeofWI/videos/the-artist-at-work-reynold-katchenago/172070528247174/)
+  * [Nicholas Perloff (1982) Menominee DRUMS. U OK Press](https://www.oupress.com/9780806137773/menominee-drums/)
+  * Menominee videos on YouTube
+    * [The Land Is a Teacher: A Conversation with Jeff Grignon](https://edgeeffects.net/jeff-grignon/)
+    * [Broadband Literacy Menominee Nation WI](https://youtu.be/hjJlDtcQRfs) 
+    * [Nama’o: The Ancient Story Teller](https://www.youtube.com/watch?v=c5vII8Qzi3c)
+    * [https://www.youtube.com/results?search_query=menominee+tribe](https://www.youtube.com/results?search_query=menominee+tribe) 
+  * Menominee sturgeon 
+    * [https://www.jstor.org/stable/4636602](https://www.jstor.org/stable/4636602) Return to Namä'o Uskíwämît: The Importance of Sturgeon in Menominee Indian History
+    * [http://www.icad-cisd.com/our-resources/icad-publications-and-resources/case-study-sturgeon-lake-traditional-health-program/](http://www.icad-cisd.com/our-resources/icad-publications-and-resources/case-study-sturgeon-lake-traditional-health-program/)
+    * [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5257223/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5257223/)
+
+## Data Sovereignty Papers and Resources
 * [Native American Boarding Schools Took Children's Culture, and Hundreds Died - The New York Times](https://www.nytimes.com/interactive/2023/08/30/us/native-american-boarding-schools.html) 
 * [David R. Beck (2002) Siege & Survival. U NE Press](https://www.nebraskapress.unl.edu/nebraska/9780803213302)
 * [Megan Bang](https://sites.northwestern.edu/meganbang/), Ananda Marin and Douglas Medin (2018) If Indigenous Peoples Stand with the Sciences, Will Scientists Stand with Us? In issue on Unfolding Futures: Indigenous Ways of Knowing for the Twenty-First Century. [Daedalus , Spring 147(2): 148-159.](https://www.amacad.org/publication/if-indigenous-peoples-stand-sciences-will-scientists-stand-us) [https://www.jstor.org/stable/10.2307/48563027](https://www.jstor.org/stable/10.2307/48563027) 
@@ -166,7 +177,6 @@ are global efforts to address climate change, growing connections with Indigenou
 
 ### Wisconsin
 
-* [Bad River Film](https://www.badriverfilm.com/)
 * [About The Ways – PBS Wisconsin Education](https://theways.org/story/waadookodaading) 
 * [Don't Just Teach About Cultures—Teach Culturally. Here's the Difference (David J O'Connor)](https://www.hmhco.com/blog/teaching-culture-vs-teaching-culturally) 
 * [Erik Ness (2023 Isthmus) We’re in our forever home](https://isthmus.com/news/cover-story/ojibwe-fight-enbridge-pipeline-on-bad-river/) 
