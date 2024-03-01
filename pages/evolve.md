@@ -45,11 +45,23 @@ As the collection of functions grow, it may be useful to organize them into an
 [R package](https://cran.r-project.org/doc/manuals/R-exts.html),
 particularly if I am using them for more than one project.
 Typically, both for safety and sharing, it is helpful to put packages online, often in
-[GitHub](https://github.com/byandell);
+[GitHub](https://happygitwithr.com/);
 then others may view or use them as well.
 Some projects have broader appeal and longevity, leading to submission to an archive such as
 [CRAN](https://cran.rstudio.com/).
-This organic process might be somewhat planned in advance, but typically, for me,
+Packages used to be the goal, but now there is more recognized value in apps,
+such as
+[Shiny apps](https://shiny.posit.co/r/gallery/)
+that in their simplest form can be created in a few minutes or hours.
+More complicated platforms have emerged, such as
+[Galaxy](https://galaxyproject.org/) and [RAMADDA](https://ramadda.org/),
+that enable teams to collaboratively share data and code, possibly with
+protections to respect
+[data sovereignty](/Data-Sovereignty/).
+This begs the question of emerging tools and platforms for AI, of which I will only mention
+[ChatGPT](https://chat.openai.com/).
+
+This organic process of developing useful tools to study data might be somewhat planned in advance, but typically, for me,
 evolves based on insights and [collaboration](/pages/collaborate/) along the way.
 Good collaboration includes documenting at every step, including notes on what is still
 broken and what is hoped for future development.
