@@ -39,5 +39,6 @@ Here are some links to other organizations that define "systems thinking".
 - [Interactive Design Foundation on Systems Thinking](https://www.interaction-design.org/literature/topics/systems-thinking)
 - [Video on Systems Thinking](https://www.youtube.com/watch?v=FW6MXqzeg7M)
 - [Amazon books on Systems Thinking](https://www.amazon.com/s?k=systems+thinking)
+- [Ecosystem Engineering (ScienceDirect)](https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/ecosystem-engineering)
 
 
