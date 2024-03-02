@@ -58,8 +58,8 @@ More complicated platforms have emerged, such as
 that enable teams to collaboratively share data and code, possibly with
 protections to respect
 [data sovereignty](/Data-Sovereignty/).
-This begs the question of emerging tools and platforms for AI, of which I will only mention
-[ChatGPT](https://chat.openai.com/).
+This begs the question of emerging tools and platforms for AI, notably 
+[large language models (LLMs)](https://medium.com/data-science-at-microsoft/how-large-language-models-work-91c362f5b78f).
 
 This organic process of developing useful tools to study data might be somewhat planned in advance, but typically, for me,
 evolves based on insights and [collaboration](/pages/collaborate/) along the way.
