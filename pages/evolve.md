@@ -96,7 +96,11 @@ thinks about AI.
 * [What is Science?](https://undsci.berkeley.edu/understanding-science-101/what-is-science/)
 * [What is Data Science?](/What-is-Data-Science/)
   * [Data Sovereignty](/Data-Sovereignty/)
-  * [Data Provenance](https://www.nnlm.gov/guides/data-glossary/data-provenance).
+  * [Data Provenance](https://www.nnlm.gov/guides/data-glossary/data-provenance)
+  * [Data Literacy](https://data.wisc.edu/data-literacy/)
+  * [Research Data Management](https://learn.library.wisc.edu/research-data-management/)
+  * [Researcher Toolkit](https://researchertoolkit.wisc.edu/)
+  * [Research Data Services](https://researchdata.wisc.edu/)
 * [Why Software Rots](https://towardsdatascience.com/why-and-how-software-systems-decay-fa7ec83c4ff3)
 * [R language system](https://www.r-project.org/about.html)
   * [R for teams in the data sciences](https://github.com/UW-Madison-DataScience/R_for_data_sciences)
