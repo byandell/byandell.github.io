@@ -110,6 +110,7 @@ are global efforts to address climate change, growing connections with Indigenou
 * Ho Chunk
   * [Ho Chunk Nation](https://ho-chunknation.com/)
   * [Ho-Chunk History -- Past, Present, and Future (John Greendeer and Bill Quackenbush, 17 May 2023)](https://ecals.cals.wisc.edu/wp-content/uploads/sites/358/2023/04/Ho-Chunk-Nation-Virtual-LLC-Presentation-Flyer.pdf)
+  * [The Millennia before UW–Madison (On Wisconsin 2024)](https://onwisconsin.uwalumni.com/the-millennia-before-uw-madison/)
 
 * Lakota
   * [Lakota Nation vs United States](https://www.lakotanationvsus.movie/) (movie)
@@ -135,11 +136,14 @@ are global efforts to address climate change, growing connections with Indigenou
     * [Nama’o: The Ancient Story Teller](https://www.youtube.com/watch?v=c5vII8Qzi3c)
     * [https://www.youtube.com/results?search_query=menominee+tribe](https://www.youtube.com/results?search_query=menominee+tribe) 
   * Menominee sturgeon 
-    * [https://www.jstor.org/stable/4636602](https://www.jstor.org/stable/4636602) Return to Namä'o Uskíwämît: The Importance of Sturgeon in Menominee Indian History
+    * [Return to Namä'o Uskíwämît: The Importance of Sturgeon in Menominee Indian History](https://www.jstor.org/stable/4636602)
     * [http://www.icad-cisd.com/our-resources/icad-publications-and-resources/case-study-sturgeon-lake-traditional-health-program/](http://www.icad-cisd.com/our-resources/icad-publications-and-resources/case-study-sturgeon-lake-traditional-health-program/)
     * [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5257223/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5257223/)
 
 ## Data Sovereignty Papers and Resources
+
+* [Sovereign genes--wildlife conservation, genetic preservation, and Indigenous data sovereignty (Frontiers of Conservation Science 2023)](https://doi.org/10.3389/fcosc.2023.1099562)
+  * [Beyond Jurassic Park (On Wisconsin 2024)](https://onwisconsin.uwalumni.com/beyond-jurassic-park/)
 * [Native American Boarding Schools Took Children's Culture, and Hundreds Died - The New York Times](https://www.nytimes.com/interactive/2023/08/30/us/native-american-boarding-schools.html) 
 * [David R. Beck (2002) Siege & Survival. U NE Press](https://www.nebraskapress.unl.edu/nebraska/9780803213302)
 * [Megan Bang](https://sites.northwestern.edu/meganbang/), Ananda Marin and Douglas Medin (2018) If Indigenous Peoples Stand with the Sciences, Will Scientists Stand with Us? In issue on Unfolding Futures: Indigenous Ways of Knowing for the Twenty-First Century. [Daedalus , Spring 147(2): 148-159.](https://www.amacad.org/publication/if-indigenous-peoples-stand-sciences-will-scientists-stand-us) [https://www.jstor.org/stable/10.2307/48563027](https://www.jstor.org/stable/10.2307/48563027) 
