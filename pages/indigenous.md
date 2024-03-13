@@ -126,7 +126,7 @@ are global efforts to address climate change, growing connections with Indigenou
   * [JhonDuane Goes in Center 101 Show 2020 (Brinton Museum)](https://thebrintonmuseum.org/jhon-duane-goes-in-center-2020-brinton-101/)
 
 * Menominee
-  * [David R Beck (2002) Siege & Survival. U NE Press](https://www.nebraskapress.unl.edu/nebraska/9780803213302)
+  * [David RM Beck (2002) Siege & Survival. U NE Press](https://www.nebraskapress.unl.edu/nebraska/9780803213302)
   * [Ada Deer, Native American Voice Inside Government and Out, Dies at 88 - The New York Times](https://www.nytimes.com/2023/08/18/us/ada-deer-dead.html) 
     * [The Remarkable Life of Ada Deer (WI Alumni Association)](https://www.uwalumni.com/news/forging-firsts-the-remarkable-life-of-ada-deer/) 
   * Jennifer K Gauthier (13 Mar 2023, [CESA](https://login.myquickreg.com/register/event/event.cfm?eventid=33325)) Mamaceqtawak: The Movers Strengthening Community Connections to Menominee Ways of Well-Being
