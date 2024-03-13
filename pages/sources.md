@@ -32,6 +32,7 @@ Much of this is restricted access, so casual users will not be able to find them
 * [Yandell ESIIL Google Folder (restricted)](https://drive.google.com/drive/u/1/folders/19pwBLpKVDbk5KrYVSba_w20T_3RfJQti)
 * [Yandell Inclusion and Bio/Eco/Env Synthesis (Box Notes)](https://uwmadison.app.box.com/file/787813586808)
 * [Yandell Inclusion Notes for NC-NODES](https://docs.google.com/document/d/1XMQvx1f7o5lNoYmL38dl_QaWVRXVUvPJjcB7fF9DaSA) 
+* [Erica AH Smithwick, Chris Caldwell et al. (2019) Collaboration Across Boundaries for Social-Ecological Systems Science. pp 153-184](https://docs.google.com/document/d/127HAHLXvY84_YlcOoQ2k-RQDiUQsvsWzELbZGXO6uDc) (Yandell notes)
 
 ## [Personal Reflections](https://byandell.github.io/pages/reflect/)
 
