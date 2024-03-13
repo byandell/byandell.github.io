@@ -126,38 +126,37 @@ are global efforts to address climate change, growing connections with Indigenou
   * [JhonDuane Goes in Center 101 Show 2020 (Brinton Museum)](https://thebrintonmuseum.org/jhon-duane-goes-in-center-2020-brinton-101/)
 
 * Menominee
-  * [David R. Beck (2002) Siege & Survival. U NE Press](https://www.nebraskapress.unl.edu/nebraska/9780803213302)
+  * [David R Beck (2002) Siege & Survival. U NE Press](https://www.nebraskapress.unl.edu/nebraska/9780803213302)
   * [Ada Deer, Native American Voice Inside Government and Out, Dies at 88 - The New York Times](https://www.nytimes.com/2023/08/18/us/ada-deer-dead.html) 
     * [The Remarkable Life of Ada Deer (WI Alumni Association)](https://www.uwalumni.com/news/forging-firsts-the-remarkable-life-of-ada-deer/) 
-  * Jennifer K. Gauthier (13 Mar 2023, [CESA](https://login.myquickreg.com/register/event/event.cfm?eventid=33325)) Mamaceqtawak: The Movers Strengthening Community Connections to Menominee Ways of Well-Being
+  * Jennifer K Gauthier (13 Mar 2023, [CESA](https://login.myquickreg.com/register/event/event.cfm?eventid=33325)) Mamaceqtawak: The Movers Strengthening Community Connections to Menominee Ways of Well-Being
   * [Kemāmaceqtaq: Harvest of the Moon](https://menominee.extension.wisc.edu/kemamaceqtaq-were-all-moving/)
   * [Menominee Theoretical Model of Sustainability](https://www.menominee.edu/sustainable-development-institute/about-sdi/the-menominee-theoretical-model-of-sustainability)
   * [Reynold "Renny"" Katchenago, Menominee mural artist](https://m.facebook.com/MenomineeIndianTribeofWI/videos/the-artist-at-work-reynold-katchenago/172070528247174/)
   * [Nicholas Perloff (1982) Menominee DRUMS. U OK Press](https://www.oupress.com/9780806137773/menominee-drums/)
-  * Menominee videos on YouTube
+  * [Menominee Tribe (YouTube)](https://www.youtube.com/results?search_query=menominee+tribe)
     * [The Land Is a Teacher: A Conversation with Jeff Grignon](https://edgeeffects.net/jeff-grignon/)
     * [Broadband Literacy Menominee Nation WI](https://youtu.be/hjJlDtcQRfs) 
     * [Nama’o: The Ancient Story Teller](https://www.youtube.com/watch?v=c5vII8Qzi3c)
-    * [Menominee Tribe (YouTube)](https://www.youtube.com/results?search_query=menominee+tribe) 
   * Menominee sturgeon 
     * [David RM Beck (1995 WI Mag History) Return to Namä'o Uskíwämît: The Importance of Sturgeon in Menominee Indian History](https://www.jstor.org/stable/4636602)
     * [What is Possible in Community? Reflecting on Harvest Days at Sturgeon Lake First Nation](https://www.nccie.ca/story/what-is-possible-in-community-reflecting-on-harvest-days-at-sturgeon-lake-first-nation/?lang=fr)
 
 ## Data Sovereignty Papers and Resources
 
-* [Megan Bang](https://sites.northwestern.edu/meganbang/), Ananda Marin and Douglas Medin (2018) If Indigenous Peoples Stand with the Sciences, Will Scientists Stand with Us? In issue on Unfolding Futures: Indigenous Ways of Knowing for the Twenty-First Century. [Daedalus , Spring 147(2): 148-159.](https://www.amacad.org/publication/if-indigenous-peoples-stand-sciences-will-scientists-stand-us) <https://www.jstor.org/stable/10.2307/48563027> 
-* [Alan Blatecky et al. (2021 NSF OAC) The Missing Millions](https://www.rti.org/publication/missing-millions/fulltext.pdf)  
+* [Megan Bang, Ananda Marin and Douglas Medin (2018) If Indigenous Peoples Stand with the Sciences, Will Scientists Stand with Us? In issue on Unfolding Futures: Indigenous Ways of Knowing for the Twenty-First Century. Daedalus , Spring 147(2): 148-159.](https://www.jstor.org/stable/10.2307/48563027)
+* [Alan Blatecky, Damian Clarke, Joel Cutcher-Gershenfeld, Deborah Dent, Rebecca Hipp, Ana Hunsinger, Al Kuslikis, Lauren Michael (2021 NSF OAC) The Missing Millions](https://www.rti.org/publication/missing-millions/fulltext.pdf)  
 * [Stephanie Russo Carroll, Edit Herczog, Maui Hudson, Keith Russell, Shelley Stall (2021) Operationalizing the CARE and FAIR Principles for Indigenous data futures.  Nature 8: 108.](https://doi.org/10.1038/s41597-021-00892-0) 
 * [Stephanie Russo Carroll, Desi Rodriguez-Lonebear, Andrew Martinez (2019) Indigenous Data Governance: Strategies from United States Native Nations. Data Science J 18: 1-15](https://doi.org/10.5334/dsj-2019-031)
 * [Stephanie Russo Carroll, Desi Rodriguez-Lonebear, Andrew Martinez (2017?) Indigenous Data Sovereignty in the United States: Policy Brief](https://static1.squarespace.com/static/5d3799de845604000199cd24/t/5d6f93c9c5442b00013e4b69/1567593418017/Policy%2BBrief%2BIndigenous%2BData%2BSovereignty%2Bin%2Bthe%2BUnited%2BStates%2BV0.3%2Bcopy.pdf)
 * [Tim Davies, Stephen B Walker, Mor Rubinstein, Fernando Perini (eds) (2019 Cape Town and Ottawa) State of Open Data: Histories and Horizons](https://www.stateofopendata.od4d.net/)  
   * [Stephanie Carroll Rainie, Tahu Kukutai, Maggie Walter, Oscar Luis Figueroa-Rodriguez, Jennifer Walker, Per Axelsson (2019) Indigenous Data Sovereignty. African Minds and International Development Research Centre. ISBN 9781928331957. Ch 21](https://www.stateofopendata.od4d.net/chapters/issues/indigenous-data.html).
-* [Sarah Dickson-Hoyle et al. (2021) Walking on two legs: a pathway of Indigenous restoration and reconciliation in fire-adapted landscapes](https://doi.org/10.1111/rec.13566)
+* [Sarah Dickson-Hoyle, Ronald E Ignace, Marianne B Ignace, Shannon M Hagerman, Lori D Daniels, Kelsey Copes-Gerbitz (2021) Walking on two legs: a pathway of Indigenous restoration and reconciliation in fire-adapted landscapes](https://doi.org/10.1111/rec.13566)
 * [Tahu Kukutai, John Taylor (2016) Indigenous Data Sovereignty: Toward an Agenda. Australia: Australian National U Press](https://www.jstor.org/stable/j.ctt1q1crgf)
   * [Desi Rodriguez-Lonebear (2016) Building a Data Revolution in Indian Country. p 253-272](https://www.jstor.org/stable/j.ctt1q1crgf.21)
 * [Sarah de Leeuw (2017 Can Fam Physician) Putting calls into action](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5257223/)
 * [Ray Lovett, Vanessa Lee, Tahu Kukutai, Stephanie Carroll Rainie, Jennifer Walker. 2019. Good Data Practices for Indigenous Data Sovereignty, in Angela Daly, Kate Devitt, & Monique Mann (Eds.), Good Data, Amsterdam: Institute of Network Cultures Inc. ISBN 978-94-92302-27-4.](https://nni.arizona.edu/publications/good-data-practices-indigenous-data-sovereignty)
-* [Erica AH Smithwick, Chris Caldwell et al. (2019) Learning About Forest Futures Under Climate Change Through Transdisciplinary Collaboration Across Traditional and Western Knowledge Systems. Springer](https://doi.org/10.1007/978-3-030-13827-1_5). Erica Smithwick, Christopher Caldwell et al. (2019)
+* [Erica AH Smithwick, Chris Caldwell et al. (2019) Learning About Forest Futures Under Climate Change Through Transdisciplinary Collaboration Across Traditional and Western Knowledge Systems. Springer](https://doi.org/10.1007/978-3-030-13827-1_5).
   * [Erica AH Smithwick, Chris Caldwell et al. (2019) Collaboration Across Boundaries for Social-Ecological Systems Science. pp 153-184.](https://link.springer.com/chapter/10.1007/978-3-030-13827-1_5) 
 * [Kath Traynor (2017) Data Management Plan: Empowering Indigenous Peoples and Knowledge Systems Related to Climate Change and Intellectual Property Rights. Research Ideas and Outcomes 3: e15111.](https://doi.org/10.3897/rio.3.e15111) 
 * [Susan Tussy (2021 GLOBUS) State Of the Craft in Research Data Management ](https://www.globus.org/blog/state-craft-research-data-management-1) (discusses sovereignty) 
@@ -170,10 +169,10 @@ are global efforts to address climate change, growing connections with Indigenou
   * [ESIP Data Management Training Clearinghouse](https://dmtclearinghouse.esipfed.org/about) 
 * [An Introduction to Remote Sensing for Tribal Lands (NASA Applied Sciences)](https://appliedsciences.nasa.gov/join-mission/training/english/introduction-remote-sensing-tribal-lands)
 * [Geoscience Alliance](https://geosciencealliance.org/useful-resources/) 
-  * [Transforming research and relationships through collaborative tribal-university partnerships on Manoomin (wild rice)](https://www.sciencedirect.com/science/article/pii/S1462901120313599), Matson, L.; Ng, G-H. C.; Dockry, M.; Nyblade, M.; King, H.J.; et al.,Environmental Science & Policy, Volume 115, 2021, Pages 108-115, ISSN 1462-9011. [https://doi.org/10.1016/j.envsci.2020.10.010](https://doi.org/10.1016/j.envsci.2020.10.010)
-  * [gidakiimanaanawigamig’s Circle of Learning: A Model for Partnership between Tribal Community and Research University](https://pubs.lib.umn.edu/index.php/ijps/article/view/176), Dalbotten, D.M., Ito, E., Eriksson, S., Pellerin, H., Greensky, L., and Kowalczak, C.,International Journal of Partnership Studies, Vol. 4, No. 3, Fall 2017.
-  * [Sense of Place and Place-Based Introductory Geoscience Teaching for American Indian and Alaska Native Undergraduates](https://www.tandfonline.com/doi/abs/10.5408/1089-9995-53.2.149), Semken, S., Journal of Geoscience Education, 53:2, 149-157. [https://doi.org/10.5408/1089-9995-53.2.149](https://doi.org/10.5408/1089-9995-53.2.149) 
-  * [Incorporate Indigenous perspectives for impactful research and effective management](https://www.nature.com/articles/s41559-018-0706-0). Ban, N.C., A. Frid, M. Reid, B. Edgar, D. Shaw, P. Siwallace. 2018. Nature Ecology & Evolution 2(11): 1680-1683.
+  * [Laura Matson et al. (2021) Transforming research and relationships through collaborative tribal-university partnerships on Manoomin (wild rice). Environmental Science & Policy 115, pp 108-115.](https://doi.org/10.1016/j.envsci.2020.10.010)
+  * [Diana M Dalbotten, Emi Ito, Susan Eriksson, Holly Pellerin, Lowana Greensky, Courtney Kowalczak, Antony Berthelote (2017) Gidakiimanaanawigamig’s Circle of Learning: A Model for Partnership between Tribal Community and Research University. International Journal of Partnership Studies, Vol. 4(3)](https://doi.org/10.24926/ijps.v4i3.176)
+  * [Steven Semken (2018) Sense of Place and Place-Based Introductory Geoscience Teaching for American Indian and Alaska Native Undergraduates. Geoscience Education 53: 149-157.](https://doi.org/10.5408/1089-9995-53.2.149) 
+  * [Natalie C Ban, Alejandro Frid, Mike Reid, Barry Edgar, Danielle Shaw, Peter Siwallace (2018) Incorporate Indigenous perspectives for impactful research and effective management. Nature Ecology & Evolution 2: 1680-1683](https://doi.org/10.1038/s41559-018-0706-0)
 
 ### Genome Sovereignty
 
