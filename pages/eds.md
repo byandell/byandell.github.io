@@ -17,6 +17,6 @@ I am curious about how these new conversations and collaborations will evolve my
 - [Indigenous Data Science](/pages/indigenous/)
 - [Systems Ethology](/pages/ewing/)
 - [What is Data Science?](/What-is-Data-Science/)
-- [Data Evolve](/pages/evolve/)
+- [Data Evolve](/Data-Evolve/)
 - [Useful Data Science Quotes](/Useful-Data-Science-Quotes/)
 

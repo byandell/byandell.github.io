@@ -39,6 +39,7 @@ are global efforts to address climate change, growing connections with Indigenou
 * [Digital Mappa](https://www.digitalmappa.org/)
 * [Enrich Hub](https://www.enrich-hub.org/)  
 * [Environmental Data Science Innovation & Inclusion Lab (ESIIL)](https://esiil.org)
+  * [ESIIL Working Groups](https://esiil.org/working-groups)
 * [First Nations Principles of OCAP®](https://fnigc.ca/ocap-training/)
 * [Geoscience Alliance](https://geosciencealliance.org) 
 * [Global Indigenous Data Alliance (GIDA)](https://www.gida-global.org/)
@@ -145,7 +146,10 @@ are global efforts to address climate change, growing connections with Indigenou
 ## Data Sovereignty Papers and Resources
 
 * [Megan Bang, Ananda Marin and Douglas Medin (2018) If Indigenous Peoples Stand with the Sciences, Will Scientists Stand with Us? In issue on Unfolding Futures: Indigenous Ways of Knowing for the Twenty-First Century. Daedalus , Spring 147(2): 148-159.](https://www.jstor.org/stable/10.2307/48563027)
-* [Alan Blatecky, Damian Clarke, Joel Cutcher-Gershenfeld, Deborah Dent, Rebecca Hipp, Ana Hunsinger, Al Kuslikis, Lauren Michael (2021 NSF OAC) The Missing Millions](https://www.rti.org/publication/missing-millions/fulltext.pdf)  
+* [Alan Blatecky, Damian Clarke, Joel Cutcher-Gershenfeld, Deborah Dent, Rebecca Hipp, Ana Hunsinger, Al Kuslikis, Lauren Michael (2021 NSF OAC) The Missing Millions](https://www.rti.org/publication/missing-millions/fulltext.pdf)
+* [William J Blizek, Rory J Conces (1996) Ethics and Sovereignty. Philosophy Faculty Publications 11.](https://digitalcommons.unomaha.edu/philfacpub/11)
+  * ethics, like politics, is a matter for each nation to decide for itself
+  * ethics reaches beyond sovereignty to right or wrong, independently of what people of any nation claim
 * [Stephanie Russo Carroll, Edit Herczog, Maui Hudson, Keith Russell, Shelley Stall (2021) Operationalizing the CARE and FAIR Principles for Indigenous data futures.  Nature 8: 108.](https://doi.org/10.1038/s41597-021-00892-0) 
 * [Stephanie Russo Carroll, Desi Rodriguez-Lonebear, Andrew Martinez (2019) Indigenous Data Governance: Strategies from United States Native Nations. Data Science J 18: 1-15](https://doi.org/10.5334/dsj-2019-031)
 * [Stephanie Russo Carroll, Desi Rodriguez-Lonebear, Andrew Martinez (2017?) Indigenous Data Sovereignty in the United States: Policy Brief](https://static1.squarespace.com/static/5d3799de845604000199cd24/t/5d6f93c9c5442b00013e4b69/1567593418017/Policy%2BBrief%2BIndigenous%2BData%2BSovereignty%2Bin%2Bthe%2BUnited%2BStates%2BV0.3%2Bcopy.pdf)
