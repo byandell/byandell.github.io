@@ -3,7 +3,14 @@ layout: post
 title: Data Evolve
 ---
 
-The noun `data` implies it is somehow static. However, data evolve in multiple ways, such as:
+The noun [data](https://en.wikipedia.org/wiki/Data) implies it is somehow static. However, data evolve in multiple ways.
+I started thinking about how data evolve in our lives as a verb when I met
+[Jhon Goes-in-Center](https://thebrintonmuseum.org/jhon-duane-goes-in-center-2020-brinton-101/)
+at the
+[Exploring Data Sovereignty Workshop](https://ncar.ucar.edu/exploring-data-sovereignty-workshop) in Feb 2024.
+He was musing on how difficult it is to understand the noun `data` when his Lakota language is woven with verbs. Later, when we were looking out at the huge cottonwood trees surrounding the
+[hogan](https://www.sipi.edu/pdf/SIPI_Campus_Map.pdf)
+where we were meeting, he talked about how everything is related by `evolution`--how these very trees have evolved to be successful in this seemingly dry land just a short walk from the Rio Grande River.
 
 - data evolve through collecting anew and extant data editing
 - data evolve in context of changing metadata and harmonizing to clean data
@@ -14,14 +21,6 @@ The noun `data` implies it is somehow static. However, data evolve in multiple w
 
 One `datum` (a single piece of data) may not change, but everything around it may, and hence its importance and value may change. A datum to one person or situation may be a world of data to another--consider a painting, which to one person may represent a single datum in a collection, such as current owner, while to another person may contain a rich history of technique, setting, artist, and
 [provenance](https://www.nnlm.gov/guides/data-glossary/data-provenance).
-
-I started thinking about how data evolve in our lives as a verb when I met
-[Jhon Goes-in-Center](https://thebrintonmuseum.org/jhon-duane-goes-in-center-2020-brinton-101/)
-at the
-[Exploring Data Sovereignty Workshop](https://ncar.ucar.edu/exploring-data-sovereignty-workshop) in Feb 2024.
-He was musing on how difficult it is to understand the noun `data` when his Lakota language is woven with verbs. Later, when we were looking out at the huge cottonwood trees surrounding the
-[hogan](https://www.sipi.edu/pdf/SIPI_Campus_Map.pdf)
-where we were meeting, he talked about how everything is related by `evolution`--how these very trees have evolved to be successful in this seemingly dry land just a short walk from the Rio Grande River.
 
 ## Software Evolves
 
@@ -95,6 +94,7 @@ thinks about AI.
 
 * [What is Science?](https://undsci.berkeley.edu/understanding-science-101/what-is-science/)
 * [What is Data Science?](/What-is-Data-Science/)
+  * [Data -- Wikipedia](https://en.wikipedia.org/wiki/Data)
   * [Data Sovereignty](/Data-Sovereignty/)
   * [Data Provenance](https://www.nnlm.gov/guides/data-glossary/data-provenance)
   * [Data Literacy](https://data.wisc.edu/data-literacy/)
