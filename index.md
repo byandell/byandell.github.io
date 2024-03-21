@@ -1,6 +1,13 @@
 ---
 layout: default
+css: style.scss
 ---
+
+> We all were sea-swallow'd, though some cast again,<br>
+> And by that destiny to perform an act<br>
+> Whereof what's past is prologue, what to come<br>
+> In yours and my discharge.<br>
+> [The Tempest, William Shakespeare](https://www.folger.edu/explore/shakespeares-works/the-tempest/read/)
 
 I retired in 2023 from the University of Wisconsin-Madison after more than 40 years of academic success in [stats](https://www.stat.wisc.edu) and [data science](https://datascience.wisc.edu) [^1].
 My next direction will be an inspired mix of personal interests and intellectual pursuits.
