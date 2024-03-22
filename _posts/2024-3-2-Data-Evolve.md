@@ -56,8 +56,52 @@ Typically, both for safety and sharing, it is helpful to put packages online, of
 then others may view or use them as well.
 Some projects have broader appeal and longevity, leading to submission to an archive such as
 [CRAN](https://cran.rstudio.com/).
-Packages used to be the goal, but now there is more recognized value in apps,
-such as
+
+Software, of course, is used to write articles and books.
+I am working on a book
+[Quantitative Population Ethology](https://connect.doit.wisc.edu/qpe/)
+that is written in
+[Bookdown](https://github.com/rstudio/bookdown-demo)
+and hosted on the
+[UW-Madison campus Connect server](https://connect.doit.wisc.edu/)
+(part of the
+[Data Science Platform](https://researchci.it.wisc.edu/data-science-platform/))
+with source at
+[GitHub](https://github.com/byandell/ewing_book).
+The connect server uses
+[Posit’s continuous integration](https://docs.posit.co/connect/admin/appendix/ci/)
+so that when I update GitHub, the book on Connect is soon updated.
+Notice in particular equations in
+[section 5.7 on competing risks](https://connect.doit.wisc.edu/qpe/event.html#competing-risks-for-life-events)
+(see
+[chapter 5 source](https://github.com/byandell/ewing_book/blob/main/05-event.Rmd)). Chapters are written in
+[Rmarkdown](https://rmarkdown.rstudio.com/)
+using
+[MathJax](https://www.mathjax.org/)
+to invoke
+[LaTeX](https://www.latex-project.org/).
+
+The philosophy of software engineering for data-rich research is better addressed elsewhere. I once heard Daryl Pregibon, one of the incredible team at Bell Labs that developed
+[C](https://en.wikipedia.org/wiki/C_(programming_language))
+and
+[S](https://en.wikipedia.org/wiki/S_(programming_language)),
+precursors to
+[R](https://www.r-project.org/)
+and many other language systems,
+stated (paraphrased from memory),
+"We used to be able to provide an equation, then an algorithm, and later a string of code perhaps organized as a function. Later we found it useful to organize code into a package, say to use in a system like R or S.
+This was useful for fellow statisticians, but often didn't reach our
+collaborators effectively.
+So we developed standalone widgets to share with colleagues."
+See for instance
+[Daryl Pregibon: "Incorporating statistical expertise into computer software"](https://www.youtube.com/watch?v=8h96LgVpUrI)
+talking at the Second International Tampere Conference in Statistics (1987),
+later published in the
+[1991 Future of Statistical Software National Academies report](https://nap.nationalacademies.org/catalog/1910/the-future-of-statistical-software-proceedings-of-a-forum).
+[Roger Peng (2013) (Back to) The Future of Statistical Software](https://simplystatistics.org/posts/2013-10-25-back-to-the-future-of-statistical-software-futureofstats/)
+provides a short critique of this volume and Pregibon's chapter.
+
+Now there is recognized value in web-based apps, such as
 [Shiny apps](https://shiny.posit.co/r/gallery/)
 that in their simplest form can be created in a few minutes or hours.
 More complicated platforms have emerged, such as
@@ -118,5 +162,7 @@ thinks about AI.
   * [Ramadda](https://ramadda.org/)
   * [Cyverse Open Science Workspace](https://cyverse.org/)
 * [Large Language Models (LLMs)](https://medium.com/data-science-at-microsoft/how-large-language-models-work-91c362f5b78f)
+
+_Updated March 22, 2024._
 
 
