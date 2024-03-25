@@ -102,7 +102,7 @@ Statistics is the mathematical language of scientific experimentation. It embodi
 * Sir Michael Scholar, chair of the UK Statistics Authority
     * I think there's been too much a tendency in the past to see the only important user [of statistics] as being the government. I think we have to get away from that.
 * Clifford Stoll (1995)
-    * Our networks are awash in data. A little of it's information. A smidgen of this shows up as knowledge. Combined with ideas, some of that is actually usefu. Mix in experience, context, compassion, discipline, humor, tolerance, and humility, and perhaps knowledge becomes wisdom. in  Silicon Snake Oil: second thoughts on the information highway, Anchor Books & Doubleday. ch. 11.
+    * Our networks are awash in data. A little of it's information. A smidgen of this shows up as knowledge. Combined with ideas, some of that is actually useful. Mix in experience, context, compassion, discipline, humor, tolerance, and humility, and perhaps knowledge becomes wisdom. in  Silicon Snake Oil: second thoughts on the information highway, Anchor Books & Doubleday. ch. 11.
     * (Cliff Stoll uncovered the first know cyber attack, from E Germany in 1986; see [https://en.m.wikipedia.org/wiki/Clifford_Stoll](https://en.m.wikipedia.org/wiki/Clifford_Stoll) & [1990 NOVA program](https://www.youtube.com/watch?v=EcKxaq1FTac))
 * David Suzuki (2017) 
     * The laboratory is an artifact. It does not reflect nature. (Paraphrased from 2007 talk. See his 1989 book, Inventing the future: Reflections on science, technology and nature. Stoddart Publ.)
