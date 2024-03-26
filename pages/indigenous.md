@@ -59,6 +59,7 @@ are global efforts to address climate change, growing connections with Indigenou
 * [Phenological Initiatives for INdigenous Peoples in Limnology (PhIN)](https://indigenouslimnology.weebly.com/)
 * [PLoS on Indigenous Data Sovereignty and Open Data](https://everyone.plos.org/2023/10/10/indigenous-data-sovereignty-and-open-data/)
 * [Project DrawDown](https://drawdown.org/)
+* [Revive & Restore](https://reviverestore.org/)
 * [Rising Voices](https://risingvoices.ucar.edu/): Workshops & Activities
 * [Seven Generation Inter-Tribal Leadership Summit](https://www.lco.edu/7gensummit) (LCOOU 29-30 Sep 2022)
 * [Status of Tribes and Climate Change Report (STACC)](https://sites.google.com/view/stacc2021-itep/home)
