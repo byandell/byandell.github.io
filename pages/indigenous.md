@@ -52,7 +52,7 @@ are global efforts to address climate change, growing connections with Indigenou
 * [IndigiData](https://indigidata.org/)
   * [Training the Next Generation of Indigenous Data Scientists (2021 NY Times)](https://www.nytimes.com/2021/06/29/science/indigenous-data-microbiome-science.html)
   * [Using data to bring power, autonomy to Indigenous communities (OSU College of Arts and Sciences)](https://artsandsciences.osu.edu/news/using-data-bring-power-autonomy-indigenous-communities) 
-  * [Indigenous scientists exchange knowledge at local workshop - Northwest Treaty Tribes (NW Treaty Tribes)](https://nwtreatytribes.org/indigenous-scientists-exchange-knowledge-at-local-workshop/) 
+  * [Indigenous scientists exchange knowledge at local workshop (NW Treaty Tribes)](https://nwtreatytribes.org/indigenous-scientists-exchange-knowledge-at-local-workshop/) 
   * [Situating IndigiData and Dark Laboratory (Aydelotte)](https://aydelotte.swarthmore.edu/publications/situating-indigidata-and-dark-laboratory/) 
   * [Indigidata For the Next Seven Generations (YouTube)](https://m.youtube.com/watch?v=-dL7fUX6rcI) 
   * [IndigiData Aotearoa](https://www.indigidataaotearoa.com)
