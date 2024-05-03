@@ -36,6 +36,8 @@ and
 are global efforts to address climate change, growing connections with Indigenous communities.
 
 * [350](https://350.org/) and [350 WI](https://350wisconsin.org/)
+* [American Indian Science and Engineering Society](https://www.aises.org/)
+  * [Winds of Change](https://woc.aises.org/)
 * [Digital Mappa](https://www.digitalmappa.org/)
 * [Enrich Hub](https://www.enrich-hub.org/)  
 * [Environmental Data Science Innovation & Inclusion Lab (ESIIL)](https://esiil.org)
