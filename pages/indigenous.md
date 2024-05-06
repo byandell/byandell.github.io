@@ -160,7 +160,7 @@ are global efforts to address climate change, growing connections with Indigenou
 ## Data Sovereignty Papers and Resources
 
 * [Megan Bang, Ananda Marin and Douglas Medin (2018) If Indigenous Peoples Stand with the Sciences, Will Scientists Stand with Us? In issue on Unfolding Futures: Indigenous Ways of Knowing for the Twenty-First Century. Daedalus , Spring 147(2): 148-159.](https://www.jstor.org/stable/10.2307/48563027)
-* [Moroni Benally (2008) Moroni for President (cooptation in collaborative settings)](https://americanfilmshowcase.com/filmmakers/benally-moroni/)
+* [Moroni Benally (2018) Moroni for President (cooptation in collaborative settings)](https://americanfilmshowcase.com/filmmakers/benally-moroni/)
 * [Alan Blatecky, Damian Clarke, Joel Cutcher-Gershenfeld, Deborah Dent, Rebecca Hipp, Ana Hunsinger, Al Kuslikis, Lauren Michael (2021 NSF OAC) The Missing Millions](https://www.rti.org/publication/missing-millions/fulltext.pdf)
 * [William J Blizek, Rory J Conces (1996) Ethics and Sovereignty. Philosophy Faculty Publications 11.](https://digitalcommons.unomaha.edu/philfacpub/11)
   * ethics, like politics, is a matter for each nation to decide for itself
