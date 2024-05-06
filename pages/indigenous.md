@@ -160,6 +160,7 @@ are global efforts to address climate change, growing connections with Indigenou
 ## Data Sovereignty Papers and Resources
 
 * [Megan Bang, Ananda Marin and Douglas Medin (2018) If Indigenous Peoples Stand with the Sciences, Will Scientists Stand with Us? In issue on Unfolding Futures: Indigenous Ways of Knowing for the Twenty-First Century. Daedalus , Spring 147(2): 148-159.](https://www.jstor.org/stable/10.2307/48563027)
+* [Moroni Benally (2008) Moroni for President (cooptation in collaborative settings)](https://americanfilmshowcase.com/filmmakers/benally-moroni/)
 * [Alan Blatecky, Damian Clarke, Joel Cutcher-Gershenfeld, Deborah Dent, Rebecca Hipp, Ana Hunsinger, Al Kuslikis, Lauren Michael (2021 NSF OAC) The Missing Millions](https://www.rti.org/publication/missing-millions/fulltext.pdf)
 * [William J Blizek, Rory J Conces (1996) Ethics and Sovereignty. Philosophy Faculty Publications 11.](https://digitalcommons.unomaha.edu/philfacpub/11)
   * ethics, like politics, is a matter for each nation to decide for itself
@@ -174,6 +175,7 @@ are global efforts to address climate change, growing connections with Indigenou
   * [Desi Rodriguez-Lonebear (2016) Building a Data Revolution in Indian Country. p 253-272](https://www.jstor.org/stable/j.ctt1q1crgf.21)
 * [Sarah de Leeuw (2017 Can Fam Physician) Putting calls into action](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5257223/)
 * [Ray Lovett, Vanessa Lee, Tahu Kukutai, Stephanie Carroll Rainie, Jennifer Walker. 2019. Good Data Practices for Indigenous Data Sovereignty, in Angela Daly, Kate Devitt, & Monique Mann (Eds.), Good Data, Amsterdam: Institute of Network Cultures Inc. ISBN 978-94-92302-27-4.](https://nni.arizona.edu/publications/good-data-practices-indigenous-data-sovereignty)
+* [Peter R Martin (2023) The ‘deer-men’ and the ‘bowhead-men’: The colonial co-optation of Arctic Indigenous knowledge within the ‘origins of the Inuit’ debates. Trans Inst British Geographers 49:  312615](https://doi.org/10.1111/tran.12615)
 * [Chidi Oguamanam (2020) Indigenous Peoples, Data Sovereignty, and Self-Determination: Current Realities and Imperatives. African J Information and Communication 26](https://dx.doi.org/10.23962/10539/30360)
 * [Erica AH Smithwick, Chris Caldwell et al. (2019) Learning About Forest Futures Under Climate Change Through Transdisciplinary Collaboration Across Traditional and Western Knowledge Systems. Springer](https://doi.org/10.1007/978-3-030-13827-1_5).
   * [Erica AH Smithwick, Chris Caldwell et al. (2019) Collaboration Across Boundaries for Social-Ecological Systems Science. pp 153-184.](https://link.springer.com/chapter/10.1007/978-3-030-13827-1_5) 
