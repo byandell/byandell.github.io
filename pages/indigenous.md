@@ -88,8 +88,8 @@ Walking on two legs: a pathway of Indigenous restoration and reconciliation in f
 
 ## Data Sovereignty Talks and Events
 
-* [ADSA Panel: Community-Centered Benefit Sharing and New Data Equities](https://adsaannual2021.sched.com/event/q8Ui) (9 Feb 2022)
-    * [Video Recording](https://m.youtube.com/watch?v=Q2jb7f_1aNY)
+* [ADSA Panel: Community-Centered Benefit Sharing and New Data Equities](https://adsaannual2021.sched.com/event/q8Ui) (9 Feb 2022;
+[Video Recording](https://m.youtube.com/watch?v=Q2jb7f_1aNY))
     * [Keolu Fox (University of California, San Diego)](https://ifi.ucsd.edu/dr-keolu-fox/) - Moderator
     * [Latifa Jackson (Howard University)](http://www.georgetownhowardctsa.org/research/meet-our-researchers/latifa-jackson-phd)
     * [Kaja Wasik (Variant Bio)](https://www.linkedin.com/in/kaja-wasik-8a8aa26b)
