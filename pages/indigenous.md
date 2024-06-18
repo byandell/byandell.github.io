@@ -111,6 +111,9 @@ Walking on two legs: a pathway of Indigenous restoration and reconciliation in f
   * [Exploring Data Sovereignty and the Sovereign Data Network 13-15 Feb 2024](https://ncar.ucar.edu/exploring-data-sovereignty-workshop)
   * [ESIIL Innovation Summit 14-16 May 2024](https://esiil.org/innovation-summit)
   * [UW Earth Partnership Native Education Pathways Workshop 24-28 Jun 2024](https://earthpartnership.wisc.edu/pre-college-opportunities-for-native-youth-in-wi/)
+  * [ESIIL Working Group Maka Sitomniya 8-1 Jul 2024](https://github.com/byandell/geospatial/blob/main/maka_sitomniya.md)
+  * [Seven Generation Inter-Tribal Leadership Summit 9-11 Oct 2024](https://www.lco.edu/7gensummit) 
+
 
 ## Indigenous Organizations & Communities
 
