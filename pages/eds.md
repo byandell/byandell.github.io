@@ -13,10 +13,40 @@ My efforts to network around EDS put me in touch with several talented [Indigeno
 and how we might better collaborate in the future to heal the planet.
 I am curious about how these new conversations and collaborations will evolve my thinking and contributions.
 
-- [Environmental Data Science Innovation & Inclusion Lab (ESIIL)](https://esiil.org)
+- [Environmental Organizations & Communities](#environmental-organizations-communities)
 - [Indigenous Data Science](/pages/indigenous/)
 - [Systems Ethology](/pages/ewing/)
 - [What is Data Science?](/What-is-Data-Science/)
 - [Data Evolve](/Data-Evolve/)
 - [Useful Data Science Quotes](/Useful-Data-Science-Quotes/)
+
+## Environmental Organizations & Communities
+
+* [350](https://350.org/) and [350 WI](https://350wisconsin.org/)
+* [American Panorama](https://dsl.richmond.edu/panorama/)
+  * [Mapping Inequality--Redlining](https://dsl.richmond.edu/panorama/redlining/)
+  * [Panorama Toolkit examples](http://americanpanorama.github.io/panorama/)
+  * [GitHub](https://github.com/americanpanorama)
+* [Copernicus EU State of the Climate](https://climate.copernicus.eu/)
+* [Digital Mappa](https://www.digitalmappa.org/)
+* [EarthByte](https://www.earthbyte.org/)
+  * [Muller Tectonic Plates Reconstructions](https://www.earthbyte.org/category/reconstructions/muller-et-al-2019/)
+  * [Reconstructions](https://www.earthbyte.org/category/reconstructions/)
+* [EarthLab]()
+* [Earth Science Information Partners](https://www.esipfed.org/) Telecons
+  * [ESIP Data Management Training Clearinghouse](https://dmtclearinghouse.esipfed.org/about) 
+* [Environmental Data Science Innovation & Inclusion Lab (ESIIL)](https://esiil.org)
+  * [ESIIL Working Groups](https://esiil.org/working-groups)
+* [Geoscience Alliance](https://geosciencealliance.org) 
+* [Great Lakes Integrated Sciences And Assessments (GLISA)](https://glisa.umich.edu/)
+* [International Crane Foundation (ICF)](https://savingcranes.org/)
+  * [Whooping Cranes--A Texas Love Story](https://earthwatch.org/stories/whooping-cranes-texas-love-story)
+* [Local Contexts](https://localcontexts.org/)
+* [Metropolitan Council (Twin Cities) Climate Action](https://metrocouncil.org/Planning/Climate.aspx)
+* [Perry World House's Global Climate Security Atlas](https://global.upenn.edu/perryworldhouse/global-climate-security-atlas)
+* [Project DrawDown](https://drawdown.org/)
+* [Revive & Restore](https://reviverestore.org/)
+* WI DNR
+  * [WI DNR Open Data Portal](https://data-wi-dnr.opendata.arcgis.com/)
+  * [WI DNR Climate Change](https://dnr.wisconsin.gov/climatechange)
 

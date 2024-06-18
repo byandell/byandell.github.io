@@ -10,55 +10,100 @@ during the 2020s have put me in touch with several talented Indigenous data scie
 [Traditional Knowledge](https://www.wipo.int/tk),
 and how we might better collaborate in the future to heal the planet. I am curious about how these new conversations and collaborations will evolve my thinking and contributions.
 
-* [Data Sovereignty Course Project](/Data-Sovereignty/)
-* [Organizations and Communities](#organizations-and-communities)
-* [Talks and Events](#data-sovereignty-talks-and-events)
+* [Data Sovereignty Papers and Resources](#data-sovereignty-papers-and-resources)
+* [Data Sovereignty Talks and Events](#data-sovereignty-talks-and-events)
+* [Indigenous Organizations & Communities](#indigenous-organizations-communities)
   * [Wisconsin](#wisconsin)
   * [Tribes](#tribes)
-* [Papers and Resources](#data-sovereignty-papers-and-resources)
 * [Additional Material](#additional-material)
+* [Data Sovereignty Course Project](/Data-Sovereignty/)
 
-### My Events
+## Data Sovereignty Papers and Resources
+
+* [Megan Bang, Ananda Marin and Douglas Medin (2018) If Indigenous Peoples Stand with the Sciences, Will Scientists Stand with Us? In issue on Unfolding Futures: Indigenous Ways of Knowing for the Twenty-First Century. Daedalus , Spring 147(2): 148-159.](https://www.jstor.org/stable/10.2307/48563027)
+* [Moroni Benally (2018) Moroni for President (cooptation in collaborative settings)](https://americanfilmshowcase.com/filmmakers/benally-moroni/)
+* [Alan Blatecky, Damian Clarke, Joel Cutcher-Gershenfeld, Deborah Dent, Rebecca Hipp, Ana Hunsinger, Al Kuslikis, Lauren Michael (2021 NSF OAC) The Missing Millions](https://www.rti.org/publication/missing-millions/fulltext.pdf)
+* [William J Blizek, Rory J Conces (1996) Ethics and Sovereignty. Philosophy Faculty Publications 11.](https://digitalcommons.unomaha.edu/philfacpub/11)
+  * ethics, like politics, is a matter for each nation to decide for itself
+  * ethics reaches beyond sovereignty to right or wrong, independently of what people of any nation claim
+* [Stephanie Russo Carroll, Edit Herczog, Maui Hudson, Keith Russell, Shelley Stall (2021) Operationalizing the CARE and FAIR Principles for Indigenous data futures.  Nature 8: 108.](https://doi.org/10.1038/s41597-021-00892-0) 
+* [Stephanie Russo Carroll, Ibrahim Garba, Oscar L. Figueroa-Rodríguez,
+Jarita Holbrook, Raymond Lovett, Simeon Materechera, Mark Parsons,
+Kay Raseroka, Desi Rodriguez-Lonebear, Robyn Rowe, Rodrigo Sara
+Jennifer D. Walker, Jane Anderson, Maui Hudson (2020) The CARE Principles for Indigenous Data Governance. Data Science J 19: 43](https://doi.org/10.5334/dsj-2020-043)
+* [Stephanie Russo Carroll, Desi Rodriguez-Lonebear, Andrew Martinez (2019) Indigenous Data Governance: Strategies from United States Native Nations. Data Science J 18: 1-15](https://doi.org/10.5334/dsj-2019-031)
+* [Stephanie Russo Carroll, Desi Rodriguez-Lonebear, Andrew Martinez (2017?) Indigenous Data Sovereignty in the United States: Policy Brief](https://static1.squarespace.com/static/5d3799de845604000199cd24/t/5d6f93c9c5442b00013e4b69/1567593418017/Policy%2BBrief%2BIndigenous%2BData%2BSovereignty%2Bin%2Bthe%2BUnited%2BStates%2BV0.3%2Bcopy.pdf)
+* [Tim Davies, Stephen B Walker, Mor Rubinstein, Fernando Perini (eds) (2019 Cape Town and Ottawa) State of Open Data: Histories and Horizons](https://www.stateofopendata.od4d.net/)  
+  * [Stephanie Carroll Rainie, Tahu Kukutai, Maggie Walter, Oscar Luis Figueroa-Rodriguez, Jennifer Walker, Per Axelsson (2019) Indigenous Data Sovereignty. African Minds and International Development Research Centre. ISBN 9781928331957. Ch 21](https://www.stateofopendata.od4d.net/chapters/issues/indigenous-data.html).
+* [Sarah Dickson-Hoyle, Ronald E Ignace, Marianne B Ignace, Shannon M Hagerman, Lori D Daniels, Kelsey Copes-Gerbitz (2021) Walking on two legs: a pathway of Indigenous restoration and reconciliation in fire-adapted landscapes](https://doi.org/10.1111/rec.13566)
+* [Tahu Kukutai, John Taylor (2016) Indigenous Data Sovereignty: Toward an Agenda. Australia: Australian National U Press](https://www.jstor.org/stable/j.ctt1q1crgf)
+  * [Desi Rodriguez-Lonebear (2016) Building a Data Revolution in Indian Country. p 253-272](https://www.jstor.org/stable/j.ctt1q1crgf.21)
+* [Sarah de Leeuw (2017 Can Fam Physician) Putting calls into action](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5257223/)
+* [Ray Lovett, Vanessa Lee, Tahu Kukutai, Stephanie Carroll Rainie, Jennifer Walker. 2019. Good Data Practices for Indigenous Data Sovereignty, in Angela Daly, Kate Devitt, & Monique Mann (Eds.), Good Data, Amsterdam: Institute of Network Cultures Inc. ISBN 978-94-92302-27-4.](https://nni.arizona.edu/publications/good-data-practices-indigenous-data-sovereignty)
+* [Peter R Martin (2023) The ‘deer-men’ and the ‘bowhead-men’: The colonial co-optation of Arctic Indigenous knowledge within the ‘origins of the Inuit’ debates. Trans Inst British Geographers 49:  312615](https://doi.org/10.1111/tran.12615)
+* [Chidi Oguamanam (2020) Indigenous Peoples, Data Sovereignty, and Self-Determination: Current Realities and Imperatives. African J Information and Communication 26](https://dx.doi.org/10.23962/10539/30360)
+* [Erica AH Smithwick, Chris Caldwell et al. (2019) Learning About Forest Futures Under Climate Change Through Transdisciplinary Collaboration Across Traditional and Western Knowledge Systems. Springer](https://doi.org/10.1007/978-3-030-13827-1_5).
+  * [Erica AH Smithwick, Chris Caldwell et al. (2019) Collaboration Across Boundaries for Social-Ecological Systems Science. pp 153-184.](https://link.springer.com/chapter/10.1007/978-3-030-13827-1_5) 
+* [Kath Traynor (2017) Data Management Plan: Empowering Indigenous Peoples and Knowledge Systems Related to Climate Change and Intellectual Property Rights. Research Ideas and Outcomes 3: e15111.](https://doi.org/10.3897/rio.3.e15111) 
+* [Sarah Trembath (2024) Decoloniality](https://subjectguides.library.american.edu/c.php?g=1025915&p=7715527)
+* [Susan Tussy (2021 GLOBUS) State Of the Craft in Research Data Management ](https://www.globus.org/blog/state-craft-research-data-management-1) (discusses sovereignty) 
+* [Maggie Walter, Tahu Kukutai, Stephanie Russo Carroll, Desi Rodriguez-Lonebear  (2020) Indigenous Data Sovereignty and Policy.  1st ed. Routledge, 244p.](https://doi.org/10.4324/9780429273957)
+* [Victoria Warren-Mears (n.d.) Principles and Models for Data Sharing Agreements with American Indian/Alaska Native Communities.  Northwest Portland Area Indian Health Board Tribal Epidemiology Center.](https://static1.squarespace.com/static/58e9b10f9de4bb8d1fb5ebbc/t/592a6d81bebafb216b51a61b/1495952772545/Principles+and+Models+for+Data+Sharing+Agreements.pdf)
+
+## Data Sovereignty Talks and Events
+
+* [ADSA Panel: Community-Centered Benefit Sharing and New Data Equities](https://adsaannual2021.sched.com/event/q8Ui) (9 Feb 2022)
+    * [Video Recording](https://m.youtube.com/watch?v=Q2jb7f_1aNY)
+    * [Keolu Fox (University of California, San Diego)](https://ifi.ucsd.edu/dr-keolu-fox/) - Moderator
+    * [Latifa Jackson (Howard University)](http://www.georgetownhowardctsa.org/research/meet-our-researchers/latifa-jackson-phd)
+    * [Kaja Wasik (Variant Bio)](https://www.linkedin.com/in/kaja-wasik-8a8aa26b)
+    * [Ann McCartney (National Institutes of Health, National Human Genome Research Institute, Bioinformatics)](https://genomeinformatics.github.io/people/mccartney/)
+    * [Krystal Tsosie (Native BioData Consortium, Arizona State University)](https://www.dataleadershipcollaborative.com/about/contributors/krystal-tsosie)
+* [Earth Parternership CRRR Webinar (2021) Nicole Bowman on Indigenous Data Sovereignty and Tribal Nation Implications for Addressing the Federal Evidence-Based Policy Making Act of 2018](https://drive.google.com/file/d/18f05xIRdYHMza2UunPV4hAYzkuLKL6uW)
+* [ESIIL Innovation Summit (annual in May)](https://esiil.org/innovation-summit)
+& [ESIIL Hackathon (annual in Oct/Nov)](https://esiil.org/virtual-hackathon)
+* [Food sovereignty, Native knowledge-keeping part of Indigenous Peoples Day events (8-11 Oct 2023, CU Boulder)](https://www.colorado.edu/today/2023/10/06/food-sovereignty-native-knowledge-keeping-part-indigenous-peoples-day-events) 
+* [Institute for Social Research--Webinar on ethical use of indigenous data](https://www.icpsr.umich.edu/web/about/cms/3322)
+* [International Institute for the Sociology of Law--Workshop on International Law, the United Nations Declarations of the Rights of Indigenous Peoples and Indigenous Data Sovereignty](https://www.iisj.net/en/workshops/international-law-united-nations-declarations-rights-indigenous-peoples-and-indigenous), 11-12 July, 2019
+* [NASA Applied Sciences--An Introduction to Remote Sensing for Tribal Lands](https://appliedsciences.nasa.gov/join-mission/training/english/introduction-remote-sensing-tribal-lands)
+* [NCEAS Seminar Series: Advancing Ecology and Environmental Data Science for a More Just and Equitable Future](https://www.nceas.ucsb.edu/equity-justice-seminar)
+  * [Indigenous Data Sovereignty--How Scientists and Researchers can Empower Data Governance](https://www.youtube.com/watch?v=RjolET69Z8c). Lydia Jennings. 7 April 2021. [Poster](https://www.nceas.ucsb.edu/sites/default/files/2021-03/NCEAS-Equity-Justice-Seminar-JENNINGS.pdf) 
+* [Rising Voices](https://risingvoices.ucar.edu/) Panel: [NOAA Environmental Data Talks - Speaker Series Data, Diversity, and Disaster](https://youtu.be/CAZpPuJX9uM) October 16, 2020
+
+#### My Events
 
   * [Exploring Data Sovereignty and the Sovereign Data Network 13-15 Feb 2024](https://ncar.ucar.edu/exploring-data-sovereignty-workshop)
   * [ESIIL Innovation Summit 14-16 May 2024](https://esiil.org/innovation-summit)
   * [UW Earth Partnership Native Education Pathways Workshop 24-28 Jun 2024](https://earthpartnership.wisc.edu/pre-college-opportunities-for-native-youth-in-wi/)
 
-## Organizations and Communities
+## Indigenous Organizations & Communities
 
 This list is primarily about Indigenous data science, but includes other links
 pertinent to EDS and climate change. For instance,
 [Digital Mappa](https://www.digitalmappa.org/)
 is a system to network maps and ancient scrolls/texts, which could be quite useful for organizing sovereign documents.
+See also
+[Environmental Organizations & Communities](#environmental-organizations-communities),
+which includes
 [350](https://350.org/)
 and
 [Project DrawDown](https://drawdown.org/)
-are global efforts to address climate change, growing connections with Indigenous communities.
+as global efforts to address climate change, growing connections with Indigenous communities.
 
-* [350](https://350.org/) and [350 WI](https://350wisconsin.org/)
 * [American Indian Science and Engineering Society](https://www.aises.org/)
   * [Winds of Change](https://woc.aises.org/)
-* [American Panorama](https://dsl.richmond.edu/panorama/)
-  * [Mapping Inequality--Redlining](https://dsl.richmond.edu/panorama/redlining/)
-  * [Panorama Toolkit examples](http://americanpanorama.github.io/panorama/)
-  * [GitHub](https://github.com/americanpanorama)
-* [Copernicus EU State of the Climate](https://climate.copernicus.eu/)
-* [Digital Mappa](https://www.digitalmappa.org/)
-* [EarthByte](https://www.earthbyte.org/)
-  * [Muller Tectonic Plates Reconstructions](https://www.earthbyte.org/category/reconstructions/muller-et-al-2019/)
-  * [Reconstructions](https://www.earthbyte.org/category/reconstructions/)
-* [EarthLab]()
 * [Enrich Hub](https://www.enrich-hub.org/)  
-* [Environmental Data Science Innovation & Inclusion Lab (ESIIL)](https://esiil.org)
-  * [ESIIL Working Groups](https://esiil.org/working-groups)
 * [First Nations Principles of OCAP®](https://fnigc.ca/ocap-training/)
-* [Geoscience Alliance](https://geosciencealliance.org) 
+* [Geoscience Alliance](https://geosciencealliance.org/useful-resources/) 
+  * [Laura Matson et al. (2021) Transforming research and relationships through collaborative tribal-university partnerships on Manoomin (wild rice). Environmental Science & Policy 115, pp 108-115.](https://doi.org/10.1016/j.envsci.2020.10.010)
+  * [Diana M Dalbotten, Emi Ito, Susan Eriksson, Holly Pellerin, Lowana Greensky, Courtney Kowalczak, Antony Berthelote (2017) Gidakiimanaanawigamig’s Circle of Learning: A Model for Partnership between Tribal Community and Research University. International Journal of Partnership Studies, Vol. 4(3)](https://doi.org/10.24926/ijps.v4i3.176)
+  * [Steven Semken (2018) Sense of Place and Place-Based Introductory Geoscience Teaching for American Indian and Alaska Native Undergraduates. Geoscience Education 53: 149-157.](https://doi.org/10.5408/1089-9995-53.2.149) 
+  * [Natalie C Ban, Alejandro Frid, Mike Reid, Barry Edgar, Danielle Shaw, Peter Siwallace (2018) Incorporate Indigenous perspectives for impactful research and effective management. Nature Ecology & Evolution 2: 1680-1683](https://doi.org/10.1038/s41559-018-0706-0)
 * [Global Indigenous Data Alliance (GIDA)](https://www.gida-global.org/)
   * [CARE Principlies for Indigenous Data Governance (GIDA)](https://www.gida-global.org/care)
   * [CARE Principles: Unpacking Indigenous Data Governance](https://medium.com/opendatacharter/spotlight-care-principles-f475ec2bf6ec) (Medium)
   * [FAIR Principles for scientific data management](https://www.go-fair.org/fair-principles/)
 * [Great Lakes Indian Fish & Wildlife Commission (GLIFWC)](https://glifwc.org/)
-* [Great Lakes Integrated Sciences And Assessments (GLISA)](https://glisa.umich.edu/)
 * [Indigenous Climate Resilience Network](https://www.icrn.us/)
 * [IndigiData](https://indigidata.org/)
   * [Training the Next Generation of Indigenous Data Scientists (2021 NY Times)](https://www.nytimes.com/2021/06/29/science/indigenous-data-microbiome-science.html)
@@ -67,10 +112,6 @@ are global efforts to address climate change, growing connections with Indigenou
   * [Situating IndigiData and Dark Laboratory (Aydelotte)](https://aydelotte.swarthmore.edu/publications/situating-indigidata-and-dark-laboratory/) 
   * [Indigidata For the Next Seven Generations (YouTube)](https://m.youtube.com/watch?v=-dL7fUX6rcI) 
   * [IndigiData Aotearoa](https://www.indigidataaotearoa.com)
-* [International Crane Foundation (ICF)](https://savingcranes.org/)
-  * [Whooping Cranes--A Texas Love Story](https://earthwatch.org/stories/whooping-cranes-texas-love-story)
-* [Local Contexts](https://localcontexts.org/)
-* [Metropolitan Council (Twin Cities) Climate Action](https://metrocouncil.org/Planning/Climate.aspx)
 * [Nagoya Protocol-Convention on Biological Diversity](https://www.dcceew.gov.au/science-research/australias-biological-resources/nagoya-protocol-convention-biological)
 * [National Conference of American Indians](https://www.ncai.org/)
 * [Native American and Indigenous Microbiologists (Amer Soc Microbiology)](https://asm.org/ideaa/resources/asm-s-focus-on-native-american-and-indigenous-micr)
@@ -79,11 +120,8 @@ are global efforts to address climate change, growing connections with Indigenou
 * [Native Nations Institute (NNI)](https://nni.arizona.edu/)
   * [Indigenous Data Sovereignty and Governance](https://nni.arizona.edu/programs-projects/policy-analysis-research/indigenous-data-sovereignty-and-governance)
 * [Oyate Hotanin (Voice of the People)](https://oyatehotanin.org/)
-* [Perry World House's Global Climate Security Atlas](https://global.upenn.edu/perryworldhouse/global-climate-security-atlas)
 * [Phenological Initiatives for INdigenous Peoples in Limnology (PhIN)](https://indigenouslimnology.weebly.com/)
 * [PLoS on Indigenous Data Sovereignty and Open Data](https://everyone.plos.org/2023/10/10/indigenous-data-sovereignty-and-open-data/)
-* [Project DrawDown](https://drawdown.org/)
-* [Revive & Restore](https://reviverestore.org/)
 * [Rising Voices](https://risingvoices.ucar.edu/): Workshops & Activities
 * [Seven Generation Inter-Tribal Leadership Summit](https://www.lco.edu/7gensummit) (LCOOU, Sep/Oct)
 * [Status of Tribes and Climate Change Report (STACC)](https://sites.google.com/view/stacc2021-itep/home)
@@ -100,29 +138,6 @@ are global efforts to address climate change, growing connections with Indigenou
   * [Earth Partnership](https://earthpartnership.wisc.edu)
   * [Native Nations UW Google Group](https://groups.google.com/u/1/a/g-groups.wisc.edu/g/nn_uw-2019)
   * [UW Regents Policy on Tribal Consultation](https://www.wisconsin.edu/regents/policies/tribal-consultation/)
-* WI DNR
-  * [WI DNR Open Data Portal](https://data-wi-dnr.opendata.arcgis.com/)
-  * [WI DNR Climate Change](https://dnr.wisconsin.gov/climatechange)
-
-## Data Sovereignty Talks and Events
-
-* [ESIIL Innovation Summit (annual in May)](https://esiil.org/innovation-summit)
-& [ESIIL Hackathon (annual in Oct/Nov)](https://esiil.org/virtual-hackathon)
-* [Food sovereignty, Native knowledge-keeping part of Indigenous Peoples Day events (8-11 Oct 2023, CU Boulder)](https://www.colorado.edu/today/2023/10/06/food-sovereignty-native-knowledge-keeping-part-indigenous-peoples-day-events) 
-* [ADSA Panel: Community-Centered Benefit Sharing and New Data Equities](https://adsaannual2021.sched.com/event/q8Ui) (9 Feb 2022)
-    * [Video Recording](https://m.youtube.com/watch?v=Q2jb7f_1aNY)
-    * [Keolu Fox (University of California, San Diego)](https://ifi.ucsd.edu/dr-keolu-fox/) - Moderator
-    * [Latifa Jackson (Howard University)](http://www.georgetownhowardctsa.org/research/meet-our-researchers/latifa-jackson-phd)
-    * [Kaja Wasik (Variant Bio)](https://www.linkedin.com/in/kaja-wasik-8a8aa26b)
-    * [Ann McCartney (National Institutes of Health, National Human Genome Research Institute, Bioinformatics)](https://genomeinformatics.github.io/people/mccartney/)
-    * [Krystal Tsosie (Native BioData Consortium, Arizona State University)](https://www.dataleadershipcollaborative.com/about/contributors/krystal-tsosie)
-* [Rising Voices](https://risingvoices.ucar.edu/) Panel: [NOAA Environmental Data Talks - Speaker Series Data, Diversity, and Disaster](https://youtu.be/CAZpPuJX9uM) October 16, 2020
-* [Workshop on International Law, the United Nations Declarations of the Rights of Indigenous Peoples and Indigenous Data Sovereignty](https://www.iisj.net/en/workshops/international-law-united-nations-declarations-rights-indigenous-peoples-and-indigenous), 11-12 July, 2019
-* [Webinar on ethical use of indigenous data](https://www.icpsr.umich.edu/web/about/cms/3322)
-* Indigenous Data Sovereignty and Tribal Nation Implications for Addressing the Federal Evidence-Based Policy Making Act of 2018. Nicole Bowman. Feb 2021. [CRRR Webinar 3.31.21 Final.pdf](https://drive.google.com/file/d/18f05xIRdYHMza2UunPV4hAYzkuLKL6uW)
-* [Indigenous Data Sovereignty--How Scientists and Researchers can Empower Data Governance](https://www.youtube.com/watch?v=RjolET69Z8c). Lydia Jennings. [NCEAS Seminar Series: Advancing Ecology and Environmental Data Science for a More Just and Equitable Future](https://www.nceas.ucsb.edu/equity-justice-seminar). 7 April 2021. [Poster](https://www.nceas.ucsb.edu/sites/default/files/2021-03/NCEAS-Equity-Justice-Seminar-JENNINGS.pdf) 
-* [Operationalising Be FAIR and CARE](https://www.rd-alliance.org/operationalising-be-fair-and-care). 3 Apr 2020
-* [Implementing the CARE Principles: The CARE-full Process](https://www.rd-alliance.org/implementing-care-principles-care-full-process). 29 Jan 2021
 
 ### Wisconsin
 
@@ -174,45 +189,6 @@ are global efforts to address climate change, growing connections with Indigenou
   * Menominee sturgeon 
     * [David RM Beck (1995 WI Mag History) Return to Namä'o Uskíwämît: The Importance of Sturgeon in Menominee Indian History](https://www.jstor.org/stable/4636602)
     * [What is Possible in Community? Reflecting on Harvest Days at Sturgeon Lake First Nation](https://www.nccie.ca/story/what-is-possible-in-community-reflecting-on-harvest-days-at-sturgeon-lake-first-nation/?lang=fr)
-
-## Data Sovereignty Papers and Resources
-
-* [Megan Bang, Ananda Marin and Douglas Medin (2018) If Indigenous Peoples Stand with the Sciences, Will Scientists Stand with Us? In issue on Unfolding Futures: Indigenous Ways of Knowing for the Twenty-First Century. Daedalus , Spring 147(2): 148-159.](https://www.jstor.org/stable/10.2307/48563027)
-* [Moroni Benally (2018) Moroni for President (cooptation in collaborative settings)](https://americanfilmshowcase.com/filmmakers/benally-moroni/)
-* [Alan Blatecky, Damian Clarke, Joel Cutcher-Gershenfeld, Deborah Dent, Rebecca Hipp, Ana Hunsinger, Al Kuslikis, Lauren Michael (2021 NSF OAC) The Missing Millions](https://www.rti.org/publication/missing-millions/fulltext.pdf)
-* [William J Blizek, Rory J Conces (1996) Ethics and Sovereignty. Philosophy Faculty Publications 11.](https://digitalcommons.unomaha.edu/philfacpub/11)
-  * ethics, like politics, is a matter for each nation to decide for itself
-  * ethics reaches beyond sovereignty to right or wrong, independently of what people of any nation claim
-* [Stephanie Russo Carroll, Edit Herczog, Maui Hudson, Keith Russell, Shelley Stall (2021) Operationalizing the CARE and FAIR Principles for Indigenous data futures.  Nature 8: 108.](https://doi.org/10.1038/s41597-021-00892-0) 
-* [Stephanie Russo Carroll, Desi Rodriguez-Lonebear, Andrew Martinez (2019) Indigenous Data Governance: Strategies from United States Native Nations. Data Science J 18: 1-15](https://doi.org/10.5334/dsj-2019-031)
-* [Stephanie Russo Carroll, Desi Rodriguez-Lonebear, Andrew Martinez (2017?) Indigenous Data Sovereignty in the United States: Policy Brief](https://static1.squarespace.com/static/5d3799de845604000199cd24/t/5d6f93c9c5442b00013e4b69/1567593418017/Policy%2BBrief%2BIndigenous%2BData%2BSovereignty%2Bin%2Bthe%2BUnited%2BStates%2BV0.3%2Bcopy.pdf)
-* [Tim Davies, Stephen B Walker, Mor Rubinstein, Fernando Perini (eds) (2019 Cape Town and Ottawa) State of Open Data: Histories and Horizons](https://www.stateofopendata.od4d.net/)  
-  * [Stephanie Carroll Rainie, Tahu Kukutai, Maggie Walter, Oscar Luis Figueroa-Rodriguez, Jennifer Walker, Per Axelsson (2019) Indigenous Data Sovereignty. African Minds and International Development Research Centre. ISBN 9781928331957. Ch 21](https://www.stateofopendata.od4d.net/chapters/issues/indigenous-data.html).
-* [Sarah Dickson-Hoyle, Ronald E Ignace, Marianne B Ignace, Shannon M Hagerman, Lori D Daniels, Kelsey Copes-Gerbitz (2021) Walking on two legs: a pathway of Indigenous restoration and reconciliation in fire-adapted landscapes](https://doi.org/10.1111/rec.13566)
-* [Tahu Kukutai, John Taylor (2016) Indigenous Data Sovereignty: Toward an Agenda. Australia: Australian National U Press](https://www.jstor.org/stable/j.ctt1q1crgf)
-  * [Desi Rodriguez-Lonebear (2016) Building a Data Revolution in Indian Country. p 253-272](https://www.jstor.org/stable/j.ctt1q1crgf.21)
-* [Sarah de Leeuw (2017 Can Fam Physician) Putting calls into action](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5257223/)
-* [Ray Lovett, Vanessa Lee, Tahu Kukutai, Stephanie Carroll Rainie, Jennifer Walker. 2019. Good Data Practices for Indigenous Data Sovereignty, in Angela Daly, Kate Devitt, & Monique Mann (Eds.), Good Data, Amsterdam: Institute of Network Cultures Inc. ISBN 978-94-92302-27-4.](https://nni.arizona.edu/publications/good-data-practices-indigenous-data-sovereignty)
-* [Peter R Martin (2023) The ‘deer-men’ and the ‘bowhead-men’: The colonial co-optation of Arctic Indigenous knowledge within the ‘origins of the Inuit’ debates. Trans Inst British Geographers 49:  312615](https://doi.org/10.1111/tran.12615)
-* [Chidi Oguamanam (2020) Indigenous Peoples, Data Sovereignty, and Self-Determination: Current Realities and Imperatives. African J Information and Communication 26](https://dx.doi.org/10.23962/10539/30360)
-* [Erica AH Smithwick, Chris Caldwell et al. (2019) Learning About Forest Futures Under Climate Change Through Transdisciplinary Collaboration Across Traditional and Western Knowledge Systems. Springer](https://doi.org/10.1007/978-3-030-13827-1_5).
-  * [Erica AH Smithwick, Chris Caldwell et al. (2019) Collaboration Across Boundaries for Social-Ecological Systems Science. pp 153-184.](https://link.springer.com/chapter/10.1007/978-3-030-13827-1_5) 
-* [Kath Traynor (2017) Data Management Plan: Empowering Indigenous Peoples and Knowledge Systems Related to Climate Change and Intellectual Property Rights. Research Ideas and Outcomes 3: e15111.](https://doi.org/10.3897/rio.3.e15111) 
-* [Sarah Trembath (2024) Decoloniality](https://subjectguides.library.american.edu/c.php?g=1025915&p=7715527)
-* [Susan Tussy (2021 GLOBUS) State Of the Craft in Research Data Management ](https://www.globus.org/blog/state-craft-research-data-management-1) (discusses sovereignty) 
-* [Maggie Walter, Tahu Kukutai, Stephanie Russo Carroll, Desi Rodriguez-Lonebear  (2020) Indigenous Data Sovereignty and Policy.  1st ed. Routledge, 244p.](https://doi.org/10.4324/9780429273957)
-* [Victoria Warren-Mears (n.d.) Principles and Models for Data Sharing Agreements with American Indian/Alaska Native Communities.  Northwest Portland Area Indian Health Board Tribal Epidemiology Center.](https://static1.squarespace.com/static/58e9b10f9de4bb8d1fb5ebbc/t/592a6d81bebafb216b51a61b/1495952772545/Principles+and+Models+for+Data+Sharing+Agreements.pdf)
-
-### Geospatial
-
-* [Earth Science Information Partners](https://www.esipfed.org/) Telecons
-  * [ESIP Data Management Training Clearinghouse](https://dmtclearinghouse.esipfed.org/about) 
-* [An Introduction to Remote Sensing for Tribal Lands (NASA Applied Sciences)](https://appliedsciences.nasa.gov/join-mission/training/english/introduction-remote-sensing-tribal-lands)
-* [Geoscience Alliance](https://geosciencealliance.org/useful-resources/) 
-  * [Laura Matson et al. (2021) Transforming research and relationships through collaborative tribal-university partnerships on Manoomin (wild rice). Environmental Science & Policy 115, pp 108-115.](https://doi.org/10.1016/j.envsci.2020.10.010)
-  * [Diana M Dalbotten, Emi Ito, Susan Eriksson, Holly Pellerin, Lowana Greensky, Courtney Kowalczak, Antony Berthelote (2017) Gidakiimanaanawigamig’s Circle of Learning: A Model for Partnership between Tribal Community and Research University. International Journal of Partnership Studies, Vol. 4(3)](https://doi.org/10.24926/ijps.v4i3.176)
-  * [Steven Semken (2018) Sense of Place and Place-Based Introductory Geoscience Teaching for American Indian and Alaska Native Undergraduates. Geoscience Education 53: 149-157.](https://doi.org/10.5408/1089-9995-53.2.149) 
-  * [Natalie C Ban, Alejandro Frid, Mike Reid, Barry Edgar, Danielle Shaw, Peter Siwallace (2018) Incorporate Indigenous perspectives for impactful research and effective management. Nature Ecology & Evolution 2: 1680-1683](https://doi.org/10.1038/s41559-018-0706-0)
 
 ### Indigenous Arts
 
