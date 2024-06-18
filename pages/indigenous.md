@@ -38,7 +38,16 @@ are global efforts to address climate change, growing connections with Indigenou
 * [350](https://350.org/) and [350 WI](https://350wisconsin.org/)
 * [American Indian Science and Engineering Society](https://www.aises.org/)
   * [Winds of Change](https://woc.aises.org/)
+* [American Panorama](https://dsl.richmond.edu/panorama/)
+  * [Mapping Inequality--Redlining](https://dsl.richmond.edu/panorama/redlining/)
+  * [Panorama Toolkit examples](http://americanpanorama.github.io/panorama/)
+  * [GitHub](https://github.com/americanpanorama)
+* [Copernicus EU State of the Climate](https://climate.copernicus.eu/)
 * [Digital Mappa](https://www.digitalmappa.org/)
+* [EarthByte](https://www.earthbyte.org/)
+  * [Muller Tectonic Plates Reconstructions](https://www.earthbyte.org/category/reconstructions/muller-et-al-2019/)
+  * [Reconstructions](https://www.earthbyte.org/category/reconstructions/)
+* [EarthLab]()
 * [Enrich Hub](https://www.enrich-hub.org/)  
 * [Environmental Data Science Innovation & Inclusion Lab (ESIIL)](https://esiil.org)
   * [ESIIL Working Groups](https://esiil.org/working-groups)
@@ -58,7 +67,10 @@ are global efforts to address climate change, growing connections with Indigenou
   * [Situating IndigiData and Dark Laboratory (Aydelotte)](https://aydelotte.swarthmore.edu/publications/situating-indigidata-and-dark-laboratory/) 
   * [Indigidata For the Next Seven Generations (YouTube)](https://m.youtube.com/watch?v=-dL7fUX6rcI) 
   * [IndigiData Aotearoa](https://www.indigidataaotearoa.com)
+* [International Crane Foundation (ICF)](https://savingcranes.org/)
+  * [Whooping Cranes--A Texas Love Story](https://earthwatch.org/stories/whooping-cranes-texas-love-story)
 * [Local Contexts](https://localcontexts.org/)
+* [Metropolitan Council (Twin Cities) Climate Action](https://metrocouncil.org/Planning/Climate.aspx)
 * [Nagoya Protocol-Convention on Biological Diversity](https://www.dcceew.gov.au/science-research/australias-biological-resources/nagoya-protocol-convention-biological)
 * [National Conference of American Indians](https://www.ncai.org/)
 * [Native American and Indigenous Microbiologists (Amer Soc Microbiology)](https://asm.org/ideaa/resources/asm-s-focus-on-native-american-and-indigenous-micr)
@@ -67,6 +79,7 @@ are global efforts to address climate change, growing connections with Indigenou
 * [Native Nations Institute (NNI)](https://nni.arizona.edu/)
   * [Indigenous Data Sovereignty and Governance](https://nni.arizona.edu/programs-projects/policy-analysis-research/indigenous-data-sovereignty-and-governance)
 * [Oyate Hotanin (Voice of the People)](https://oyatehotanin.org/)
+* [Perry World House's Global Climate Security Atlas](https://global.upenn.edu/perryworldhouse/global-climate-security-atlas)
 * [Phenological Initiatives for INdigenous Peoples in Limnology (PhIN)](https://indigenouslimnology.weebly.com/)
 * [PLoS on Indigenous Data Sovereignty and Open Data](https://everyone.plos.org/2023/10/10/indigenous-data-sovereignty-and-open-data/)
 * [Project DrawDown](https://drawdown.org/)
@@ -78,6 +91,7 @@ are global efforts to address climate change, growing connections with Indigenou
 * [Te Mana Raraunga, Māori Data Sovereignty Network](https://www.temanararaunga.maori.nz/)
 * [Traditional Lifeways and Storytelling--Tools for Adaptation and Resilience to Ecosystem Change](https://link.springer.com/article/10.1007/s10745-019-00113-8) 
 * [Tribal Climate Adaptation Menu](https://forestadaptation.org/tribal-climate-adaptation-menu)
+* [Tribal College--Journal of American Indian Higher Education](https://tribalcollegejournal.org/paul-boyer-on-the-new-information-age/)
 * [Tribal Exchange Network (TXG)](http://www.tribalexchangenetwork.org/)
   * [Tribal Data Drop-In](https://www.tribalexchangenetwork.org/trainings-events/july-tribal-data-drop-in-session)
 * [UCAR Indigenous data sovereignty & Earth System Sciences](https://ncar.ucar.edu/who-we-are/diversity-inclusion/core-awards/indigenous-data-sovereignty)
@@ -86,6 +100,9 @@ are global efforts to address climate change, growing connections with Indigenou
   * [Earth Partnership](https://earthpartnership.wisc.edu)
   * [Native Nations UW Google Group](https://groups.google.com/u/1/a/g-groups.wisc.edu/g/nn_uw-2019)
   * [UW Regents Policy on Tribal Consultation](https://www.wisconsin.edu/regents/policies/tribal-consultation/)
+* WI DNR
+  * [WI DNR Open Data Portal](https://data-wi-dnr.opendata.arcgis.com/)
+  * [WI DNR Climate Change](https://dnr.wisconsin.gov/climatechange)
 
 ## Data Sovereignty Talks and Events
 
@@ -196,6 +213,30 @@ are global efforts to address climate change, growing connections with Indigenou
   * [Diana M Dalbotten, Emi Ito, Susan Eriksson, Holly Pellerin, Lowana Greensky, Courtney Kowalczak, Antony Berthelote (2017) Gidakiimanaanawigamig’s Circle of Learning: A Model for Partnership between Tribal Community and Research University. International Journal of Partnership Studies, Vol. 4(3)](https://doi.org/10.24926/ijps.v4i3.176)
   * [Steven Semken (2018) Sense of Place and Place-Based Introductory Geoscience Teaching for American Indian and Alaska Native Undergraduates. Geoscience Education 53: 149-157.](https://doi.org/10.5408/1089-9995-53.2.149) 
   * [Natalie C Ban, Alejandro Frid, Mike Reid, Barry Edgar, Danielle Shaw, Peter Siwallace (2018) Incorporate Indigenous perspectives for impactful research and effective management. Nature Ecology & Evolution 2: 1680-1683](https://doi.org/10.1038/s41559-018-0706-0)
+
+### Indigenous Arts
+
+* [Natalie Harmsen (2023) How Black and Indigenous communities have connected through rap. CBC Music](https://www.cbc.ca/music/shad-dj-shub-mamarudegyal-interviews-collaboration-hip-hop-1.6911489)
+
+#### Indigenous Sci-Fi
+
+* [Chelsea Vowel (2023) Buffalo is the new Buffalo](https://arsenalpulp.com/Books/B/Buffalo-Is-the-New-Buffalo)
+  * [Métis in space podcast](https://podcasts.apple.com/ca/podcast/m%C3%A9tis-in-space/id921685195)
+* [Before tomorrow movie (2008)](https://www.imdb.com/title/tt0929259/)
+* [Robert Sawyer (2002) Neanderthal parallax trilogy](https://www.goodreads.com/series/40828-neanderthal-parallax)
+* [Moniquill Blackgoose (2023) To Shape a Dragon's Breath.  Penguin Random House](https://www.penguinrandomhouse.com/books/706010/to-shape-a-dragons-breath-by-moniquill-blackgoose/)
+* [Octavia’s Brood](https://www.diversity-challenges.com/wp-content/uploads/2019/02/Octavia%E2%80%99s-Brood-Tour-Material_updated-March-2016.pdf)
+* Nnedi Okorafor
+  * [Akata Witch](https://www.goodreads.com/book/show/7507944-akata-witch)
+  * [Binti Trilogy](https://en.wikipedia.org/wiki/Binti_Trilogy)
+* Janelle Monáe
+  * [The Memory Librarian](https://www.harpercollins.com/pages/the-memory-librarian)
+* Nalo Hopkinson
+  [* The New Moon's Arms](https://www.goodreads.com/en/book/show/49047)
+  * [Brown Girl in the Ring](https://en.wikipedia.org/wiki/Brown_Girl_in_the_Ring_(novel))
+* NK Jemisin
+  * [How Long 'til Black Future Month](https://www.goodreads.com/book/show/40855636-how-long-til-black-future-month)
+
 
 ### Genome Sovereignty
 
