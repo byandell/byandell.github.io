@@ -24,4 +24,4 @@ this personal transformation.
 
 This site was built off <https://github.com/barryclark/jekyll-now>. 
 
-<img src="images/adobe-express-qr-code.png" height="150">
+![](images/adobe-express-qr-code.png)
