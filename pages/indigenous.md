@@ -66,7 +66,7 @@ Reviews:
 [Goodreads](https://goodreads.com/book/show/60165403-wild-new-world),
 [Nat Parks Traveler](https://www.nationalparkstraveler.org/2023/02/review-wild-new-world-epic-story-animals-people-america).
 Video:
-[SAR School of Advanced Research Presidents Address (2023)](https://www.youtube.com/watch?app=desktop&v=lGzkKv06JiA)
+[School of Advanced Research (2023)](https://www.youtube.com/watch?app=desktop&v=lGzkKv06JiA)
 * Tahu Kukutai, John Taylor (2016) Indigenous Data Sovereignty: Toward an Agenda.
 [Australian National U Press.](https://www.jstor.org/stable/j.ctt1q1crgf)
 * Ray Lovett, Vanessa Lee, Tahu Kukutai, Stephanie Carroll Rainie, Jennifer Walker. 2019.
