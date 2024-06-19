@@ -58,7 +58,15 @@ Jennifer D. Walker, Jane Anderson, Maui Hudson (2020) The CARE Principles for In
 Walking on two legs: a pathway of Indigenous restoration and reconciliation in fire-adapted landscapes.
 [Restoration Ecology 30: e13566.](https://doi.org/10.1111/rec.13566)
 * Elie Dolgin (2023) Scientists Unveil a More Diverse Human Genome
-[New York Times.](https://www.nytimes.com/2023/05/10/science/pangenome-human-dna-genetics.html) (see last few paragraphs) 
+[New York Times.](https://www.nytimes.com/2023/05/10/science/pangenome-human-dna-genetics.html) (see last few paragraphs)
+* Dan Flores (2022) Wild New World--The Epic Story of Animals and People in the America.
+[WW Norton](https://wwnorton.com/books/9781324006169).
+Reviews:
+[Kirkus](https://www.kirkusreviews.com/book-reviews/dan-flores/wild-new-world-animals/),
+[Goodreads](https://goodreads.com/book/show/60165403-wild-new-world),
+[Nat Parks Traveler](https://www.nationalparkstraveler.org/2023/02/review-wild-new-world-epic-story-animals-people-america).
+Video:
+[SAR School of Advanced Research Presidents Address (2023)](https://www.youtube.com/watch?app=desktop&v=lGzkKv06JiA)
 * Tahu Kukutai, John Taylor (2016) Indigenous Data Sovereignty: Toward an Agenda.
 [Australian National U Press.](https://www.jstor.org/stable/j.ctt1q1crgf)
 * Ray Lovett, Vanessa Lee, Tahu Kukutai, Stephanie Carroll Rainie, Jennifer Walker. 2019.
