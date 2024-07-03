@@ -14,6 +14,7 @@ and how we might better collaborate in the future to heal the planet.
 I am curious about how these new conversations and collaborations will evolve my thinking and contributions.
 
 - [Environmental Organizations & Communities](#environmental-organizations-communities)
+- [Yandell ESIIL Collaboration](https://byandell.github.io/ESIIL/)
 - [Indigenous Data Science](/pages/indigenous/)
 - [Systems Ethology](/pages/ewing/)
 - [What is Data Science?](/What-is-Data-Science/)
