@@ -190,6 +190,7 @@ as global efforts to address climate change, growing connections with Indigenous
   * [Earth Partnership](https://earthpartnership.wisc.edu)
   * [Native Nations UW Google Group](https://groups.google.com/u/1/a/g-groups.wisc.edu/g/nn_uw-2019)
   * [UW Regents Policy on Tribal Consultation](https://www.wisconsin.edu/regents/policies/tribal-consultation/)
+* [Wild12](https://wild.org/wild12/)
 
 ### Wisconsin
 
