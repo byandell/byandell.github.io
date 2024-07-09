@@ -24,6 +24,8 @@ and how we might better collaborate in the future to heal the planet. I am curio
 Ethics reaches beyond sovereignty to right or wrong, independently of what people of any nation claim."
 Blizek and Concess (1996) Ethics and Sovereignty.
 
+* MM Adams on behalf of the N’dee San Carlos Apache Tribe (2024)
+Indigenous Fire Data Sovereignty: Applying Indigenous Data Sovereignty Principles to Fire Research. [Fire 7: 222](https://doi.org/10.3390/fire7070222).
 * Natalie C Ban, Alejandro Frid, Mike Reid, Barry Edgar, Danielle Shaw, Peter Siwallace (2018) Incorporate Indigenous perspectives for impactful research and effective management.
 [Nature Ecology & Evolution 2: 1680-1683](https://doi.org/10.1038/s41559-018-0706-0)
 * Megan Bang, Ananda Marin and Douglas Medin (2018) If Indigenous Peoples Stand with the Sciences, Will Scientists Stand with Us? In issue on Unfolding Futures: Indigenous Ways of Knowing for the Twenty-First Century.
@@ -36,7 +38,6 @@ Blizek and Concess (1996) Ethics and Sovereignty.
 [The Missing Millions. NSF OAC.](https://www.rti.org/publication/missing-millions/fulltext.pdf)
 * William J Blizek, Rory J Conces (1996) Ethics and Sovereignty.
 [Philosophy Faculty Publications 11.](https://digitalcommons.unomaha.edu/philfacpub/11)
-* Stephanie Russo Carroll, Edit Herczog, Maui Hudson, Keith Russell, Shelley Stall (2021) Operationalizing the CARE and FAIR Principles for Indigenous data futures.
 [Nature 8: 108.](https://doi.org/10.1038/s41597-021-00892-0) 
 * Stephanie Russo Carroll, Ibrahim Garba, Oscar L. Figueroa-Rodríguez,
 Jarita Holbrook, Raymond Lovett, Simeon Materechera, Mark Parsons,
@@ -67,13 +68,17 @@ Reviews:
 [Nat Parks Traveler](https://www.nationalparkstraveler.org/2023/02/review-wild-new-world-epic-story-animals-people-america).
 Video:
 [School of Advanced Research (2023)](https://www.youtube.com/watch?app=desktop&v=lGzkKv06JiA)
+* Lydia Jennings, Talia Anderson, Andrew Martinez, Rogena Sterling (2023)
+Applying the ‘CARE Principles for Indigenous Data Governance’ to ecology and biodiversity research. [Nature Ecology & Evolution 7](https://doi.org/10.1038/s41559-023-02161-2).
 * Tahu Kukutai, John Taylor (2016) Indigenous Data Sovereignty: Toward an Agenda.
 [Australian National U Press.](https://www.jstor.org/stable/j.ctt1q1crgf)
 * Ray Lovett, Vanessa Lee, Tahu Kukutai, Stephanie Carroll Rainie, Jennifer Walker. 2019.
 [Good Data Practices for Indigenous Data Sovereignty, in Angela Daly, Kate Devitt, & Monique Mann (Eds.), Good Data, Amsterdam: Institute of Network Cultures Inc. ISBN 978-94-92302-27-4.](https://nni.arizona.edu/publications/good-data-practices-indigenous-data-sovereignty)
 * Peter R Martin (2023) The ‘deer-men’ and the ‘bowhead-men’: The colonial co-optation of Arctic Indigenous knowledge within the ‘origins of the Inuit’ debates.
 [Trans Inst British Geographers 49: 312615.](https://doi.org/10.1111/tran.12615)
-* Laura Matson et al. (2021) Transforming research and relationships through collaborative tribal-university partnerships on Manoomin (wild rice). [Environmental Science & Policy 115: 108-115.](https://doi.org/10.1016/j.envsci.2020.10.010)
+* Laura Matson et al. (2021) Transforming research and relationships through collaborative tribal-university partnerships on Manoomin (wild rice). [Environmental Science & Policy 115: 108-115](https://doi.org/10.1016/j.envsci.2020.10.010).
+* M O’Brien, R Duerr, R Taitingfong, A Martinez, L Vera, LL Jennings, RR Downs, E Antognoli, T ten Brink, NB Halmai, SR Carroll, D David-Chavez, M Hudson, PL Buttigieg (2024) Earth Science Data Repositories: Implementing the CARE Principles. [Data Science Journal,
+23: 1–29](https://doi.org/10.5334/dsj-2024-037).
 * Chidi Oguamanam (2020) Indigenous Peoples, Data Sovereignty, and Self-Determination: Current Realities and Imperatives.
 [African J Information and Communication 26.](https://dx.doi.org/10.23962/10539/30360)
 * Paul Robbins, Hilary Habeck Hunt, Francisco Pelegri, Jonathan Gilbert (2023) Sovereign genes: wildlife conservation, genetic preservation, and Indigenous data sovereignty.
@@ -85,14 +90,16 @@ Video:
 * Erica AH Smithwick, Chris Caldwell et al. (2019)
 [Learning About Forest Futures Under Climate Change Through Transdisciplinary Collaboration Across Traditional and Western Knowledge Systems. Springer](https://doi.org/10.1007/978-3-030-13827-1_5).
 * Kath Traynor (2017) Data Management Plan: Empowering Indigenous Peoples and Knowledge Systems Related to Climate Change and Intellectual Property Rights.
-[Research Ideas and Outcomes 3: e15111.](https://doi.org/10.3897/rio.3.e15111) 
+[Research Ideas and Outcomes 3: e15111.](https://doi.org/10.3897/rio.3.e15111)
 * Sarah Trembath (2024) [Decoloniality.](https://subjectguides.library.american.edu/c.php?g=1025915&p=7715527)
 * Susan Tussy (2021)
 [State Of the Craft in Research Data Management. GLOBUS.](https://www.globus.org/blog/state-craft-research-data-management-1) (discusses sovereignty) 
 * Maggie Walter, Tahu Kukutai, Stephanie Russo Carroll, Desi Rodriguez-Lonebear  (2020)
-[Indigenous Data Sovereignty and Policy. 1st ed. Routledge, 244p.](https://doi.org/10.4324/9780429273957)
+[Indigenous Data Sovereignty and Policy. 1st ed. Routledge, 244p](https://doi.org/10.4324/9780429273957).
 * Victoria Warren-Mears (n.d.) Principles and Models for Data Sharing Agreements with American Indian/Alaska Native Communities.
-[Northwest Portland Area Indian Health Board Tribal Epidemiology Center.](https://static1.squarespace.com/static/58e9b10f9de4bb8d1fb5ebbc/t/592a6d81bebafb216b51a61b/1495952772545/Principles+and+Models+for+Data+Sharing+Agreements.pdf)
+[Northwest Portland Area Indian Health Board Tribal Epidemiology Center](https://static1.squarespace.com/static/58e9b10f9de4bb8d1fb5ebbc/t/592a6d81bebafb216b51a61b/1495952772545/Principles+and+Models+for+Data+Sharing+Agreements.pdf).
+* Bhiamie Williamson, Sam Provost, Cassandra Price (2022) Operationalising Indigenous data sovereignty in environmental research and governance.
+[Environment and Planning F 2](https://doi.org/10.1177/2634982522112549).
 
 ## Data Sovereignty Talks and Events
 
