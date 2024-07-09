@@ -162,6 +162,7 @@ as global efforts to address climate change, growing connections with Indigenous
   * [Situating IndigiData and Dark Laboratory (Aydelotte)](https://aydelotte.swarthmore.edu/publications/situating-indigidata-and-dark-laboratory/) 
   * [Indigidata For the Next Seven Generations (YouTube)](https://m.youtube.com/watch?v=-dL7fUX6rcI) 
   * [IndigiData Aotearoa](https://www.indigidataaotearoa.com)
+* [Land Knowledge](https://landknowledge.org/)
 * [Nagoya Protocol-Convention on Biological Diversity](https://www.dcceew.gov.au/science-research/australias-biological-resources/nagoya-protocol-convention-biological)
 * [National Conference of American Indians](https://www.ncai.org/)
 * [Native American and Indigenous Microbiologists (Amer Soc Microbiology)](https://asm.org/ideaa/resources/asm-s-focus-on-native-american-and-indigenous-micr)
@@ -174,6 +175,7 @@ as global efforts to address climate change, growing connections with Indigenous
 * [PLoS on Indigenous Data Sovereignty and Open Data](https://everyone.plos.org/2023/10/10/indigenous-data-sovereignty-and-open-data/)
 * [Rising Voices](https://risingvoices.ucar.edu/): Workshops & Activities
 * [Seven Generation Inter-Tribal Leadership Summit](https://www.lco.edu/7gensummit) (LCOOU, Sep/Oct)
+* [Sovereign Data Network](https://sdn.ramadda.org)
 * [Status of Tribes and Climate Change Report (STACC)](https://sites.google.com/view/stacc2021-itep/home)
 * [Summer internship for INdigenous peoples in Genomics (SING)](https://singconsortium.org/)
 * [Te Mana Raraunga, Māori Data Sovereignty Network](https://www.temanararaunga.maori.nz/)
