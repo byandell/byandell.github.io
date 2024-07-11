@@ -92,6 +92,8 @@ Applying the ‘CARE Principles for Indigenous Data Governance’ to ecology and
 * Kath Traynor (2017) Data Management Plan: Empowering Indigenous Peoples and Knowledge Systems Related to Climate Change and Intellectual Property Rights.
 [Research Ideas and Outcomes 3: e15111.](https://doi.org/10.3897/rio.3.e15111)
 * Sarah Trembath (2024) [Decoloniality.](https://subjectguides.library.american.edu/c.php?g=1025915&p=7715527)
+* Eve Tuck, K. Wayne Yang (2012) Decolonization is not a metaphor.
+[Decolonization: Indigeneity,	Education	&	Society 1: 1-40](https://jps.library.utoronto.ca/index.php/des/article/view/18630)
 * Susan Tussy (2021)
 [State Of the Craft in Research Data Management. GLOBUS.](https://www.globus.org/blog/state-craft-research-data-management-1) (discusses sovereignty) 
 * Maggie Walter, Tahu Kukutai, Stephanie Russo Carroll, Desi Rodriguez-Lonebear  (2020)
