@@ -35,17 +35,24 @@ actionable at scale given advances in data and computing capabilities.
 
 #### Current Work
 
-*   [B Ewing, BS Yandell, JF Barbieri, RF Luck, LD Forster (2001) "Event-driven competing risks,"](risk.html) [_Ecological Modelling 158_](https://doi.org/10.1016/S0304-3800(02)00218-1): 35-50. Technical Report #1032, Department of Statistics, UW-Madison.
-*   [B Ewing, BS Yandell, JF Barbieri, RF Luck and DL Wood (2001) "Quantitative population ethology," Technical Report #1033, Department of Statistics, UW-Madison.](qpe.html)
+*   [B Ewing, BS Yandell, JF Barbieri, RF Luck, LD Forster (2001) "Event-driven competing risks,"](https://www.stat.wisc.edu/~yandell/ewing/risk.html) [_Ecological Modelling 158_](https://doi.org/10.1016/S0304-3800(02)00218-1): 35-50. Technical Report #1032, Department of Statistics, UW-Madison.
+*   [B Ewing, BS Yandell, JF Barbieri, RF Luck and DL Wood (2001) "Quantitative population ethology," Technical Report #1033, Department of Statistics, UW-Madison.](https://www.stat.wisc.edu/~yandell/ewing/qpe.html)
 *   [B Ewing, BS Yandell, JF Barbieri, and RF Luck (2001) "Practical model building for quantitative population ethology with event-driven competing risks," Technical Report #1034, Department of Statistics, UW-Madison.](https://www.stat.wisc.edu/~yandell/doc/2001/tr1034.html)
     
 #### Unpublished Work from the 1970s
-    
-*   B Ewing (1973) "Population ethology," dissertation outline, Department of Entomology, UC-Berkeley.
-*   B Ewing (1974) "Population ethology," unpublished manuscript, Department of Entomology, UC-Berkeley, Jun 1974.
-*   B Ewing, P Rauch, and J Barbieri (1974) "Simulating the dynamics and structure of populations," Lawrence Livermore Laboratory Report, UCRL-76046 (Rev. 1), Sep 1974.
-*   B Ewing, P Rauch, JF Barbieri (1974) "Simulating the dynamics and structure of populations," unpublished manuscript, Sep 1974. This paper was prepared for presentation at the Third Annual Integrated Pest Management Modelers' Meeting: The Principles, Strategies and Tactics of Pest Population Regulation and Control in Major Crop Ecosystems, New Orleans, LA, 8-10 Jan 1975.
-*   B Ewing, JF Barbieri and PA Rauch (1975) "Stimulating the Dynamics and Structure of Populations," 1 Aug 1975. Prepared for inclusion in "The Principles, Strategies and Tactics. . . in Western Pine Beetle Ecosystem," Progress Report, Vol. 2, 1975.
+
+These require password access. These are located in Yandell's work google drive
+[Brian Yandell/Ewing/Ewing_Papers_Working_Versions/1970s_Manuscripts](https://drive.google.com/drive/u/1/folders/12-CANFsHMZzBkziGMuAaJ6LU0Zos8bUI).
+
+*   [BS Yandell (2002) Modeling movement for quantitative population ethology. Manuscript. 14 Dec 2002](https://drive.google.com/file/d/1YcM8uUd-ZPmzXh9w5xqZBiSTNr05FDVK)
+*   [BS Yandell (1997) Population Ethology: The Life and Work of Bland Ewing. Manuscript. Fall 1997](https://drive.google.com/file/d/14C4FJjDjYvUdDofmw4QxnzfYsTg5i1vf)
+*   [JF Barbieri (1974) Memo and Multiple Manuscripts](https://drive.google.com/file/d/10CWnlrneGZRkQH_sVFfCX1bBGshxZ5iw)
+
+*   [B Ewing (1973) "Population ethology," dissertation outline, Department of Entomology, UC-Berkeley.](https://drive.google.com/file/d/18KOzmfE4q0uXnhwFKHtibzXSvn1tMcm3)
+*   [B Ewing (1974) "Population ethology," unpublished manuscript, Department of Entomology, UC-Berkeley, Jun 1974.](https://drive.google.com/file/d/1WN7sRQbNk3taz7fQl6WGPl4Fg_Zsuv6M)
+*   [B Ewing, P Rauch, and J Barbieri (1974) "Simulating the dynamics and structure of populations," Lawrence Livermore Laboratory Report, UCRL-76046 (Rev. 1), Sep 1974.](https://drive.google.com/file/d/1TOoJ274B5iYesoIU_zG6QdVY0l7EAYZ5)
+*   [B Ewing, P Rauch, JF Barbieri (1974) "Simulating the dynamics and structure of populations," unpublished manuscript, Sep 1974. This paper was prepared for presentation at the Third Annual Integrated Pest Management Modelers' Meeting: The Principles, Strategies and Tactics of Pest Population Regulation and Control in Major Crop Ecosystems, New Orleans, LA, 8-10 Jan 1975.](https://drive.google.com/file/d/1bdNZwu0Bbbs_Qk9vQe_k0xd0km-cgaCy)
+*   B Ewing, JF Barbieri and PA Rauch (1975) "Simulating the Dynamics and Structure of Populations," 1 Aug 1975. Prepared for inclusion in "The Principles, Strategies and Tactics. . . in Western Pine Beetle Ecosystem," Progress Report, Vol. 2, 1975.
 *   PA Rauch, B Ewing and DL Wood (1975) "Information transfer and the systems approach in large-scale ecological studies," unpublished manuscript, Entomology, UC-Berkeley, 10 Aug 1975.
 *   B Ewing, J Barbieri, P Rauch, D Baasch and BS Yandell (1976) "Simulating the dynamics and structure of populations," 15 Jul 1976. Prepared for inclusion in: "The Principles, Strategies, and Tactics ... in Western Pine Beetle Ecosystems" Progress Report, 1976.
     
