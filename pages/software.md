@@ -117,6 +117,7 @@ Visualize qtl2 objects with package `ggplot2`.
   Shiny app for `foundr` package.
   * [R/foundrHarmony](https://github.com/byandell/foundrHarmony):
   Data input and harmonization for `foundr` package.
+  * [Foundr Shiny App Developer Guide](https://docs.google.com/presentation/d/171HEopFlSTtf_AbrA28YIAJxJHvkzihB4_lcV6Ct-eI)
 * Miscellaneous QTL Packages
   *   [MCMC-QTL](ftp://ftp.stat.wisc.edu/pub/yandell/tr925r.html): Markov chain Monte Carlo inference for Quantitative Trait Loci. (free release in 1998; Satagopan, Yandell, Newton and Osborn 1996).
   *   [RevJump-QTL](ftp://ftp.stat.wisc.edu/pub/yandell/revjump.html): Bayesian model Determination of the Number of QTLs using Reversible Jump MCMC. (free release in 1999; Satagopan and Yandell 1998).

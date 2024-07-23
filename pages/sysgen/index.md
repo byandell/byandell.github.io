@@ -21,9 +21,4 @@ Some pages require special access.
   + [Founder Diet Study](https://connect.doit.wisc.edu/FounderDietStudy) [password protected]
   + [New Founder Liver Diet Study](https://connect.doit.wisc.edu/NewFounderLiverDietStudy) [password protected]
   + [Foundr Shiny App Developer Guide](https://docs.google.com/presentation/d/171HEopFlSTtf_AbrA28YIAJxJHvkzihB4_lcV6Ct-eI)
-- <https://github.com/byandell>
-  - [foundr](https://github.com/byandell/foundr),
-[foundrShiny](https://github.com/byandell/foundrShiny)
-[foundrHarmony](https://github.com/byandell/foundrHarmony)
-  -
 
