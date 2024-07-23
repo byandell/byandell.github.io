@@ -31,19 +31,68 @@ This work led to my book,
 ## Software Releases
 
 *   [GCVPACK](ftp://ftp.stat.wisc.edu/pub/wahba/software/gcvpack.html): Routines for Generalized Cross Validation (free release in 1986; now part of base of [R](http://cran.r-project.org/); Bates, Lindstrom, Wahba and Yandell 1987)
-*   [MCMC-QTL](ftp://ftp.stat.wisc.edu/pub/yandell/tr925r.html): Markov chain Monte Carlo inference for Quantitative Trait Loci. (free release in 1998; Satagopan, Yandell, Newton and Osborn 1996).
-*   [RevJump-QTL](ftp://ftp.stat.wisc.edu/pub/yandell/revjump.html): Bayesian model Determination of the Number of QTLs using Reversible Jump MCMC. (free release in 1999; Satagopan and Yandell 1998).
 *   [Splus/QDA](http://www.tragon.com/html/qda_-_news.html): Quality Data Attributes Analysis. (proprietary release in 1999; Yandell and Tragon Corporation).
 *   [Practical Data Analsysis: library(pda)](http://www.stat.wisc.edu/~yandell/pda) for Splus and R. (free release in 1997; revised in 2000)
 *   [Microarray Data Analysis: library(pickgene)](http://www.stat.wisc.edu/~yandell/statgen/software) for R. (2001; Lin et al. 2001)
 [Bioconductor](https://doi.org/doi:10.18129/B9.bioc.pickgene)
 *   [Quantitative Population Ethology: library(ewing](http://www.stat.wisc.edu/~yandell/ewing/) for R. (free release in 2001; Ewing et al. 2001)
-*   [Bmapqtl](http://www.stat.wisc.edu/~yandell/qtl/software/qtlbim): Bayesian QTL mapping module for QTL Cartographer. (public domain release in 2001; Gaffney 2001)
-*   [R/bim](http://www.stat.wisc.edu/~yandell/qtl/software/qtlbim): Bayesian interval mapping R library. (free release in 2002; [CRAN](https://cran.r-project.org/package=qtlbim) in 2003; [Bioconductor](http://www.bioconductor.org/) in 2004. [deprecated]
-*   [R/qtlbim](https://cran.r-project.org/package=qtlbim): QTL Bayesian Interval Mapping. Improved and totally revamped R library for model selection with Bayesan interval mapping, allowing for covariates and epistasis; [CRAN](http://cran.r-project.org/) in 2006. [deprecated]
-*   [R/qdg](https://cran.r-project.org/package=qdg): QTL-driven dependent graphs R library (CRAN 2008); See Chaibub Neto E, Ferrara C, Attie AD, Yandell BS (2008) Inferring causal phenotype networks from segregating populations. Genetics 179 : 1089-1100. [doi:10.1534/genetics.107.085167](http://doi.org/10.1534/genetics.107.085167). [deprecated]
+
+### QTL Software
+
+I have contributed to multiple
+[quantitative trait loci (QTL)](https://en.wikipedia.org/wiki/Quantitative_trait_locus)
+studies and software projects since the early 1990s.
+In particular, I am a contributor to
+[R/qtl](https://rqtl.org/)
+and
+[R/qtl2](https://kbroman.org/qtl2/),
+both led by
+[Karl Broman](https://kbroman.org/) with
+[Saunak Sen](http://www.senresearch.org/),
+and I have developed or co-developed multiple companion packages to these
+widely used resources (see below).
+I co-taught a QTL course with 
+[Zhao-Bang Zeng](https://brcwebportal.cos.ncsu.edu/zeng/index.php)
+and
+[Chris Basten](https://www.linkedin.com/in/christopher-basten-8323678/),
+and contributed insights and code to
+[QTL Cartographer](https://brcwebportal.cos.ncsu.edu/qtlcart/).
+In addition, working with
+[Gary Churchill](https://www.jax.org/research-and-faculty/faculty/gary-churchill)
+and
+[Elias Chaibub Neto](https://www.linkedin.com/in/elias-chaibub-neto-a469913b/),
+we developed various tests and packages for mediation analysis.
+
 * [intermediate](https://github.com/byandell/intermediate):
-Mediation analysis building on work of Gary Churchill team and Elias Chaibub Neto.
+Mediation analysis building on work of Gary Churchill team and
+Elias Chaibub Neto.
+See links under `qtl2mediate`, `qtlnet` and `qtlhot` below.
+* [R/qtl](https://rqtl.org/) extensions
+  * [R/qtlbim](https://cran.r-project.org/package=qtlbim):
+  [QTL Bayesian Interval Mapping](https://pages.stat.wisc.edu/~yandell/qtl/software/qtlbim/).
+  Improved and totally revamped R library for
+  model selection with Bayesan interval mapping, allowing for covariates and
+  epistasis.
+  [CRAN](http://cran.r-project.org/) in 2006. [deprecated]
+  * [R/qdg](https://cran.r-project.org/package=qdg):
+  QTL-driven dependent graphs R library (CRAN 2008). [deprecated]
+    * Chaibub Neto E, Ferrara C, Attie AD, Yandell BS (2008)
+    Inferring causal phenotype networks from segregating populations.
+    Genetics 179 : 1089-1100.
+    [doi:10.1534/genetics.107.085167](http://doi.org/10.1534/genetics.107.085167).
+  * [R/qtlhot](https://github.com/byandell/qtlhot): QTL Hotspot analysis.
+    * Chaibub Neto E, Keller MP, Broman AF, Attie AD, Jansen RC, Broman KW, Yandell BS (2012) 
+    Quantile-based permutation thresholds for QTL hotspots. Genetics 191 : 1355-1365. 
+    [doi:10.1534/genetics.112.139451](http://doi.org/10.1534/genetics.112.139451).
+    * Chaibub Neto E, Broman AT, Keller MP, Attie AD, Zhang B, Zhu J, Yandell BS (2013)
+    Modeling causality for pairs of phenotypes in system genetics. Genetics 193 : 1003-1013.
+    [doi:10.1534/genetics.112.147124](http://doi.org/10.1534/genetics.112.147124).
+  * [R/qtlnet](https://github.com/byandell/qtlnet): QTL Network analysis.
+    * Chaibub Neto E, Keller MP, Attie AD, Yandell BS (2010)
+    Causal Graphical Models in Systems Genetics: a unified framework for joint
+    inference of causal network and genetic architecture for correlated phenotypes.
+    Annals of Applied Statistics 4: 320-339.
+    [doi:10.1214/09-AOAS288](http://doi.org/10.1214/09-AOAS288).
 * [R/qtl2](https://kbroman.org/qtl2/) extensions
   * [R/qtl2ggplot](https://cran.r-project.org/package=qtl2ggplot):
 Visualize qtl2 objects with package `ggplot2`.
@@ -53,7 +102,24 @@ Visualize qtl2 objects with package `ggplot2`.
   Routines to investigate strain distribution patterns (SDPs).
   * [R/qtl2mediate](https://github.com/byandell/qtl2mediate):
   QTL mediation using  [intermediate](https://github.com/byandell/intermediate)
+    * Chaibub Neto E, Broman AT, Keller MP, Attie AD, Zhang B, Zhu J,
+    Yandell BS (2013)
+    Modeling causality for pairs of phenotypes in system genetics.
+    Genetics 193 : 1003–1013.
+    [doi:10.1534/genetics.112.147124](http://dx.doi.org/10.1534/genetics.112.147124)
   * [R/qtl2shiny](https://github.com/byandell/qtl2shiny):
   Shiny app for fine-scale analysis and visualization.
-* [R/foundr](https://github.com/byandell/foundr):
-Package to analyze and visualize Diversity Outbred (DO) founder lines by sex and condition.
+* [DO Founder](https://www.jax.org/research-and-faculty/genetic-diversity-initiative/getting-started) Studies
+  * [R/foundr](https://github.com/byandell/foundr):
+  Package to analyze and visualize Diversity Outbred (DO) founder lines by sex
+  and condition.
+  * [R/foundrShiny](https://github.com/byandell/foundrShiny):
+  Shiny app for `foundr` package.
+  * [R/foundrHarmony](https://github.com/byandell/foundrHarmony):
+  Data input and harmonization for `foundr` package.
+* Miscellaneous QTL Packages
+  *   [MCMC-QTL](ftp://ftp.stat.wisc.edu/pub/yandell/tr925r.html): Markov chain Monte Carlo inference for Quantitative Trait Loci. (free release in 1998; Satagopan, Yandell, Newton and Osborn 1996).
+  *   [RevJump-QTL](ftp://ftp.stat.wisc.edu/pub/yandell/revjump.html): Bayesian model Determination of the Number of QTLs using Reversible Jump MCMC. (free release in 1999; Satagopan and Yandell 1998).
+  *   [Bmapqtl](http://www.stat.wisc.edu/~yandell/qtl/software/qtlbim): Bayesian QTL mapping module for QTL Cartographer. (public domain release in 2001; Gaffney 2001)
+  *   [R/bim](http://www.stat.wisc.edu/~yandell/qtl/software/qtlbim): Bayesian interval mapping R library. (free release in 2002; [CRAN](https://cran.r-project.org/package=qtlbim) in 2003; [Bioconductor](http://www.bioconductor.org/) in 2004. [deprecated]
+

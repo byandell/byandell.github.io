@@ -34,6 +34,7 @@ and data-rich story telling about how technology
 and data science will be used effectively to
 shorten [knowledge turns](#knowledge-turns).
 
+- [Statistics & Statistical Collaboration](https://docs.google.com/presentation/d/1Md6s17XdROAkViLT7ughd-Ps_yEXcqR25MCFORWpgck)
 - [Yandell CV](https://pages.stat.wisc.edu/~yandell/vita.pdf)
 - [Practical Data Analysis for Designed Experiments](http://www.stat.wisc.edu/~yandell/pda) (book & package)
 - [Data Science Hub](https://datascience.wisc.edu/hub) (co-creator)
