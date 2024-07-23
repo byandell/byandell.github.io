@@ -47,3 +47,13 @@ Much of this is restricted access, so casual users will not be able to find them
 ## [Systems Ethology--The Life and Work of Bland Ewing](https://byandell.github.io/pages/ewing/)
 
 - <https://www.stat.wisc.edu/~yandell/ewing/>
+- [Brian Yandell/Ewing/ (Google Drive)](https://drive.google.com/drive/u/1/folders/12bimDvEoG1EnssZT_Bn2HwdrAHt74guv)
+  - [Brian Yandell/Ewing/Ewing_Papers_Working_Versions/1970s_Manuscripts](https://drive.google.com/drive/u/1/folders/12-CANFsHMZzBkziGMuAaJ6LU0Zos8bUI)
+- stat.wisc.edu
+  - private/BESNT.pdf
+  - private/myprivate/bland
+  - private/myprivate/EWINGSNT.{doc,html}
+  - [public/html/ewing@](https://www.stat.wisc.edu/~yandell/ewing/)
+    - [/p/stat/yandell/public/yandell/ewing/html](https://www.stat.wisc.edu/~yandell/ewing/)
+    - [public/html/ewing/monograph](https://www.stat.wisc.edu/~yandell/ewing/monograph)
+  - public/html/private/ewing
