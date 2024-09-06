@@ -221,10 +221,15 @@ as global efforts to address climate change, growing connections with Indigenous
 * Lakota
   * [Lakota Nation vs United States](https://www.lakotanationvsus.movie/) (movie)
   * [Oceti Sakawin Nation](https://americanindian.si.edu/nk360/plains-belonging-nation/oceti-sakowin)
+  * [Sicangu Treaty Council Interactive Treaty Map](https://nativeland.info/portfolio-items/sicangu-treaty-council-interactive-map/)
+  * [Oceti Sakowin: Essential Understandings & Standards](https://sdtribalrelations.sd.gov/docs/OSEUs-18.pdf)
+  * [Wolakota Code (Victor Douville)](https://wild.org/wild12/wolakota-code/)
   * [120 Years of Lakota History on Calendar (Smithsonian)](https://www.smithsonianmag.com/smithsonian-institution/120-years-lakota-history-on-calendar-180953641/)
+  * [Oceti Sakawin Map (Native Land)](https://native-land.ca/maps/territories/oceti-sakowin-sioux/)
   * [Why ancient calendars still rule the world (Nature)](https://www.bbc.com/reel/playlist/hidden-histories?vpid=p0fh38ts) (movie)
   * [Calendars Then and Now (Lakota Times)](https://www.lakotatimes.com/articles/calendars-then-and-now/)
   * [Lakota Seasons & Moon Phases](https://aktalakota.stjo.org/lakota-seasons-moon-phases/)
+  * [The Seven Council Fires (Oceti Ŝakowiŋ)](https://www.mnhs.org/sevencouncilfires)
   * [Jhon Goes in Center Collection Spotlight (Ralph T Coe Center)](https://www.coeartscenter.org/blog/collection-spotlight-with-jhon-goes-in-center/)
   * [JhonDuane Goes in Center 101 Show 2020 (Brinton Museum)](https://thebrintonmuseum.org/jhon-duane-goes-in-center-2020-brinton-101/)
 
