@@ -51,4 +51,15 @@ I am curious about how these new conversations and collaborations will evolve my
 * WI DNR
   * [WI DNR Open Data Portal](https://data-wi-dnr.opendata.arcgis.com/)
   * [WI DNR Climate Change](https://dnr.wisconsin.gov/climatechange)
+  
+## My Repos
+
+- [byandell-Tribal](https://github.com/byandell-Tribal) github repo
+- [Earth Analytics 2024 ](https://github.com/byandell-Tribal/EarthAnalytics_2024)
+
+- Visualizations
+  - [Open Street Map Image](https://www.openstreetmap.org/)
+
+<embed type="text/html" src="/images/osm.html" width="600" height="600">
+
 
