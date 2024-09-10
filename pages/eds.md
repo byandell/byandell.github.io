@@ -54,8 +54,9 @@ I am curious about how these new conversations and collaborations will evolve my
   
 ## My Repos
 
-- [byandell-Tribal](https://github.com/byandell-Tribal) github repo
-- [Earth Analytics 2024 ](https://github.com/byandell-Tribal/EarthAnalytics_2024)
+- [byandell-Tribal](https://github.com/byandell-Tribal) github organization
+  - [Earth Analytics 2024 ](https://github.com/byandell-Tribal/EarthAnalytics_2024)
+  - [native-land](https://github.com/byandell-Tribal/native-land)
 
 - Visualizations
   - [Open Street Map Image](https://www.openstreetmap.org/)
