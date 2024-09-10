@@ -68,6 +68,9 @@ Reviews:
 [Nat Parks Traveler](https://www.nationalparkstraveler.org/2023/02/review-wild-new-world-epic-story-animals-people-america).
 Video:
 [School of Advanced Research (2023)](https://www.youtube.com/watch?app=desktop&v=lGzkKv06JiA)
+* Jessica Hernandez (2022)
+Fresh Banana Leaves: Healing Indigenous Landscapes Through Indigenous Science.
+[Penguin Random House. ISBN 9781623176051](https://www.penguinrandomhouse.com/books/675699/fresh-banana-leaves-by-jessica-hernandez/).
 * Lydia Jennings, Talia Anderson, Andrew Martinez, Rogena Sterling (2023)
 Applying the ‘CARE Principles for Indigenous Data Governance’ to ecology and biodiversity research. [Nature Ecology & Evolution 7](https://doi.org/10.1038/s41559-023-02161-2).
 * Tahu Kukutai, John Taylor (2016) Indigenous Data Sovereignty: Toward an Agenda.
@@ -89,6 +92,9 @@ Applying the ‘CARE Principles for Indigenous Data Governance’ to ecology and
 [Geoscience Education 53: 149-157.](https://doi.org/10.5408/1089-9995-53.2.149) 
 * Erica AH Smithwick, Chris Caldwell et al. (2019)
 [Learning About Forest Futures Under Climate Change Through Transdisciplinary Collaboration Across Traditional and Western Knowledge Systems. Springer](https://doi.org/10.1007/978-3-030-13827-1_5).
+* H. Holden Thorp (2024)
+Learning with Lakota scientists.
+[Science 385: 1025](https://doi.org/10.1126/science.ads7901).
 * Kath Traynor (2017) Data Management Plan: Empowering Indigenous Peoples and Knowledge Systems Related to Climate Change and Intellectual Property Rights.
 [Research Ideas and Outcomes 3: e15111.](https://doi.org/10.3897/rio.3.e15111)
 * Sarah Trembath (2024) [Decoloniality.](https://subjectguides.library.american.edu/c.php?g=1025915&p=7715527)
