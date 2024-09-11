@@ -60,6 +60,10 @@ I am curious about how these new conversations and collaborations will evolve my
 
 - Visualizations
   - [Open Street Map Image](https://www.openstreetmap.org/)
+  
+Below is an interactive map of [UW-Madison](https://map.wisc.edu),
+a top-rated land grant university located along the shores of
+Lake Mendota on [ancestral lands of the Ho-Chunk Nation](https://compliance.wisc.edu/land-acknowledgement/).
 
 <embed type="text/html" src="/images/osm.html" width="600" height="600">
 
