@@ -14,20 +14,21 @@ My next direction will be an inspired mix of personal interests and intellectual
 
 [^1]: I am [professor emeritus](https://hr.wisc.edu/docs/retirement-emeritus-status.pdf) in [stats](https://www.stat.wisc.edu) and an [affiliate](https://datascience.wisc.edu/institute/dsi-affiliates-list/) of the [DSI](https://datascience.wisc.edu/institute).
 
-I am continuing some aspects of my prior research activity,
-which fall broadly in the realm of
-[systems thinking](/pages/system/).
-I
-[collaborate](/pages/collaborate/) to empower others to develop useful
-insights from their data.
-One way I have done this is to develop
+I continue to explore
+[systems thinking](/pages/system/)
+through
+[collaborative](/pages/collaborate/)
+teams developing useful insights from data.
+I have led
 [software projects](/pages/software/),
 largely as packages in the
 [R language](https://www.r-project.org/about.html).
-I am moving into a phase of less coding and more advising of collaborators
-to leverage existing tools in new ways.
+I am curious to learn how ongoing partnerships will evolve new, and hopefully widely accessible and relevant, data-rich tools.
 
-Through a series of
+I have worked for decades with a biochemistry-based team on
+[system genetics](/pages/sysgen/)
+of diabetes, obesity and diet.
+Through a series of recent
 [coincidences](https://www.psychologytoday.com/us/blog/connecting-coincidence/202101/meaningful-coincidences-serendipity-and-synchronicity),
 I have become involved in
 [environmental data science](/pages/eds/),
