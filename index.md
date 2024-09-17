@@ -21,7 +21,7 @@ through
 teams developing useful insights from data.
 I have led
 [software projects](/pages/software/),
-largely as packages in the
+largely as packages and shiny web apps using the
 [R language](https://www.r-project.org/about.html).
 I am curious to learn how ongoing partnerships will evolve new, and hopefully widely accessible and relevant, data-rich tools.
 
