@@ -30,6 +30,7 @@ This work led to my book,
     
 ## Software Releases
 
+*   [Geyser Shiny Module Demo](https://connect.doit.wisc.edu/geyserShinyModules/)
 *   [GCVPACK](ftp://ftp.stat.wisc.edu/pub/wahba/software/gcvpack.html): Routines for Generalized Cross Validation (free release in 1986; now part of base of [R](http://cran.r-project.org/); Bates, Lindstrom, Wahba and Yandell 1987)
 *   [Splus/QDA](http://www.tragon.com/html/qda_-_news.html): Quality Data Attributes Analysis. (proprietary release in 1999; Yandell and Tragon Corporation).
 *   [Practical Data Analsysis: library(pda)](http://www.stat.wisc.edu/~yandell/pda) for Splus and R. (free release in 1997; revised in 2000)

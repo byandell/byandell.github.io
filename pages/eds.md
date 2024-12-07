@@ -55,10 +55,10 @@ I am curious about how these new conversations and collaborations will evolve my
 ## My Repos
 
 - [byandell-Tribal](https://github.com/byandell-Tribal) github organization
-  - [Earth Analytics 2024 ](https://github.com/byandell-Tribal/EarthAnalytics_2024)
+  - [Earth Data Analytics ](https://github.com/byandell-Tribal/EarthAnalytics_2024)
+    - [EDA Projects](https://byandell.github.io/ESIIL/EarthDataAnalytics/)
   - [native-land](https://github.com/byandell-Tribal/native-land)
-
-- Visualizations
+- EDA Projects
   - [Open Street Map Image](https://www.openstreetmap.org/)
   
 Below is an interactive map of [UW-Madison](https://map.wisc.edu),

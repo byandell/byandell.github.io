@@ -49,3 +49,4 @@ siblings.
 - [Personal Reflections](/pages/reflect/)
 - [Collaboration](/pages/collaborate/)
 - [Software Projects](/pages/software/)
+  - [Geyser Shiny Module Demo](https://connect.doit.wisc.edu/geyserShinyModules/)
