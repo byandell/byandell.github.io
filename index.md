@@ -9,10 +9,12 @@ css: style.scss
 > In yours and my discharge.<br>
 > [The Tempest, William Shakespeare](https://www.folger.edu/explore/shakespeares-works/the-tempest/read/)
 
-I retired in 2023 from the University of Wisconsin-Madison after more than 40 years of academic success in [stats](https://www.stat.wisc.edu) and [data science](https://datascience.wisc.edu) [^1].
+I retired in 2023 from the University of Wisconsin-Madison as
+[professor emeritus](https://hr.wisc.edu/docs/retirement-emeritus-status.pdf)
+after more than 40 years of academic success in
+[stats](https://www.stat.wisc.edu),
+including founding the [data science institute](https://dsi.wisc.edu).
 My next direction will be an inspired mix of personal interests and intellectual pursuits.
-
-[^1]: I am [professor emeritus](https://hr.wisc.edu/docs/retirement-emeritus-status.pdf) in [stats](https://www.stat.wisc.edu) and an [affiliate](https://datascience.wisc.edu/institute/dsi-affiliates-list/) of the [DSI](https://datascience.wisc.edu/institute).
 
 I continue to explore
 [systems thinking](/pages/system/)
