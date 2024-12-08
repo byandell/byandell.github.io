@@ -14,7 +14,7 @@ I retired in 2023 from the University of Wisconsin-Madison as
 after more than 40 years of academic success in
 [stats](https://www.stat.wisc.edu),
 including founding the [data science institute](https://dsi.wisc.edu).
-My next direction will be an inspired mix of personal interests and intellectual pursuits.
+My new directions mix personal interests and intellectual pursuits.
 
 I continue to explore
 [systems thinking](/pages/system/)
