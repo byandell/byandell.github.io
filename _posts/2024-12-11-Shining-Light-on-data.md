@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Shining the Light on Data
+title: Shining Light on Data
 ---
 
 I met Joe Cheng at
