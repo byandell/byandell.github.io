@@ -184,7 +184,7 @@ as global efforts to address climate change, growing connections with Indigenous
 * [Rising Voices](https://risingvoices.ucar.edu/): Workshops & Activities
 * [Seven Generation Inter-Tribal Leadership Summit](https://www.lco.edu/7gensummit) (LCOOU, Sep/Oct)
 * [Sovereign Data Network](https://sdn.ramadda.org)
-* [Status of Tribes and Climate Change Report (STACC)](https://sites.google.com/view/stacc2021-itep/home)
+* [Status of Tribes and Climate Change Report (STACC)](https://sites.google.com/view/staccreport/)
 * [Summer internship for INdigenous peoples in Genomics (SING)](https://singconsortium.org/)
 * [Te Mana Raraunga, Māori Data Sovereignty Network](https://www.temanararaunga.maori.nz/)
 * [Traditional Lifeways and Storytelling--Tools for Adaptation and Resilience to Ecosystem Change](https://link.springer.com/article/10.1007/s10745-019-00113-8) 
