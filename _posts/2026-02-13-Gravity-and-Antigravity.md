@@ -59,16 +59,22 @@ Here are some projects that I would like to evolve in coming months. These all h
 
 - biochemistry of nutrition and obesity
   - Alan Attie collaboration described above
-- geyser tutorial
-  - organize zoom session into 5-min bites
-- Qtl2shiny
+- [geyser](https://github.com/byandell/geyser)
+  - organize tutorial from zoom session into 5-min bites
+- [qtl2shiny](https://github.com/byandell-sysgen/qtl2shiny)
   - Redesign hotspot par scan_window
   - Reactive snpList
-- Landmapr
+- [landmapr](https://github.com/byandell-envsys/landmapr)
   - Tutorial for census and territory
-  - Landmapy
+  - translated modules from landmapy
+- [landmapy](https://github.com/byandell-envsys/landmapy)
   - Nate example as function and shiny example
-- Ewing
+  - translate modules from landmapr
+- [ewing](https://github.com/byandell/ewing)
   - Shiny modules walking through sim
-- Summary of sysgen and envsys GitHub Organizations
-- ESIIL GitHub pages
+- Summary of
+[sysgen](https://github.com/byandell-sysgen)
+and
+[envsys](https://github.com/byandell-envsys)
+ GitHub Organizations
+- [ESIIL GitHub pages](https://github.com/byandell/ESIIL)
