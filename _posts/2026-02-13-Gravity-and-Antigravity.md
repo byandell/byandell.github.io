@@ -57,24 +57,25 @@ We each bring different strengths to the table, and we are learning to leverage 
 
 Here are some projects that I would like to evolve in coming months. These all have presence on GitHub.
 
+- [sysgen](https://github.com/byandell-sysgen)
 - biochemistry of nutrition and obesity
   - Alan Attie collaboration described above
-- [geyser](https://github.com/byandell/geyser)
+  - [qtl2shiny](https://github.com/byandell-sysgen/qtl2shiny)
+    - Redesign hotspot par scan_window
+    - Reactive snpList
+  - Summary of sysgen GitHub Organizations
+- [envsys](https://github.com/byandell-envsys)
+  - [landmapr](https://github.com/byandell-envsys/landmapr)
+    - Tutorial for census and territory
+    - translated modules from landmapy
+  - [landmapy](https://github.com/byandell-envsys/landmapy)
+    - Nate example as function and shiny example
+    - translate modules from landmapr
+  - Summary of envsys GitHub Organizations
+- ESIIL projects
+  - [ESIIL GitHub pages](https://github.com/byandell/ESIIL) from Python course
+  - [ESIIL Stars Program](https://esiil.org/esiil-stars) with Nate Quarderer
+- [geyser](https://github.com/byandell/geyser) shiny module tutorial
   - organize tutorial from zoom session into 5-min bites
-- [qtl2shiny](https://github.com/byandell-sysgen/qtl2shiny)
-  - Redesign hotspot par scan_window
-  - Reactive snpList
-- [landmapr](https://github.com/byandell-envsys/landmapr)
-  - Tutorial for census and territory
-  - translated modules from landmapy
-- [landmapy](https://github.com/byandell-envsys/landmapy)
-  - Nate example as function and shiny example
-  - translate modules from landmapr
-- [ewing](https://github.com/byandell/ewing)
+- [ewing](https://github.com/byandell/ewing) systems ethology
   - Shiny modules walking through sim
-- Summary of
-[sysgen](https://github.com/byandell-sysgen)
-and
-[envsys](https://github.com/byandell-envsys)
- GitHub Organizations
-- [ESIIL GitHub pages](https://github.com/byandell/ESIIL)
