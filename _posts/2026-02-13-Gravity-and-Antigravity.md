@@ -38,6 +38,8 @@ explore and communicate ideas. This becomse a high-level
 conversation with the AI model
 (so far, mainly [Gemini 3 Flash](https://gemini.google.com/share/128669714867))
 in which I am learning to guide with words rather than grapple with code.
+For more about AI agents see
+[Artificial Intelligence (AI) Reference](https://github.com/byandell/Documentation/blob/main/AI.md).
 
 Another aspect of collaboration involve other people.
 I have started talking with long-time colleague
@@ -57,14 +59,14 @@ We each bring different strengths to the table, and we are learning to leverage 
 
 Here are some projects that I would like to evolve in coming months. These all have presence on GitHub.
 
-- [sysgen](https://github.com/byandell-sysgen)
+- [Systems Genetics](https://github.com/byandell-sysgen)
 - biochemistry of nutrition and obesity
   - Alan Attie collaboration described above
   - [qtl2shiny](https://github.com/byandell-sysgen/qtl2shiny)
     - Redesign hotspot par scan_window
     - Reactive snpList
   - Summary of sysgen GitHub Organizations
-- [envsys](https://github.com/byandell-envsys)
+- [Environment Systems](https://github.com/byandell-envsys)
   - [landmapr](https://github.com/byandell-envsys/landmapr)
     - Tutorial for census and territory
     - translated modules from landmapy
@@ -77,5 +79,8 @@ Here are some projects that I would like to evolve in coming months. These all h
   - [ESIIL Stars Program](https://esiil.org/esiil-stars) with Nate Quarderer
 - [geyser](https://github.com/byandell/geyser) shiny module tutorial
   - organize tutorial from zoom session into 5-min bites
-- [ewing](https://github.com/byandell/ewing) systems ethology
+- [Bland Ewing](https://github.com/byandell/ewing) systems ethology
   - Shiny modules walking through sim
+  - Bland Ewing biography
+
+_Updated on February 20, 2026._
