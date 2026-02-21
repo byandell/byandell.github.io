@@ -26,7 +26,7 @@ and connecting with others and the world around me.
 The tools of automation, design, analysis and visualization
 are now available in novel ways that were not possible
 during my formal career trajectory, or even six months ago.
-I'm exploring way to create artful, data-rich stories that are
+I'm exploring ways to create artful, data-rich stories that are
 grounded in what I know--statistics and data science--using
 an AI-first environment to collaborate with people around me.
 
