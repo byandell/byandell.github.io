@@ -44,7 +44,7 @@ For more about AI agents see
 Another aspect of collaboration involves other people.
 I have started talking with long-time colleague
 [Alan Attie](https://labs.wisc.edu/attie/)
-about his work on the genetics of diabetes.
+about his work on the genetics of diabetes, obesity and nutrition.
 We are exploring ways to use these new tools to help us
 communicate his ideas more effectively.
 Early days, but we are both learning about AI and about how to
