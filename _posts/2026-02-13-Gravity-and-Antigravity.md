@@ -39,7 +39,7 @@ conversation with the AI model
 (so far, mainly [Gemini 3 Flash](https://gemini.google.com/share/128669714867))
 in which I am learning to guide with words rather than grapple with code.
 For more about AI agents see
-[Artificial Intelligence (AI) Reference](https://github.com/byandell/Documentation/blob/main/AI.md).
+[Artificial Intelligence (AI) References](https://github.com/byandell/Documentation/blob/main/AI.md).
 
 Another aspect of collaboration involve other people.
 I have started talking with long-time colleague
