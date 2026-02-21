@@ -53,7 +53,12 @@ In other words, we are crafting an ecosystem in which we build
 ideas that result in useful documents or interactive widgets
 ([Shiny](https://shiny.posit.co/) and [Quarto](https://quarto.org/)).
 
-We each bring different strengths to the table, and we are learning to leverage each other's skills. For instance, Alan showed me how to talk into a document and have it transcribed and then edited. This might be be an big picture story, or it might be a detailed prompt.
+We each bring different strengths to the table,
+and we are learning to leverage each other's skills.
+For instance, Alan showed me how to record speech into a document
+that is transcribed and then edited.
+This would be useful for the big picture story,
+or it might help in developing a detailed prompt.
 
 ## The Projects
 
