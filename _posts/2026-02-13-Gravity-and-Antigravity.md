@@ -21,7 +21,7 @@ For me, the balance is between thinking and creating,
 taking care of myself,
 and connecting with others and the world around me.
 
-## The Tools
+## The Process
 
 The tools of automation, design, analysis and visualization
 are now available in novel ways that were not possible
@@ -41,7 +41,7 @@ in which I am learning to guide with words rather than grapple with code.
 For more about AI agents see
 [Artificial Intelligence (AI) References](https://github.com/byandell/Documentation/blob/main/AI.md).
 
-Another aspect of collaboration involve other people.
+Another aspect of collaboration involves other people.
 I have started talking with long-time colleague
 [Alan Attie](https://labs.wisc.edu/attie/)
 about his work on the genetics of diabetes.
