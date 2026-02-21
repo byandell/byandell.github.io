@@ -65,8 +65,8 @@ or it might help in developing a detailed prompt.
 Here are some projects that I would like to evolve in coming months. These all have presence on GitHub.
 
 - [Systems Genetics](https://github.com/byandell-sysgen)
-- biochemistry of nutrition and obesity
-  - Alan Attie collaboration described above
+  - biochemistry of nutrition and obesity
+    - Alan Attie collaboration described above
   - [qtl2shiny](https://github.com/byandell-sysgen/qtl2shiny)
     - Redesign hotspot par scan_window
     - Reactive snpList
