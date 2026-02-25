@@ -23,12 +23,15 @@ and connecting with others and the world around me.
 
 ## My Process
 
-The tools of automation, design, analysis and visualization
+My goal is to move away from creating digital tools (writing code) by hand,
+and at the same time to organize my collection of digital works
+in a way that is useful to me and others.
+Automation for the design, analysis and visualization of data
 are now available in novel ways that were not possible
 during my formal career trajectory, or even six months ago.
-I'm exploring ways to create artful, data-rich stories that are
+I'm exploring new ways to create artful, data-rich stories that are
 grounded in what I know--statistics and data science--using
-an AI-first environment to collaborate with people around me.
+an environment that supports fun, easy and productive collaboration.
 
 Specifically, I am using [Antigravity](https://antigravity.com/)
 as a creative environment with a variety of AI agents.
