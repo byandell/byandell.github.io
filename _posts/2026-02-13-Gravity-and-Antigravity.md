@@ -82,6 +82,7 @@ Here are some projects that I would like to evolve in coming months. These all h
 - ESIIL projects
   - [ESIIL GitHub pages](https://github.com/byandell/ESIIL) from Python course
   - [ESIIL Stars Program](https://esiil.org/esiil-stars) with Nate Quarderer
+  - Maka Sitomniya and Sicangu Climate Center
 - [Bland Ewing](https://github.com/byandell/ewing) systems ethology
   - Shiny modules walking through sim
   - Bland Ewing biography
