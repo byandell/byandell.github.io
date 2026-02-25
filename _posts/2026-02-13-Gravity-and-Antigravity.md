@@ -21,7 +21,7 @@ For me, the balance is between thinking and creating,
 taking care of myself,
 and connecting with others and the world around me.
 
-## The Process
+## My Process
 
 The tools of automation, design, analysis and visualization
 are now available in novel ways that were not possible
@@ -60,9 +60,9 @@ that is transcribed and then edited.
 This would be useful for the big picture story,
 or it might help in developing a detailed prompt.
 
-## The Projects
+## My Projects
 
-Here are some projects that I would like to evolve in coming months. These all have presence on GitHub.
+Here are some of my projects that I would like to evolve in coming months. These all have presence on GitHub.
 
 - [Systems Genetics](https://github.com/byandell-sysgen)
   - biochemistry of nutrition and obesity
