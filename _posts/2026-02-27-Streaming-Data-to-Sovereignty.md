@@ -5,7 +5,8 @@ title: Streaming Data to Sovereignty
 
 Water is the staff of life.
 Water travels through mountains via streams and rivers, cleaning itself and the land, or maybe picking up contaminants along the way.
-These noxious objects dirty the water and threaten the health of their ecosystem, including the people (plants, animals, climate, rocks and humans)who live there.
+These noxious objects dirty the water and threaten the health of their ecosystem, including the people (plants, animals, climate, rocks and humans) who live there.
+How are water and data connected to sovereignty?
 
 Communities have the right to monitor water flowing through their lands.
 They can learn from data collected by carefully placed (cloud-ready) sensors coupled with AI-driven analyses and visualization about water flow and contamination.
