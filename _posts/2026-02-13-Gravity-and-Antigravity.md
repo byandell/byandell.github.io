@@ -69,7 +69,7 @@ Here are some of my projects that I would like to evolve in coming months posed 
 
 - [Systems Genetics](#systems-genetics)
 - [Environment Systems](#environment-systems)
-- [System Ethology](#system-ethology)
+- [Systems Ethology](#system-ethology)
 - [Personal Photographs](#personal-photographs)
 
 ### [Systems Genetics](https://github.com/byandell-sysgen)
@@ -119,7 +119,7 @@ My resources include
   - [Maka Sitomniya](/Maka-Sitomniya/) and
     [Sicangu Climate Center](https://sicangucenter.org/)
 
-### System Ethology
+### Systems Ethology
 
 This focuses on research led by
 [Bland Ewing](https://www.stat.wisc.edu/~yandell/ewing/)
