@@ -69,26 +69,10 @@ I hope to build on my collaborative learning (see previous section) as I advise 
 
 It turns out that AI needs water, as do communities.
 This raises important ethical issues that are intertwined with sovereignty and agency.
-
-### Water Ethics, and Efficiency
-
-Each year, tools get more efficient, needing less water to produce even more useful results.
-[Tyson Swetnam (U AZ)](https://tysonswetnam.com/blog/posts/2025-01-14-gpt101/)
-muses on the ethics of AI and where we might be going.
-
-AI companies are trying to improve their efficiency, and their image.
-This includes making machines and algorithms that use less water.
-Also, there is an emerging effort to support the communities that are protecting and nourishing the water that weaves through their lands.
-
-Here are some approaches to this challenge.
-So range from zero-water data centers to rethinking how we train people to use data.  
-
-- [Articles about AI](https://github.com/byandell/Documentation/blob/main/AI.md#articles-about-ai)
-- [Tyson Swetnam](https://tysonswetnam.com/blog/posts/2025-01-14-gpt101/)
-- [Microsoft](https://www.microsoft.com/en-us/microsoft-cloud/blog/2024/12/09/sustainable-by-design-next-generation-datacenters-consume-zero-water-for-cooling/)
-- [Google](https://blog.google/company-news/outreach-and-initiatives/sustainability/our-commitment-to-climate-conscious-data-center-cooling/)
-- [NVIDIA](https://blogs.nvidia.com/blog/ai-energy-innovation-climate-research/)
+See some references in [articles about ethics and environmental impact of AI](https://github.com/byandell/Documentation/blob/main/AI.md#what-about-ethics-and-environmental-impact-of-ai).
 
 ### Sovereignty, Agency and Privacy
 
 LLMs offer challenges and opportunities. Unchecked, LLMs will harvest data and prompts fed to them to improve their algorithms. This can (hopefully) be managed through contracts. For instance, UW-Madison has contracts with Google and Microsoft so that they "won’t use your prompt data to train its large language models ... and AI tools". Part of this involves retaining each person's conversations (prompts, plans, walkthroughs,etc.) in a sovereign place (behind a firewall). Another aspect is ensuring the tools do not harvest from users' activity. This may require having servers in community as well as contracts for tools. See for instance [UW-Madison's Generative AI Services](https://it.wisc.edu/generative-ai-services-uw-madison/)
+
+_Updated March 16, 2026._
