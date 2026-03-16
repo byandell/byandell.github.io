@@ -140,6 +140,7 @@ I have a collection of photographs that I would like to organize and share.
 During my Watson Year (1974-75), I took 35mm slides across Europe and the Indian subcontinent.
 During graduate years and beyond, I traveled to
 Central America and other locales.
+[See [My Chronology](/pages/reflect/#my-chronology).]
 In addition, I have a collection of family photographs.
 The challenge is how to organize these well,
 including digitizing some early material.
