@@ -144,4 +144,4 @@ In addition, I have a collection of family photographs.
 The challenge is how to organize these well,
 including digitizing some early material.
 
-_Updated on February 20, 2026._
+_Updated on February 20 and March 16, 2026._
