@@ -121,11 +121,9 @@ My resources include
 
 ### Systems Ethology
 
-This focuses on research led by
+How can I articulate Bland Ewing's concepts about systems ethology to share with others?
 [Bland Ewing](https://www.stat.wisc.edu/~yandell/ewing/)
-on systems ethology in the 1970s that still seems to be state-of-the-art yet forgotten.
-See
-[Bland Ewing: A Remembrance](https://mclements.net/Michelle/BlandEwing/)
+developed the ideas for systems ethology (or quantitative population ethology as he called it) in the 1970s. These forgotten ideas still seem to be state-of-the-art, with some aspects being discovered independently in recent years.
 
 My resources includes
 
@@ -134,7 +132,7 @@ My resources includes
 - Bland Ewing biography
   - [Quantitative Population Ethology](https://github.com/byandell/ewing)
   - [Bland Ewing Biography](https://drive.google.com/drive/u/1/folders/12bimDvEoG1EnssZT_Bn2HwdrAHt74guv) [Private]
-  - [Bland Ewing: A Remembrance](https://mclements.net/Michelle/BlandEwing/)
+  - [Bland Ewing: A Remembrance](https://mclements.net/Michelle/BlandEwing/) (Michelle McClements, niece)
 
 ### Personal Photographs
 
