@@ -65,30 +65,85 @@ or it might help in developing a detailed prompt.
 
 ## My Projects
 
-Here are some of my projects that I would like to evolve in coming months. These all have presence on GitHub.
+Here are some of my projects that I would like to evolve in coming months posed as questions. These all have presence on GitHub; while many involved coding, some are more writing projects.
 
-- [Systems Genetics](https://github.com/byandell-sysgen)
-  - biochemistry of nutrition and obesity
-    - Alan Attie collaboration described above
-  - [qtl2shiny](https://github.com/byandell-sysgen/qtl2shiny)
-    - Redesign hotspot par scan_window
-    - Reactive snpList
-  - Summary of sysgen GitHub Organizations
-- [Environment Systems](https://github.com/byandell-envsys)
-  - [landmapr](https://github.com/byandell-envsys/landmapr)
-    - Tutorial for census and territory
-    - translated modules from landmapy
-  - [landmapy](https://github.com/byandell-envsys/landmapy)
-    - Nate example as function and shiny example
-    - translate modules from landmapr
-  - Summary of envsys GitHub Organizations
+- [Systems Genetics](#systems-genetics)
+- [Environment Systems](#environment-systems)
+- [System Ethology](#system-ethology)
+- [Personal Photographs](#personal-photographs)
+
+### [Systems Genetics](https://github.com/byandell-sysgen)
+
+How can we study broad and deep patterns in mouse (and eventually human) studies with theseextensive molecular measurements?
+The central dogma of molecular biology has been expanded (see for instance [[Hazeltine (Forbes)](https://www.forbes.com/sites/williamhaseltine/2024/12/03/a-new-dogma-of-molecular-biology-a-paradigm-shift/)])
+as we have extended molecular measurements to include DNA, RNA, proteins, lipids, metabolites and more.
+I continue to collaborate with
+[Alan Attie](https://labs.wisc.edu/attie/).
+This will involve rethinking my
+[sysgen](https://github.com/byandell-sysgen) coding projects along with projects of Attie team members,
+as well as other _de novo_ approaches that emerge.
+For instance, what about asking AI to look for patterns among _all_ Attie's data, pointing it to our tools but leaving open new directions?
+
+My resources include
+
+- [qtlshiny](https://github.com/byandell-sysgen/qtlshiny)
+  - focused on small genomic region with useful SNP/SDP tools
+  - needs to be updated in terms of reactivity and UX
+  - would benefit from dynamic connections to other tools
+- [founderShiny](https://github.com/byandell-sysgen/founderShiny)
+  - mature platform
+  - would benefit from dynamic connections to other tools (such as gene cards, etc.)
+- various other QTL tools in various stages of integration
+
+### [Environment Systems](https://github.com/byandell-envsys)
+
+How can we make it easier for communities to study their land and water using publicly available data?
+Ready-made tools are often specialized and poorly interconnected. Development of new tools (largely in python) takes time if done by hand.
+How can we better train young researchers to jump into this space to address their pressing projects, and in doing so, help them develop the skills to create the next generation of dynamic, interconnected tools?
+
+My resources include
+
+- [geyser](https://github.com/byandell/geyser)
+  - Improve tutorial materials
+- [landmapr](https://github.com/byandell-envsys/landmapr)
+  - Needs tutorial for census and territory
+  - Import translated modules from landmapy
+- [landmapy](https://github.com/byandell-envsys/landmapy)
+  - built around ESIIL/EarthLab course
+  - turns their examples into function
+  - would benefit from developing shiny examples
+  - translate modules from landmapr
 - ESIIL projects
   - [ESIIL GitHub pages](https://github.com/byandell/ESIIL) from Python course
   - [ESIIL Stars Program](https://esiil.org/esiil-stars) with Nate Quarderer
   - [Maka Sitomniya](/Maka-Sitomniya/) and
     [Sicangu Climate Center](https://sicangucenter.org/)
-- [Bland Ewing](https://github.com/byandell/ewing) systems ethology
-  - Shiny modules walking through sim
-  - Bland Ewing biography
+
+### System Ethology
+
+This focuses on research led by
+[Bland Ewing](https://www.stat.wisc.edu/~yandell/ewing/)
+on systems ethology in the 1970s that still seems to be state-of-the-art yet forgotten.
+See
+[Bland Ewing: A Remembrance](https://mclements.net/Michelle/BlandEwing/)
+
+My resources includes
+
+- [Ewing Simulation](https://github.com/byandell/ewing)
+  - need improvedShiny modules walking through sim
+- Bland Ewing biography
+  - [Quantitative Population Ethology](https://github.com/byandell/ewing)
+  - [Bland Ewing Biography](https://drive.google.com/drive/u/1/folders/12bimDvEoG1EnssZT_Bn2HwdrAHt74guv) [Private]
+  - [Bland Ewing: A Remembrance](https://mclements.net/Michelle/BlandEwing/)
+
+### Personal Photographs
+
+I have a collection of photographs that I would like to organize and share.
+During my Watson Year (1974-75), I took 35mm slides across Europe and the Indian subcontinent.
+During graduate years and beyong, I traveled to
+Central America and other locales.
+In addition, I have a collection of family photographs.
+The challenge is how to organize these well,
+including digitizing some early material.
 
 _Updated on February 20, 2026._
