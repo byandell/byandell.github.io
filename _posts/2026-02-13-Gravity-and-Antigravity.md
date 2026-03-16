@@ -68,8 +68,8 @@ or it might help in developing a detailed prompt.
 Here are some of my projects that I would like to evolve in coming months posed as questions. These all have presence on GitHub; while many involved coding, some are more writing projects.
 
 - [Systems Genetics](#systems-genetics)
-- [Environment Systems](#environment-systems)
-- [Systems Ethology](#system-ethology)
+- [Environmental Systems](#environmental-systems)
+- [Systems Ethology](#systems-ethology)
 - [Personal Photographs](#personal-photographs)
 
 ### [Systems Genetics](https://github.com/byandell-sysgen)
@@ -95,7 +95,7 @@ My resources include
   - would benefit from dynamic connections to other tools (such as gene cards, etc.)
 - various other QTL tools in various stages of integration
 
-### [Environment Systems](https://github.com/byandell-envsys)
+### [Environmental Systems](https://github.com/byandell-envsys)
 
 How can we make it easier for communities to study their land and water using publicly available data?
 Ready-made tools are often specialized and poorly interconnected. Development of new tools (largely in python) takes time if done by hand.
