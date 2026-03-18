@@ -83,12 +83,18 @@ I have used AI via Antigravity to build some documentation in the
 [ResearchDrive](https://it.wisc.edu/services/researchdrive/):
 
 - Data and Scripts in folder `mkeller3/General/main_directory`
-  - Added README.md for this folder and some sub-folders
-  - Created GitHub repo with these READMEs for version control at <https://github.com/AttieLab-Systems-Genetics/sysgenDO1200>
+  - Added
+    [README.md](https://github.com/AttieLab-Systems-Genetics/sysgenDO1200/blob/main/README.md)
+    for this folder and some sub-folders
+  - Created GitHub repo with these READMEs for version control at
+    [AttieLab-Systems-Genetics/sysgenDO1200](https://github.com/AttieLab-Systems-Genetics/sysgenDO1200)
   - See info at top of this file for how I did this
 - Code in folder `mkeller3/General/Projects2/R scripts`
-  - Added README.md for this folder
-  - Created GitHub repo for version control at <https://github.com/AttieLab-Systems-Genetics/mkeller3Projects2>
+  - Added
+    [README.md](https://github.com/AttieLab-Systems-Genetics/mkeller3Projects2/blob/master/README.md)
+    for this folder
+  - Created GitHub repo for version control at
+    [AttieLab-Systems-Genetics/mkeller3Projects2](https://github.com/AttieLab-Systems-Genetics/mkeller3Projects2)
 
 ### Thinking Big
 
