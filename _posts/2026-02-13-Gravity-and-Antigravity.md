@@ -21,6 +21,16 @@ For me, the balance is between thinking and creating,
 taking care of myself,
 and connecting with others and the world around me.
 
+- [My Process](#my-process)
+- [Going Deeper](#going-deeper)
+  - [Documenting Work](#documenting-work)
+  - [Thinking Big](#thinking-big)
+- [My Projects](#my-projects)
+  - [Systems Genetics](#systems-genetics)
+  - [Environmental Systems](#environmental-systems)
+  - [Systems Ethology](#systems-ethology)
+  - [Personal Photographs](#personal-photographs)
+
 ## My Process
 
 My goal is to move away from creating digital tools (writing code) by hand,
@@ -62,6 +72,52 @@ For instance, Alan showed me how to record speech into a document
 that is transcribed and then edited.
 This would be useful for the big picture story,
 or it might help in developing a detailed prompt.
+
+## Going Deeper
+
+### Documenting Work
+
+A few minutes work with AI can help organize work for sharing,
+and can help each of us remember what we did and why.
+I have used AI via Antigravity to build some documentation in the
+[ResearchDrive](https://it.wisc.edu/services/researchdrive/):
+
+- Data and Scripts in folder `mkeller3/General/main_directory`
+  - Added README.md for this folder and some sub-folders
+  - Created GitHub repo with these READMEs for version control at <https://github.com/AttieLab-Systems-Genetics/sysgenDO1200>
+  - See info at top of this file for how I did this
+- Code in folder `mkeller3/General/Projects2/R scripts`
+  - Added README.md for this folder
+  - Created GitHub repo for version control at <https://github.com/AttieLab-Systems-Genetics/mkeller3Projects2>
+
+### Thinking Big
+
+It will be useful to “think big” and “go big” with future use of agentic AI (what is that? read on).
+We have started with “conversations' with AI, initially with an AI tools like Claude Code or Google Gemini on their own.
+Now we build conversations in an integrated environment such as AntiGravity that enable “seeing” our code and data and “acting” on those resources to evolve them.
+This allows us to speed up various useful tasks and gets us wanting more. What is next?
+
+The bigger picture involves data, code-based tools, external resources (web-based APIs), and our detailed description(s) of what we know and what we want to understand. For instance,
+
+- Data: How do we study ALL our DO1200 data, integrating them with other DO and founder data (and data from other organisms).
+- Tools: How do we evolve tools we have developed for DO and founder mice, including those under development now, and connect with others out there (from Jax, GeneNetwork, Galaxy, Cytoscape, Broad).
+- APIs: API tools provide code to get/put data at scale (DNA, SNP, protein databases, etc.).
+- Questions: Most of our questions (and tools) have focuses on one QTL region (single QTL models), one trait, or one pathway. Yes, we gather information about many related things but filter down to summaries for single traits or loci. Yet our bigger concern is about whole-organism processes (many interrelated processes).
+- Prompts and agentic guidance: Our questions are closely tied to the prompts we will want to develop. The essence of our conversations with AI should be captured concisely so that we learn from our experience and build up more complicated prompts from simpler ones. See for instance what I did so far with [sysgenAnalysis](https://github.com/byandell/sysgenAnalysis).
+
+As hinted in the last point, we cannot just jump from the simple conversation to the whole gestalt.
+Instead, we build up in stages, scaffolding that builds on what we are learning now.
+Part of this will involve learning how to have multiple parallel, independent conversations, or so-called Agentic AI.
+We get to this by learning more.
+
+We should all takeTyson Swetnam’s self-paced online workshop
+[Intro on Generative AI and Prompt Engineering](https://tyson-swetnam.github.io/intro-gpt/),
+which is claimed to be 8-12 hours of work.
+
+To get to big AI, we will need some monthly fee-based access to Google Gemini Pro and/or Claude Code ($100-200/person/month).
+Claude Code is the current innovation leader, but Gemini has the advantage of a license with UW-Madison that protects AI conversations from being harvested to “improve” their models.
+See more at
+[Artificial Intelligence (AI)](https://github.com/byandell/Documentation/blob/main/AI.md).
 
 ## My Projects
 
@@ -145,4 +201,4 @@ In addition, I have a collection of family photographs.
 The challenge is how to organize these well,
 including digitizing some early material.
 
-_Updated on February 20 and March 16, 2026._
+_Updated on February 20 and March 16-18, 2026._
