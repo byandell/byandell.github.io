@@ -81,6 +81,7 @@ A few minutes work with AI can help organize work for sharing,
 and can help each of us remember what we did and why.
 I have used AI via Antigravity to build some documentation in the
 [ResearchDrive](https://it.wisc.edu/services/researchdrive/):
+(private links for now)
 
 - Data and Scripts in folder `mkeller3/General/main_directory`
   - Added
