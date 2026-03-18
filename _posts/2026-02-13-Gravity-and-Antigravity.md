@@ -124,7 +124,7 @@ which should take 8-12 hours.
 To get to big AI, we will need some monthly fee-based access to Google Gemini Pro and/or Claude Code ($100-200/person/month).
 Claude Code is the current innovation leader, but Gemini has the advantage of a license with UW-Madison that protects AI conversations from being harvested to “improve” their models.
 See more at
-[Artificial Intelligence (AI)](https://github.com/byandell/Documentation/blob/main/AI.md).
+[Artificial Intelligence (AI) References](https://github.com/byandell/Documentation/blob/main/AI.md).
 
 ## My Projects
 
