@@ -117,9 +117,9 @@ Instead, we build up in stages, scaffolding that builds on what we are learning 
 Part of this will involve learning how to have multiple parallel, independent conversations, or so-called Agentic AI.
 We get to this by learning more.
 
-We should all takeTyson Swetnam’s self-paced online workshop
-[Intro on Generative AI and Prompt Engineering](https://tyson-swetnam.github.io/intro-gpt/),
-which is claimed to be 8-12 hours of work.
+We should all take Tyson Swetnam’s self-paced online workshop
+[Generative AI & Prompt Engineering](https://tyson-swetnam.github.io/intro-gpt/),
+which should take 8-12 hours.
 
 To get to big AI, we will need some monthly fee-based access to Google Gemini Pro and/or Claude Code ($100-200/person/month).
 Claude Code is the current innovation leader, but Gemini has the advantage of a license with UW-Madison that protects AI conversations from being harvested to “improve” their models.
