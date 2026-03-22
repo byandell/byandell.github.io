@@ -76,7 +76,7 @@ or it might help in developing a detailed prompt.
 ## Going Deeper
 
 While going deeper may mean going bigger, it also means abstracting what we do by thinking and working at multiple levels.
-One "meta" way to do this involves paying attention to the prompts you develop, and keeping track of them.
+One "meta" way to do this involves paying attention to the prompts we develop, and keeping track of them.
 See my evolving collection of [AI Prompt Examples](https://github.com/byandell/Documentation/blob/main/AIPromptExamples.md).
 
 ### Documenting Work
