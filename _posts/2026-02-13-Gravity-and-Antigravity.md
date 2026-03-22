@@ -84,7 +84,9 @@ See my evolving collection of [AI Prompt Examples](https://github.com/byandell/D
 A few minutes work with AI can help organize work for sharing,
 and can help each of us remember what we did and why.
 I have used AI via Antigravity to build some documentation in the
-[ResearchDrive](https://it.wisc.edu/services/researchdrive/):
+[ResearchDrive (RD)](https://it.wisc.edu/services/researchdrive/).
+While the RD is a secure and private, I have made public versions of documentation in the
+[Attie Lab Systems Genetics GitHub](https://github.com/AttieLab-Systems-Genetics).
 
 - Data and Scripts in folder `mkeller3/General/main_directory`
   - Added
