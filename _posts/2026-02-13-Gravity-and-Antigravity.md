@@ -75,13 +75,16 @@ or it might help in developing a detailed prompt.
 
 ## Going Deeper
 
+Deeper means bigger, it also means abstracting what we do by thinking and working at multiple levels.
+One "meta" ways to do this involves paying attention to the prompts you develop, and keeping track of them.
+See my evolving collection of [AI Prompt Examples](https://github.com/byandell/Documentation/blob/main/AIPromptExamples.md).
+
 ### Documenting Work
 
 A few minutes work with AI can help organize work for sharing,
 and can help each of us remember what we did and why.
 I have used AI via Antigravity to build some documentation in the
 [ResearchDrive](https://it.wisc.edu/services/researchdrive/):
-(private links for now)
 
 - Data and Scripts in folder `mkeller3/General/main_directory`
   - Added
