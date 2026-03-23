@@ -83,24 +83,9 @@ See my evolving collection of [AI Prompt Examples](https://github.com/byandell/D
 
 A few minutes work with AI can help organize work for sharing,
 and can help each of us remember what we did and why.
-I have used AI via Antigravity to build some documentation in the
-[ResearchDrive (RD)](https://it.wisc.edu/services/researchdrive/).
-While the RD is secure and private, I have made public versions of documentation in the
-[Attie Lab Systems Genetics GitHub](https://github.com/AttieLab-Systems-Genetics).
-
-- Data and Scripts in folder `mkeller3/General/main_directory`
-  - Added
-    [README.md](https://github.com/AttieLab-Systems-Genetics/sysgenDO1200/blob/main/README.md)
-    for this folder and some sub-folders
-  - Created GitHub repo with these READMEs for version control at
-    [AttieLab-Systems-Genetics/sysgenDO1200](https://github.com/AttieLab-Systems-Genetics/sysgenDO1200)
-  - See info at top of this file for how I did this
-- Code in folder `mkeller3/General/Projects2/R scripts`
-  - Added
-    [README.md](https://github.com/AttieLab-Systems-Genetics/mkeller3Projects2/blob/master/README.md)
-    for this folder
-  - Created GitHub repo for version control at
-    [AttieLab-Systems-Genetics/mkeller3Projects2](https://github.com/AttieLab-Systems-Genetics/mkeller3Projects2)
+I have used AI via Antigravity to build documentation in a variety of ways (see
+[AI Prompt Examples](https://github.com/byandell/Documentation/blob/main/AI_prompts.md))
+toward a broader goal of learning how to think big.
 
 ### Thinking Big
 
