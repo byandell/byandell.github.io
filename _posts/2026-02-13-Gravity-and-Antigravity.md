@@ -15,7 +15,8 @@ using the tools of automation, design, analysis and visualization.
 Gravity is the force that holds us to the earth,
 while antigravity, in theory, frees us from that grip.
 [Antigravity](https://antigravity.com/)
-is a tool to explore ideas using words, code and data.
+is a tool to explore ideas using words, images and data
+via code and prompts.
 The balance of forces keeps us alive.
 For me, the balance is between thinking and creating,
 taking care of myself,
