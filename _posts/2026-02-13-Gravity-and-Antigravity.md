@@ -22,8 +22,8 @@ taking care of myself,
 and connecting with others and the world around me.
 
 - [My Process](#my-process)
-- [Going Deeper](#going-deeper)
-  - [Documenting Work](#documenting-work)
+- [Collaborating in Teams](#collaborating-in-teams)
+  - [Documenting AI Prompts](#documenting-ai-prompts)
   - [Thinking Big](#thinking-big)
 - [My Projects](#my-projects)
   - [Systems Genetics](#systems-genetics)
@@ -73,14 +73,28 @@ that is transcribed and then edited.
 This would be useful for the big picture story,
 or it might help in developing a detailed prompt.
 
-## Going Deeper
+## Collaborating in Teams
+
+How is AI evolving the way people collaborate in teams?
+Most articles focus on AI's impact on isolation;
+I prefer to think about the other side of the coin: collaboration.
+My goal is to help guide and shape some of that collaboration within teams
+shaped by AI.
+
+It takes time to coordinate with an interdisciplinary team.
+It is crucial to agree on the important goals and strategies to achieve those goals.
+This high-level thinking gets translated into lower-level tactics
+to accomplish the scaffolded goals and strategies.
+All of this takes time and compromize, meaning there is no magic bullet AI solution.
+However, AI conversations enable the translation of strategies into tactics
+that can all be written in plain language.
+In fact, we seem to be evolving to a point where computer code is merely
+an artifact of these conversations.
+
+### Documenting AI Prompts
 
 While going deeper may mean going bigger, it also means abstracting what we do by thinking and working at multiple levels.
 One "meta" way to do this involves paying attention to the prompts we develop, and keeping track of them.
-See my evolving collection of [AI Prompt Examples](https://github.com/byandell/Documentation/blob/main/AI_prompts.md).
-
-### Documenting Work
-
 A few minutes work with AI can help organize work for sharing,
 and can help each of us remember what we did and why.
 I have used AI via Antigravity to build documentation in a variety of ways (see
