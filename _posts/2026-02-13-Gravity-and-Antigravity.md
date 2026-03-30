@@ -92,6 +92,8 @@ However, AI conversations enable the translation of strategies into tactics
 that can all be written in plain language.
 In fact, we seem to be evolving to a point where computer code is merely
 an artifact of these conversations.
+See for instance
+[Sharing  Prompts instead of Code](https://github.com/byandell/Documentation/blob/main/AI.md#sharing-prompts-instead-of-code).
 
 ### Documenting AI Prompts
 
