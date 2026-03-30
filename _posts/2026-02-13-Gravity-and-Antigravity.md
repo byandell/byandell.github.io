@@ -1,4 +1,4 @@
----
+u---
 layout: post
 title: Gravity and Antigravity
 ---
@@ -87,7 +87,7 @@ It takes time to coordinate with an interdisciplinary team.
 It is crucial to agree on the important goals and strategies to achieve those goals.
 This high-level thinking gets translated into lower-level tactics
 to accomplish the scaffolded goals and strategies.
-All of this takes time and compromize, meaning there is no magic bullet AI solution.
+All of this takes time and compromise, meaning there is no magic bullet AI solution.
 However, AI conversations enable the translation of strategies into tactics
 that can all be written in plain language.
 In fact, we seem to be evolving to a point where computer code is merely
