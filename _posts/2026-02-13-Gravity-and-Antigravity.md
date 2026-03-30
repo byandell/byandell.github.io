@@ -117,7 +117,7 @@ The bigger picture involves data, code-based tools, external resources (web-base
 - Data: How do we study ALL our DO1200 data, integrating them with other DO and founder data (and data from other organisms).
 - Tools: How do we evolve tools we have developed for DO and founder mice, including those under development now, and connect with others out there (from Jax, GeneNetwork, Galaxy, Cytoscape, Broad).
 - APIs: API tools provide code to get/put data at scale (DNA, SNP, protein databases, etc.).
-- Questions: Most of our questions (and tools) have focuses on one QTL region (single QTL models), one trait, or one pathway. Yes, we gather information about many related things but filter down to summaries for single traits or loci. Yet our bigger concern is about whole-organism processes (many interrelated processes).
+- Questions: Most of our questions (and tools) have focuses on one QTL region (single QTL models), one trait, or one pathway. Yes, we gather information about many related things but filter down to summaries for single traits or loci. Yet our bigger concern is about whole-organism processes with many interrelated processes.
 - Prompts and agentic guidance: Our questions are closely tied to the prompts we will want to develop. The essence of our conversations with AI should be captured concisely so that we learn from our experience and build up more complicated prompts from simpler ones. See for instance what I did so far with [sysgenAnalysis](https://github.com/byandell/sysgenAnalysis).
 
 As hinted in the last point, we cannot just jump from the simple conversation to the whole gestalt.
