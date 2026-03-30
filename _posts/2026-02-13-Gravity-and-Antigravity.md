@@ -76,7 +76,8 @@ or it might help in developing a detailed prompt.
 ## Collaborating in Teams
 
 How is AI evolving the way people collaborate in teams?
-Most articles focus on AI's impact on isolation;
+[Most articles about AI](https://github.com/byandell/Documentation/blob/main/AI.md)
+focus on its impact on isolation;
 I prefer to think about the other side of the coin: collaboration.
 My goal is to help guide and shape some of that collaboration within teams
 shaped by AI.
@@ -176,12 +177,14 @@ My resources include
   - Needs tutorial for census and territory
   - Import translated modules from landmapy
 - [landmapy](https://github.com/byandell-envsys/landmapy)
-  - built around ESIIL/EarthLab course
+  - built around ESIIL/EarthLab
+[Earth Data Analytics (EDA) course](https://github.com/byandell-envsys/EarthDataAnalytics)
   - turns their examples into function
   - would benefit from developing shiny examples
   - translate modules from landmapr
 - ESIIL projects
-  - [ESIIL GitHub pages](https://github.com/byandell/ESIIL) from Python course
+  - [ESIIL GitHub pages](https://github.com/byandell/ESIIL) from
+[EDA course](https://github.com/byandell-envsys/EarthDataAnalytics)
   - [ESIIL Stars Program](https://esiil.org/esiil-stars) with Nate Quarderer
   - [Maka Sitomniya](/Maka-Sitomniya/) and
     [Sicangu Climate Center](https://sicangucenter.org/)
@@ -212,4 +215,4 @@ In addition, I have a collection of family photographs.
 The challenge is how to organize these well,
 including digitizing some early material.
 
-_Updated on February 20 and March 16-18, 2026._
+_Updated on February 20 and March 16-30, 2026._
