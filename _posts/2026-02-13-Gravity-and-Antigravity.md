@@ -24,7 +24,7 @@ and connecting with others and the world around me.
 
 - [My Process](#my-process)
 - [Collaborating in Teams](#collaborating-in-teams)
-  - [Documenting AI Prompts](#documenting-ai-prompts)
+  - [Sharing  Prompts instead of Code](#sharing-prompts-instead-of-code)
   - [Thinking Big](#thinking-big)
 - [My Projects](#my-projects)
   - [Systems Genetics](#systems-genetics)
@@ -92,18 +92,47 @@ However, AI conversations enable the translation of strategies into tactics
 that can all be written in plain language.
 In fact, we seem to be evolving to a point where computer code is merely
 an artifact of these conversations.
-See for instance
-[Sharing  Prompts instead of Code](https://github.com/byandell/Documentation/blob/main/AI.md#sharing-prompts-instead-of-code).
 
-### Documenting AI Prompts
+### Sharing  Prompts instead of Code
 
-While going deeper may mean going bigger, it also means abstracting what we do by thinking and working at multiple levels.
-One "meta" way to do this involves paying attention to the prompts we develop, and keeping track of them.
-A few minutes work with AI can help organize work for sharing,
-and can help each of us remember what we did and why.
-I have used AI via Antigravity to build documentation in a variety of ways (see
-[AI Prompt Examples](https://github.com/byandell/Documentation/blob/main/AI_prompts.md))
-toward a broader goal of learning how to think big.
+Thinking with gravity about a project leads us to
+abstract a goal into multiple steps.
+One "meta" way to track these steps involves saving prompts
+and/or walkthroughs iteratively to build a history of our process.
+A few minutes extra work during an AI conversation
+yields a shareable record,
+helping us remember what we did and why.
+I have used AI via Antigravity to build documentation in a variety of ways
+toward a broader goal of learning how to develop tools for bigger strategic goals.
+Here is one useful example.
+
+Alan Attie began studying an experiment with Diana Esparza using a series of prompts
+to transform a data table (XLSX file) into a set of plots (PNG files).
+That Monday, they wanted to talk with me about interpretation,
+and we drifted into discussion of how to document
+their work by saving their prompts in a markdown file.
+I guided them over 1.5 hours in organizing their work
+into a powerpoint presentation (PPTX file) via a Quarto file.
+using AI to not only do the work for them (write code, create plots, etc.),
+but also to iteratively save the prompts in a markdown file (`prompts.md`),
+getting AI to update the prompts file as we went.
+
+On Wednesday, Diana had the data file and the prompts file from Alan —- nothing else.
+She asked me to help her make it work for her.
+We found that the prompts file had the absolute file address for the data table,
+which we changed to a relative address (just `filename.xlsx`).
+After that, it worked, locally creating the R code file, the plots and the powerpoint.
+Over that hour, I blithely suggested this could be improved with a table of contents.
+Diana proposed adding information and references about the subject matter.
+She wrote prompts and, presto (with a few tweaks to improve viewing), the new powerpoint now had a TOC, descriptions, and references.
+FINALLY, Diana asked AI to modify the prompts markdown file to include this last addition.
+
+The point is that Diana learned how to reproduce earlier work, and to improve on it, using only the data and a prompts file. _The code and plot files were incidental artifacts._ We worked at a strategic level of collaboration toward a goal without getting mired in how-to detail.
+
+Actually I did a fair amount of guiding, particularly in getting Alan and Diana to document their steps. That effort led to a demonstrably reproducible piece of work, which can be a model for future collaborations in this lab.
+See
+[prompts/powerpoint.md](https://github.com/byandell/Documentation/blob/main/prompts/powerpoint.md) among
+[AI Prompt Examples: Powerpoint Presentation](https://github.com/byandell/Documentation/blob/main/AI_prompts.md#powerpoint-presentation) for details.
 
 ### Thinking Big
 
