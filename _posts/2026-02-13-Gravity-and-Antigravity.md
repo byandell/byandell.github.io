@@ -24,7 +24,7 @@ and connecting with others and the world around me.
 
 - [My Process](#my-process)
 - [Collaborating in Teams](#collaborating-in-teams)
-  - [Sharing  Prompts instead of Code](#sharing-prompts-instead-of-code)
+  - [Sharing Prompts instead of Code](#sharing-prompts-instead-of-code)
   - [Thinking Big](#thinking-big)
 - [My Projects](#my-projects)
   - [Systems Genetics](#systems-genetics)
@@ -93,7 +93,7 @@ that can all be written in plain language.
 In fact, we seem to be evolving to a point where computer code is merely
 an artifact of these conversations.
 
-### Sharing  Prompts instead of Code
+### Sharing Prompts instead of Code
 
 Thinking with gravity about a project leads us to
 abstract a goal into multiple steps.
