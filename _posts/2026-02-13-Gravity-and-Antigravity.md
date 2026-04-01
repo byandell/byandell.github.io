@@ -1,4 +1,4 @@
-u---
+---
 layout: post
 title: Gravity and Antigravity
 ---
