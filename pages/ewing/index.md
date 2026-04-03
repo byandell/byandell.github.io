@@ -14,7 +14,7 @@ For original, see <http://www.stat.wisc.edu/~yandell/ewing/>.
 More will be added over time.
 
 * [Systems Ethology](https://byandell.github.io/SystemsEthology) book draft ([GitHub](https://github.com/byandell/SystemsEthology))
-* [Bland Ewing Story](https://byandell.github.io/BlandEwing) story of Bland Ewing's life
+* [Bland Ewing Story](https://byandell.github.io/BlandEwing) story of Bland Ewing's life ([GitHub](https://github.com/byandell/BlandEwing))
 * [My Involvement with Bland Ewing](#my-involvement-with-bland-ewing)
 * [Ewing Bibliography on Ecological Modeling](#ewing-bibliography)
 * [Ewing Google Drive](https://drive.google.com/drive/u/1/folders/12bimDvEoG1EnssZT_Bn2HwdrAHt74guv) [limited access]
