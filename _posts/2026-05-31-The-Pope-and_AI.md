@@ -78,7 +78,7 @@ concise summary” of this whole document.
 
 # Encyclical Letter *Magnifica Humanitas*
 
-[Encyclical Letter of His Holiness Leo XIV Magnifica Humanitas (15 May
+[Encyclical Letter of His Holiness Leo XIV *Magnifica Humanitas* (15 May
 2026)](http://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html)
 (Pope Leo XIV, Vatican)
 
