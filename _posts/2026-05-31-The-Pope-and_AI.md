@@ -8,21 +8,19 @@ editor_options:
 
 On 15 May 2026, the Pope released the Encyclical Letter titled
 *Magnifica Humanitas*, which has potential to profoundly affect the AI
-conversation.
-This is a structured collection of summaries of articles, essays, and
-critiques during May 2026 focusing on the intersection of artificial
-intelligence, ethics, and society.
+conversation. This is a structured collection of summaries of articles,
+essays, and critiques during May 2026 focusing on the intersection of
+artificial intelligence, ethics, and society.
 
-Pope Leo XIV’s encyclical letter
-*Magnifica Humanitas* establishes a moral framework for the artificial
-intelligence era, warning against a profit-driven technocratic paradigm
-while advocating for human dignity, digital truth, and international
-governance. The Pope firmly denies machine consciousness and treats AI
-as a powerful technological infrastructure that requires global
-oversight, international regulation, and corporate transparency. Tech
-leader Olah (Anthropic), speaking after the Pope at the Vatican,
-emphasized the mysterious, unscripted nature of AI architectures that
-require outside moral guidance.
+Pope Leo XIV’s encyclical letter *Magnifica Humanitas* establishes a
+moral framework for the artificial intelligence era, warning against a
+profit-driven technocratic paradigm while advocating for human dignity,
+digital truth, and international governance. The Pope firmly denies
+machine consciousness and treats AI as a powerful technological
+infrastructure that requires global oversight, international regulation,
+and corporate transparency. Tech leader Olah (Anthropic), speaking after
+the Pope at the Vatican, emphasized the mysterious, unscripted nature of
+AI architectures that require outside moral guidance.
 
 Critics challenge the Pope's traditional framework for being potentially
 too dismissive of AI's uniquely "weird" and persuasive capabilities:
@@ -72,10 +70,9 @@ managing AI's true psychological impact.
 - [AI Reshaping Consciousness (Paul Noon,
   Professor-AI)](https://www.theprofessor.info/insights/the-pope-says-ai-isnt-conscious-but-what-if-its-reshaping-yours)
 
-Edited from multiple use of Gemini 3.5 Flash prompts:
-“summarize [document] in a concise, 2-level manner”
-followed by a “one-paragraph concise summary” of this whole
-document.
+Edited from multiple use of Gemini 3.5 Flash prompts: “summarize
+`[document]` in a concise, 2-level manner” followed by a “one-paragraph
+concise summary” of this whole document.
 
 ------------------------------------------------------------------------
 
