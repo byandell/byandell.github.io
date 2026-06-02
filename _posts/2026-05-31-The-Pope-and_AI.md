@@ -72,8 +72,9 @@ managing AI's true psychological impact.
 - [AI Reshaping Consciousness (Paul Noon,
   Professor-AI)](https://www.theprofessor.info/insights/the-pope-says-ai-isnt-conscious-but-what-if-its-reshaping-yours)
 
-Gemini 3.5 Flash prompts: “summarize $$document$$ in a concise, 2-level
-manner” followed by a “one-paragraph concise summary” of this whole
+Edited from multiple use of Gemini 3.5 Flash prompts:
+“summarize [document] in a concise, 2-level manner”
+followed by a “one-paragraph concise summary” of this whole
 document.
 
 ------------------------------------------------------------------------
