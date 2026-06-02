@@ -74,5 +74,5 @@ We are developing software to implement the quantitative population ethology sim
 Please read the [Practical Model Building](build.html) paper for detailed information on our code. First one needs to install the R system, however. See the R Project for instructions.
 
 * [GitHub Source of ewing library](https://github.com/byandell/ewing)
-* [Shiny Ewing Interface](https://connect.doit.wisc.edu/ewing) [under development]
+* [Shiny Ewing Interface](https://connect.doit.wisc.edu/SystemsEthology)
 * [redscale](https://github.com/byandell/redscale) R library: data initialization

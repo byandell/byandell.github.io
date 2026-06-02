@@ -16,6 +16,18 @@ Healing the planet requires creative AI solutions, which are already coming from
 
 This is a story of how I am learning some ways that these data and tools evolve through the collaboration of talented people and their tools.
 
+## US Indigenous Data Sovereignty Summit
+
+The
+[US Indigenous Data Sovereignty Network](https://usindigenousdatanetwork.org/)
+is holding a summit in Tucson, AZ, 14-16 April 2026.
+I attended the first day in part,
+where I learned about the challenges faced by many
+Indigenous communities grappling with climate change and environmental degradation coupled with pressure to share data,
+water and land with entities that may not have their best interests at heart,
+particularly around the construction of data centers.
+At the same time, speakers and attendees recognized the potential value of AI to help communities study and respond to these challenges.
+
 ## Sicangu Climate Center
 
 I became connected with the [Sicangu Climate Center (SCC)](https://sicangucenter.org/) through innovation summits and working groups organized through [ESIIL](https://esiil.org/).
@@ -75,4 +87,4 @@ See some references in [articles about ethics and environmental impact of AI](ht
 
 LLMs offer challenges and opportunities. Unchecked, LLMs will harvest data and prompts fed to them to improve their algorithms. This can (hopefully) be managed through contracts. For instance, UW-Madison has contracts with Google and Microsoft so that they "won’t use your prompt data to train its large language models ... and AI tools". Part of this involves retaining each person's conversations (prompts, plans, walkthroughs,etc.) in a sovereign place (behind a firewall). Another aspect is ensuring the tools do not harvest from users' activity. This may require having servers in community as well as contracts for tools. See for instance [UW-Madison's Generative AI Services](https://it.wisc.edu/generative-ai-services-uw-madison/)
 
-_Updated March 16, 2026._
+_Updated March 16 and April 16, 2026._
