@@ -9,10 +9,11 @@ editor_options:
 On 15 May 2026, the Pope released the Encyclical Letter titled
 *Magnifica Humanitas*, which has potential to profoundly affect the AI
 conversation.
-
 This is a structured collection of summaries of articles, essays, and
-critiques from May 2026 focusing on the intersection of artificial
-intelligence, ethics, and society. Pope Leo XIV’s encyclical letter
+critiques during May 2026 focusing on the intersection of artificial
+intelligence, ethics, and society.
+
+Pope Leo XIV’s encyclical letter
 *Magnifica Humanitas* establishes a moral framework for the artificial
 intelligence era, warning against a profit-driven technocratic paradigm
 while advocating for human dignity, digital truth, and international
