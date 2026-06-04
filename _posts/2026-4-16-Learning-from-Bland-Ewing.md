@@ -18,7 +18,7 @@ When my faculty trajectory at UW-Madison reached full professor in the mid 1990s
 my personal life fell apart and I reached out to people from my earlier life.
 Nancy Sullivan told me that Bland was very sick and I should seek him out.
 I found him in Paradise, CA, in advanced stages of
-[Huntington's Disease](/pages/ewing/hd.md).
+[Huntington's Disease](/pages/ewing/hd).
 I started visiting him regularly and, after encouragement from my sister Lynn,
 began recording his life story and returning to the science questions
 that had inspired him and me so long ago.
