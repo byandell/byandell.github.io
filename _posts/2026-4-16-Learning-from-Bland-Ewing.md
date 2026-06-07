@@ -28,13 +28,13 @@ I retired.
 This is about Bland, but it also about me and my journey.
 
 In the summer of 1969,
-I was first exposed to a Varian computer at a company,
+I met my first computer, a Varian, at a company,
 where I learned to toggle the boot block to initiate
 a program load.
 The next summer, after graduating from high school,
 I interned at
 [Lawrence Berkeley Lab (LBL)](https://www.lbl.gov/)
-where I was exposed to early computers and programming languages.
+where I encountered more computers and programming languages.
 I was promised a job for the following summer,
 after my first year at
 [Caltech](https://www.caltech.edu/).
@@ -62,7 +62,7 @@ The ideas Bland was working on then never got properly published
 and were largely forgotten.
 
 But let's step back.
-I was exposed to Bland's ideas while at Caltech,
+I encountered Bland's ideas while at Caltech,
 but could not see how to act on them at that time.
 When I began graduate school at UC-Berkeley in biostatistics,
 I thought I might explore Bland's ideas, but they seemed too ambitious
