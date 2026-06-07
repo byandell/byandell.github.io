@@ -66,7 +66,6 @@ communicate with each other using this new environment.
 In other words, we are crafting an ecosystem in which we build
 ideas that result in useful documents or interactive widgets
 ([Shiny](https://shiny.posit.co/) and [Quarto](https://quarto.org/)).
-
 We each bring different strengths to the table,
 and we are learning to leverage each other's skills.
 For instance, Alan showed me how to record speech into a document
@@ -84,7 +83,8 @@ My goal is to help guide and shape some of that collaboration within teams
 shaped by AI.
 
 It takes time to coordinate with an interdisciplinary team.
-It is crucial to agree on the important goals and strategies to achieve those goals.
+It is crucial to agree on the important goals and strategies to achieve those goals,
+and the values and guiding principles for effective team process.
 This high-level thinking gets translated into lower-level tactics
 to accomplish the scaffolded goals and strategies.
 All of this takes time and compromise, meaning there is no magic bullet AI solution.
@@ -97,31 +97,32 @@ an artifact of these conversations.
 
 Thinking with gravity about a project leads us to
 abstract a goal into multiple steps.
-One "meta" way to track these steps involves saving prompts
-and/or walkthroughs iteratively to build a history of our process.
+One "meta" way to track these steps when using AI
+-- saving prompts and/or walkthroughs iteratively --
+builds a history of our process.
 A few minutes extra work during an AI conversation
 yields a shareable record,
 helping us remember what we did and why.
 I have used AI via Antigravity to build documentation in a variety of ways
 toward a broader goal of learning how to develop tools for bigger strategic goals.
-Here is one useful example.
+Here is one revealing example.
 
 Alan Attie began studying an experiment with Diana Esparza using a series of prompts
-to transform a data table (XLSX file) into a set of plots (PNG files).
+to transform a data table (`xlsx` file) into a set of plots (`png` files).
 That Monday, they wanted to talk with me about interpretation,
 and we drifted into discussion of how to document
 their work by saving their prompts in a markdown file.
 I guided them over 1.5 hours in organizing their work
-into a powerpoint presentation (PPTX file) via a Quarto file.
+into a powerpoint presentation (`pptx` file) via a `Quarto` file.
 using AI to not only do the work for them (write code, create plots, etc.),
 but also to iteratively save the prompts in a markdown file (`prompts.md`),
 getting AI to update the prompts file as we went.
 
-On Wednesday, Diana had the data file and the prompts file from Alan —- nothing else.
-She asked me to help her make it work for her.
+On Wednesday, Diana asked me to help as she could now reproduce the work from Monday.
+She had the data file and the prompts file from Alan —- nothing else.
 We found that the prompts file had the absolute file address for the data table,
 which we changed to a relative address (just `filename.xlsx`).
-After that, it worked, locally creating the R code file, the plots and the powerpoint.
+After that, it worked fine, locally creating the `R` code file, the plots and the powerpoint.
 Over that hour, I blithely suggested this could be improved with a table of contents.
 Diana proposed adding information and references about the subject matter.
 She wrote prompts and, presto (with a few tweaks to improve viewing), the new powerpoint now had a TOC, descriptions, and references.
@@ -130,18 +131,28 @@ FINALLY, Diana asked AI to modify the prompts markdown file to include this last
 The point is that Diana learned how to reproduce earlier work, and to improve on it, using only the data and a prompts file. _The code and plot files were incidental artifacts._ We worked at a strategic level of collaboration toward a goal without getting mired in how-to detail.
 
 Actually I did a fair amount of guiding, particularly in getting Alan and Diana to document their steps. That effort led to a demonstrably reproducible piece of work, which can be a model for future collaborations in this lab.
-See
-[prompts/powerpoint.md](https://github.com/byandell/Documentation/blob/main/prompts/powerpoint.md) among
-[AI Prompt Examples: Powerpoint Presentation](https://github.com/byandell/Documentation/blob/main/AI_prompts.md#powerpoint-presentation) for details.
+Afterward, Diana updated the original "people friendly" data files,
+which meant the master "machine friendly" data file needed to be updated.
+I came up with a natural language prompt to do this quickly,
+further automating the process. For reference see
+
+- [AI Prompt Examples: Powerpoint Presentation](https://github.com/byandell/Documentation/blob/main/AI_prompts.md#powerpoint-presentation)
+- [PowerPoint prompt](https://github.com/byandell/Documentation/blob/main/prompts/powerpoint.md)
+- [Hsp90 demo repo](https://github.com/AttieLab-Systems-Genetics/Hsp90/) (with prompts for PowerPoint and Data Update)
 
 ### Thinking Big
 
 It will be useful to “think big” and “go big” with future use of agentic AI (what is that? read on).
 We have started with “conversations' with AI, initially with an AI tools like Claude Code or Google Gemini on their own.
-Now we build conversations in an integrated environment such as AntiGravity that enable “seeing” our code and data and “acting” on those resources to evolve them.
-This allows us to speed up various useful tasks and gets us wanting more. What is next?
+Now we build conversations in an
+[integrated development environment (IDE)](https://www.geeksforgeeks.org/blogs/what-is-ide/)
+such as AntiGravity that enable us (me or my team, along with AI agents)
+to “view” our code and data and “act” on those resources to evolve them.
+This can speed up various useful tasks by freeing us up to think strategically
+rather than about code mechanics, and gets us wanting more.
+What is next?
 
-The bigger picture involves data, code-based tools, external resources (web-based APIs), and our detailed description(s) of what we know and what we want to understand. For instance,
+The bigger picture involves data, code-based tools, external resources (web-based APIs), and our detailed description(s) of what we know and what we want to understand. For instance, with the Alan Attie project,
 
 - Data: How do we study ALL our DO1200 data, integrating them with other DO and founder data (and data from other organisms).
 - Tools: How do we evolve tools we have developed for DO and founder mice, including those under development now, and connect with others out there (from Jax, GeneNetwork, Galaxy, Cytoscape, Broad).
@@ -153,13 +164,15 @@ As hinted in the last point, we cannot just jump from the simple conversation to
 Instead, we build up in stages, scaffolding that builds on what we are learning now.
 Part of this will involve learning how to have multiple parallel, independent conversations, or so-called Agentic AI.
 We get to this by learning more.
-
-We should all take Tyson Swetnam’s self-paced online workshop
+For instance, we would all benefit from Tyson Swetnam’s self-paced online workshop
 [Generative AI & Prompt Engineering](https://tyson-swetnam.github.io/intro-gpt/),
 which should take 8-12 hours.
 
-To get to big AI, we will need some monthly fee-based access to Google Gemini Pro and/or Claude Code ($100-200/person/month).
-Claude Code is the current innovation leader, but Gemini has the advantage of a license with UW-Madison that protects AI conversations from being harvested to “improve” their models.
+To get to big AI, we will need some monthly fee-based access to Google Gemini
+and/or Claude Code.
+Claude Code is the current innovation leader, but Gemini has the advantage of a
+license with UW-Madison that protects AI conversations from being harvested to
+“improve” their models.
 See more at
 [Artificial Intelligence (AI) References](https://github.com/byandell/Documentation/blob/main/AI.md).
 
@@ -247,4 +260,4 @@ In addition, I have a collection of family photographs.
 The challenge is how to organize these well,
 including digitizing some early material.
 
-_Updated on February 20 and March 16-30, 2026._
+_Updated on February 20 and March 16-30 and June 7, 2026._
