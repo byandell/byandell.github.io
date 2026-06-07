@@ -14,7 +14,9 @@ which I did after taking a gap year as a
 [Watson Fellow](https://watson.foundation/fellowships/tj).
 We drifted apart during my graduate years as he moved from academia
 to the emerging tech sector.
-When my faculty trajectory at UW-Madison reached full professor in the mid 1990s,
+When my faculty trajectory at
+[UW-Madison](https://www.stat.wisc.edu/~yandell)
+reached full professor in the mid 1990s,
 my personal life fell apart and I reached out to people from my earlier life.
 Nancy Sullivan told me that Bland was very sick and I should seek him out.
 I found him in Paradise, CA, in advanced stages of
