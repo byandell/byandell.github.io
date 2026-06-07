@@ -52,27 +52,29 @@ that current governance frameworks may already be inadequate for
 managing AI's true psychological impact.
 
 - [Encyclical Letter Magnifica Humanitas (Pope Leo XIV,
-  Vatican)](http://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html)
+  Vatican)](#encyclical-letter-magnifica-humanitas)
 - [Nature, Reality & Discernment (Chris Olah,
-  Anthropic)](https://www.anthropic.com/news/chris-olah-pope-leo-encyclical)
+  Anthropic)](#nature-reality--discernment)
 - [Vision Might Not be Strange Enough (Ross Douthat, NY
-  Times)](https://www.nytimes.com/2026/05/27/opinion/pope-leo-ai-encyclical.html)
+  Times)](#vision-might-not-be-strange-enough)
 - [Idols of the Valley (Yuval Levin, New
-  Atlantis)](https://www.thenewatlantis.com/publications/idols-of-the-valley)
+  Atlantis)](#idols-of-the-valley)
 - [Control Slipping Away (Charlie Warzel,
-  Atlantic)](https://www.theatlantic.com/technology/2026/05/ai-agents-agency-crisis-humanity/687379/)
+  Atlantic)](#control-slipping-away)
 - [How does AI benefit the public? (Ezra Klein, NY
-  Times)](https://www.nytimes.com/2026/05/31/opinion/artificial-intelligence-public-good.html)
+  Times)](#how-does-ai-benefit-the-public)
 - [Mixed Reaction from Tech World (Mark Sullivan, Fast
-  Company)](https://www.fastcompany.com/91548394/pope-leo-xivs-ai-encyclical-is-getting-a-mixed-reception-from-the-tech-world)
+  Company)](#mixed-reaction-from-tech-world)
 - [Power of AI (Elena Betti,
-  Wired)](https://www.wired.com/story/what-pope-leo-xivs-first-encyclical-says-about-the-power-of-ai/)
+  Wired)](#power-of-ai)
 - [AI Reshaping Consciousness (Paul Noon,
-  Professor-AI)](https://www.theprofessor.info/insights/the-pope-says-ai-isnt-conscious-but-what-if-its-reshaping-yours)
+  Professor-AI)](#ai-reshaping-consciousness)
 
 Edited from multiple use of Gemini 3.5 Flash prompts: “summarize
 `[document]` in a concise, 2-level manner” followed by a “one-paragraph
 concise summary” of this whole document.
+The title is a play on
+[The King and I with Yul Brynner and Deborah Kerr](https://www.imdb.com/title/tt0049408).
 
 ------------------------------------------------------------------------
 
