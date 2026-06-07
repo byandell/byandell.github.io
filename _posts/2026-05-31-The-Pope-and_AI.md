@@ -51,7 +51,7 @@ models successfully simulate empathy and mirror human emotions, warning
 that current governance frameworks may already be inadequate for
 managing AI's true psychological impact.
 
-- [Encyclical Letter Magnifica Humanitas (Pope Leo XIV,
+- [Encyclical Letter *Magnifica Humanitas* (Pope Leo XIV,
   Vatican)](#encyclical-letter-magnifica-humanitas)
 - [Nature, Reality & Discernment (Chris Olah,
   Anthropic)](#nature-reality--discernment)
