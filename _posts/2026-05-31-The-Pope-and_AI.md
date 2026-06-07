@@ -74,7 +74,7 @@ Edited from multiple use of Gemini 3.5 Flash prompts: “summarize
 `[document]` in a concise, 2-level manner” followed by a “one-paragraph
 concise summary” of this whole document.
 The title is a play on
-[The King and I with Yul Brynner and Deborah Kerr](https://www.imdb.com/title/tt0049408).
+[*The King and I* with Yul Brynner and Deborah Kerr](https://www.imdb.com/title/tt0049408).
 
 ------------------------------------------------------------------------
 
