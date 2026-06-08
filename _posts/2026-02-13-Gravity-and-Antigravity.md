@@ -118,7 +118,7 @@ using AI to not only do the work for them (write code, create plots, etc.),
 but also to iteratively save the prompts in a markdown file (`prompts.md`),
 getting AI to update the prompts file as we went.
 
-On Wednesday, Diana asked me to help as she could now reproduce the work from Monday.
+On Wednesday, Diana asked me to help as she could not reproduce the work from Monday.
 She had the data file and the prompts file from Alan —- nothing else.
 We found that the prompts file had the absolute file address for the data table,
 which we changed to a relative address (just `filename.xlsx`).
@@ -143,7 +143,7 @@ further automating the process. For reference see
 ### Thinking Big
 
 It will be useful to “think big” and “go big” with future use of agentic AI (what is that? read on).
-We have started with “conversations' with AI, initially with an AI tools like Claude Code or Google Gemini on their own.
+We have started with “conversations' with AI, initially with AI tools like Claude Code or Google Gemini on their own.
 Now we build conversations in an
 [integrated development environment (IDE)](https://www.geeksforgeeks.org/blogs/what-is-ide/)
 such as AntiGravity that enable us (me or my team, along with AI agents)
