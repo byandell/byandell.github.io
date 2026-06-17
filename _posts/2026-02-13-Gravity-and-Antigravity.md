@@ -53,7 +53,7 @@ conversation with the AI model
 (so far, mainly [Gemini 3 Flash](https://gemini.google.com/share/128669714867))
 in which I am learning to guide with words rather than grapple with code.
 For more about AI agents see
-[Artificial Intelligence (AI) References](https://github.com/byandell/Documentation/blob/main/AI.md).
+[Artificial Intelligence (AI) References](https://byandell.github.io/Documentation/AI.html).
 
 Another aspect of collaboration involves other people.
 I have started talking with long-time colleague
@@ -76,7 +76,7 @@ or it might help in developing a detailed prompt.
 ## Collaborating in Teams
 
 How is AI evolving the way people collaborate in teams?
-[Most articles about AI](https://github.com/byandell/Documentation/blob/main/AI.md)
+[Most articles about AI](https://byandell.github.io/Documentation/AI.html)
 focus on its impact on isolation;
 I prefer to think about the other side of the coin: collaboration.
 My goal is to help guide and shape some of that collaboration within teams
@@ -136,8 +136,8 @@ which meant the master "machine friendly" data file needed to be updated.
 I came up with a natural language prompt to do this quickly,
 further automating the process. For reference see
 
-- [AI Prompt Examples: Powerpoint Presentation](https://github.com/byandell/Documentation/blob/main/prompts/#powerpoint-presentation)
-- [PowerPoint prompt](https://github.com/byandell/Documentation/blob/main/prompts/powerpoint.md)
+- [AI Prompt Examples: Powerpoint Presentation](https://byandell.github.io/Documentation/prompts/#powerpoint-presentation)
+- [PowerPoint prompt](https://byandell.github.io/Documentation/powerpoint.html)
 - [Hsp90 demo repo](https://github.com/AttieLab-Systems-Genetics/Hsp90/) (with prompts for PowerPoint and Data Update)
 
 ### Thinking Big
@@ -174,7 +174,7 @@ Claude Code is the current innovation leader, but Gemini has the advantage of a
 license with UW-Madison that protects AI conversations from being harvested to
 “improve” their models.
 See more at
-[Artificial Intelligence (AI) References](https://github.com/byandell/Documentation/blob/main/AI.md).
+[Artificial Intelligence (AI) References](https://byandell.github.io/Documentation/AI.html).
 
 ## My Projects
 
