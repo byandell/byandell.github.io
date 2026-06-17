@@ -136,7 +136,7 @@ which meant the master "machine friendly" data file needed to be updated.
 I came up with a natural language prompt to do this quickly,
 further automating the process. For reference see
 
-- [AI Prompt Examples: Powerpoint Presentation](https://github.com/byandell/Documentation/blob/main/AI_prompts.md#powerpoint-presentation)
+- [AI Prompt Examples: Powerpoint Presentation](https://github.com/byandell/Documentation/blob/main/prompts/#powerpoint-presentation)
 - [PowerPoint prompt](https://github.com/byandell/Documentation/blob/main/prompts/powerpoint.md)
 - [Hsp90 demo repo](https://github.com/AttieLab-Systems-Genetics/Hsp90/) (with prompts for PowerPoint and Data Update)
 
