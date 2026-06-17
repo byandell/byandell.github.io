@@ -137,7 +137,7 @@ I came up with a natural language prompt to do this quickly,
 further automating the process. For reference see
 
 - [AI Prompt Examples: Powerpoint Presentation](https://byandell.github.io/Documentation/prompts/#powerpoint-presentation)
-- [PowerPoint prompt](https://byandell.github.io/Documentation/powerpoint.html)
+- [PowerPoint prompt](https://byandell.github.io/Documentation/prompts/powerpoint.html)
 - [Hsp90 demo repo](https://github.com/AttieLab-Systems-Genetics/Hsp90/) (with prompts for PowerPoint and Data Update)
 
 ### Thinking Big
