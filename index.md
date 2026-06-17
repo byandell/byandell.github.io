@@ -51,4 +51,5 @@ siblings.
 - [Personal Reflections](/pages/reflect/)
 - [Collaboration](/pages/collaborate/)
 - [Software Projects](/pages/software/)
+  - [Documentation](https://byandell.github.io/Documentation)
   - [Geyser Shiny Module Demo](https://github.com/byandell/geyser)
