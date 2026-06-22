@@ -53,3 +53,4 @@ siblings.
 - [Software Projects](/pages/software/)
   - [Documentation](https://byandell.github.io/Documentation)
   - [Geyser Shiny Module Demo](https://github.com/byandell/geyser)
+  - [`landmapyr: Land Mapping Package](https://byandell-envsys.github.io/landmapyr)
