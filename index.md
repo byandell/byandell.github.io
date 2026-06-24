@@ -48,9 +48,12 @@ siblings.
 
 - [Systems Thinking](/pages/system/)
 - [Environmental Data Science](/pages/eds/)
+  - [Indigenous Data Science and Sovereignty](/pages/indigenous/)
+  - [ESIIL Research](https://byandell.github.io/ESIIL)
+  - [ESIIL STARS Training Notes](https://byandell.github.io/esiil-stars/)
 - [Personal Reflections](/pages/reflect/)
 - [Collaboration](/pages/collaborate/)
 - [Software Projects](/pages/software/)
-  - [Documentation](https://byandell.github.io/Documentation)
+  - [Documentation for Digital Tools](https://byandell.github.io/Documentation)
   - [`geyser`: Shiny Module Demo](https://byandell.github.io/geyser)
   - [`landmapyr`: Land Mapping Package](https://byandell-envsys.github.io/landmapyr)
