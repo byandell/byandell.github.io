@@ -50,7 +50,7 @@ siblings.
 - [Environmental Data Science](/pages/eds/)
   - [Indigenous Data Science and Sovereignty](/pages/indigenous/)
   - [ESIIL Research](https://byandell.github.io/ESIIL)
-  - [ESIIL STARS Training Notes](https://byandell.github.io/esiil-stars/)
+  - [ESIIL Stars Training](https://byandell.github.io/esiil-stars/)
 - [Personal Reflections](/pages/reflect/)
 - [Collaboration](/pages/collaborate/)
 - [Software Projects](/pages/software/)
