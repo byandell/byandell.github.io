@@ -75,6 +75,10 @@ Edited from multiple use of Gemini 3.5 Flash prompts: “summarize
 concise summary” of this whole document.
 The title is a play on
 [*The King and I* with Yul Brynner and Deborah Kerr](https://www.imdb.com/title/tt0049408).
+See critiques after May 2026, including
+
+- [Strange, Delightful, and Slightly Unnerving (Richard Putz, Cardijn Reflections)](https://reflections.josephcardijn.com/p/strange-delightful-and-slightly-unnerving)
+- [The Pope and the AI Apocalypse (Jack Hanson, Know Your Enemy podcast)](https://know-your-enemy-1682b684.simplecast.com/episodes/pope-leo-xivs-magnifica-humanitas-w-jack-hanson)
 
 ------------------------------------------------------------------------
 
@@ -411,3 +415,5 @@ Yours?](https://www.theprofessor.info/insights/the-pope-says-ai-isnt-conscious-b
   empathy, its functional effects on human consciousness and emotional
   attachment are real and documented, meaning AI governance built solely
   on the "it's just a tool" assumption may already be inadequate.
+
+*Updated June 30 2026*
