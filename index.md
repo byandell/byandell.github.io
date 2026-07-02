@@ -54,6 +54,6 @@ siblings.
 - [Personal Reflections](/pages/reflect/)
 - [Collaboration](/pages/collaborate/)
 - [Software Projects](/pages/software/)
-  - [Documentation for Digital Tools](https://byandell.github.io/Documentation)
+  - [Document Digital Tools](https://byandell.github.io/Documentation)
   - [`geyser`: Shiny Module Demo](https://byandell.github.io/geyser)
   - [`landmapyr`: Land Mapping Package](https://byandell-envsys.github.io/landmapyr)
