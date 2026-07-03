@@ -27,6 +27,7 @@ and connecting with others and the world around me.
   - [Sharing Prompts instead of Code](#sharing-prompts-instead-of-code)
   - [Thinking Big](#thinking-big)
 - [My Projects](#my-projects)
+  - [Document Digital Tools](#document-digital-tools)
   - [Systems Genetics](#systems-genetics)
   - [Environmental Systems](#environmental-systems)
   - [Systems Ethology](#systems-ethology)
@@ -180,14 +181,38 @@ See more at
 
 Here are some of my projects that I would like to evolve in coming months posed as questions. These all have presence on GitHub; while many involved coding, some are more writing projects.
 
+- [Document Digital Tools](#document-digital-tools)
 - [Systems Genetics](#systems-genetics)
 - [Environmental Systems](#environmental-systems)
-- [Systems Ethology](#systems-ethology)
+- [Systems Ethology](#systems-etholog y)
 - [Personal Photographs](#personal-photographs)
+
+### [Document Digital Tools](https://github.com/byandell/Documentation)
+
+How can we develop tools to document and share our work?
+This is my effort to pull together a collection of resources, or tools,
+I am experimenting with to help myself and others develop and use documentation
+effectively and enjoyably.
+It has been inspired by multiple collaborations and, as others,
+is an evolving project.
+
+Plans include:
+
+- [Document Digital Tools](https://github.com/byandell/Documentation/)
+  - incorporate [R for Teams in the Data Sciences](https://github.com/UW-Madison-DataScience/R_for_data_sciences) material into this repo and profile.
+  This will involve some careful planning (such as developing an AI Implementation Plan) to update that material and interleave
+  it with what I have organized anew.
+  - Expand out [AI section](https://byandell.github.io/Documentation/AI/) using material I am learning from collaborators. This includes exploring how to design a useful harness and orchestrate agentic AI, notably how they are using Claude Code
+  or other platforms.
+  - Expand [GitHub Pages](https://byandell.github.io/Documentation/github) to use GitHub Actions and embeded images and documents.
+  - Add section on data sovereignty and open science relevant to my collaborations with Indigenous and other communities.
+- [geyser](https://byandell.github.io/geyser/)
+  - turn profile page into a reveal of whole repo in similar way to the
+[Document Digital Tools](https://github.com/byandell/Documentation/) profile page.
 
 ### [Systems Genetics](https://github.com/byandell-sysgen)
 
-How can we study broad and deep patterns in mouse (and eventually human) studies with theseextensive molecular measurements?
+How can we study broad and deep patterns in mouse (and eventually human) studies with these extensive molecular measurements?
 The central dogma of molecular biology has been expanded (see for instance [[Hazeltine (Forbes)](https://www.forbes.com/sites/williamhaseltine/2024/12/03/a-new-dogma-of-molecular-biology-a-paradigm-shift/)])
 as we have extended molecular measurements to include DNA, RNA, proteins, lipids, metabolites and more.
 I continue to collaborate with
@@ -217,20 +242,20 @@ How can we better train young researchers to jump into this space to address the
 My resources include
 
 - [geyser](https://github.com/byandell/geyser)
-  - Improve tutorial materials
-- [landmapr](https://github.com/byandell-envsys/landmapr)
-  - Needs tutorial for census and territory
-  - Import translated modules from landmapy
-- [landmapy](https://github.com/byandell-envsys/landmapy)
+  - Improve tutorial materials (see [Document Digital Tools](#document-digital-tools) above)
+- [landmapyr](https://github.com/byandell-envsys/landmapyr)
+  - Develop tutorial for census and territory
+  - [Translate Python modules into R](https://github.com/byandell-envsys/landmapyr/blob/main/notes/transR.md).
+- [nativeLand](https://github.com/byandell-envsys/nativeLand)
   - built around ESIIL/EarthLab
 [Earth Data Analytics (EDA) course](https://github.com/byandell-envsys/EarthDataAnalytics)
   - turns their examples into function
   - would benefit from developing shiny examples
-  - translate modules from landmapr
+  - incorporate into `landmapyr`
 - ESIIL projects
   - [ESIIL GitHub pages](https://github.com/byandell/ESIIL) from
 [EDA course](https://github.com/byandell-envsys/EarthDataAnalytics)
-  - [ESIIL Stars Program](https://esiil.org/esiil-stars) with Nate Quarderer
+  - [ESIIL Stars Program](https://byandell.github.io/esiil-stars/) with Nate Quarderer
   - [Maka Sitomniya](/Maka-Sitomniya/) and
     [Sicangu Climate Center](https://sicangucenter.org/)
 
@@ -240,13 +265,14 @@ How can I articulate Bland Ewing's concepts about systems ethology to share with
 [Bland Ewing](https://www.stat.wisc.edu/~yandell/ewing/)
 developed the ideas for systems ethology (or quantitative population ethology as he called it) in the 1970s. These forgotten ideas still seem to be state-of-the-art, with some aspects being discovered independently in recent years.
 
-My resources includes
+My resources include
 
 - [Ewing Simulation](https://github.com/byandell/ewing)
-  - need improvedShiny modules walking through sim
-- Bland Ewing biography
-  - [Quantitative Population Ethology](https://github.com/byandell/ewing)
-  - [Bland Ewing Biography](https://drive.google.com/drive/u/1/folders/12bimDvEoG1EnssZT_Bn2HwdrAHt74guv) [Private]
+  - need improved Shiny modules walking through sim
+  - develop out gists with AI for Ewing tools to warp time, etc.
+  - [leaflet tool](https://github.com/byandell/ewing/blob/master/R/leafletApp.R) to overlay hexagon patterns onto a base map and then overlay organisms
+- [Systems Ethology](https://github.com/byandell/BlandEwing)
+- [Bland Ewing Story](https://github.com/byandell/BlandEwing)
   - [Bland Ewing: A Remembrance](https://mclements.net/Michelle/BlandEwing/) (Michelle McClements, niece)
 
 ### Personal Photographs
@@ -260,4 +286,4 @@ In addition, I have a collection of family photographs.
 The challenge is how to organize these well,
 including digitizing some early material.
 
-_Updated on February 20 and March 16-30 and June 7, 2026._
+_Updated on February 20, March 16-30, June 7-8 and July 3, 2026._
