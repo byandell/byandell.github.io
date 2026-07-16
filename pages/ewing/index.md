@@ -25,7 +25,7 @@ More will be added over time.
   * [Bland Ewing Story](https://byandell.github.io/BlandEwing) story of Bland Ewing's life ([source](https://github.com/byandell/BlandEwing))
   * [Ewing Google Drive](https://drive.google.com/drive/u/1/folders/12bimDvEoG1EnssZT_Bn2HwdrAHt74guv) [limited access]
   * [Software for Quantitative Population Ethology](#quantitative-population-ethology-software)
-  * [GitHub Source of ewing library](https://byandell.github.io/ewing)
+  * [ewing software package](https://byandell.github.io/ewing)
   * [Shiny Ewing Interface](https://connect.doit.wisc.edu/ewing)
 
 ## My Involvement with Bland Ewing
