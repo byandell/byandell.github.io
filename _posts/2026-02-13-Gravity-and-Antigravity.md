@@ -267,13 +267,13 @@ developed the ideas for systems ethology (or quantitative population ethology as
 
 My resources include
 
-- [Ewing Simulation](https://github.com/byandell/ewing)
+- [Ewing Simulation](https://byandell.github.io/ewing/)
   - [Systems Ethology](https://connect.doit.wisc.edu/SystemsEthology/) shiny app
   - need improved Shiny modules walking through sim
   - develop out gists with AI for Ewing tools to warp time, etc.
   - [leaflet tool](https://github.com/byandell/ewing/blob/master/R/leafletApp.R) to overlay hexagon patterns onto a base map and then overlay organisms
-- [Systems Ethology](https://github.com/byandell/BlandEwing)
-- [Bland Ewing Story](https://github.com/byandell/BlandEwing)
+- [Systems Ethology](https://byandell.github.io/SystemsEthology/)
+- [Bland Ewing Story](https://byandell.github.io/BlandEwing)
   - [Bland Ewing: A Remembrance](https://mclements.net/Michelle/BlandEwing/) (Michelle McClements, niece)
 
 ### Personal Photographs
