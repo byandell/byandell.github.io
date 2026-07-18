@@ -38,24 +38,24 @@ Indigenous Fire Data Sovereignty: Applying Indigenous Data Sovereignty Principle
 [The Missing Millions. NSF OAC.](https://www.rti.org/publication/missing-millions/fulltext.pdf)
 * William J Blizek, Rory J Conces (1996) Ethics and Sovereignty.
 [Philosophy Faculty Publications 11.](https://digitalcommons.unomaha.edu/philfacpub/11)
-[Nature 8: 108.](https://doi.org/10.1038/s41597-021-00892-0) 
+[Nature 8: 108.](https://doi.org/10.1038/s41597-021-00892-0)
 * Stephanie Russo Carroll, Ibrahim Garba, Oscar L. Figueroa-Rodríguez,
 Jarita Holbrook, Raymond Lovett, Simeon Materechera, Mark Parsons,
 Kay Raseroka, Desi Rodriguez-Lonebear, Robyn Rowe, Rodrigo Sara
-Jennifer D. Walker, Jane Anderson, Maui Hudson (2020) The CARE Principles for Indigenous Data Governance. 
+Jennifer D. Walker, Jane Anderson, Maui Hudson (2020) The CARE Principles for Indigenous Data Governance.
 [Data Science J 19: 43.](https://doi.org/10.5334/dsj-2020-043)
-* Stephanie Russo Carroll, Desi Rodriguez-Lonebear, Andrew Martinez (2019) Indigenous Data Governance: Strategies from United States Native Nations. 
+* Stephanie Russo Carroll, Desi Rodriguez-Lonebear, Andrew Martinez (2019) Indigenous Data Governance: Strategies from United States Native Nations.
 [Data Science J 18: 1-15.](https://doi.org/10.5334/dsj-2019-031)
-* Stephanie Russo Carroll, Desi Rodriguez-Lonebear, Andrew Martinez (2017?) 
+* Stephanie Russo Carroll, Desi Rodriguez-Lonebear, Andrew Martinez (2017?)
 [Indigenous Data Sovereignty in the United States: Policy Brief.](https://static1.squarespace.com/static/5d3799de845604000199cd24/t/5d6f93c9c5442b00013e4b69/1567593418017/Policy%2BBrief%2BIndigenous%2BData%2BSovereignty%2Bin%2Bthe%2BUnited%2BStates%2BV0.3%2Bcopy.pdf)
 * Stephanie Carroll Rainie, Tahu Kukutai, Maggie Walter, Oscar Luis Figueroa-Rodriguez, Jennifer Walker, Per Axelsson (2019) Indigenous Data Sovereignty.
 [African Minds and International Development Research Centre. ISBN 9781928331957. Ch 21.](https://www.stateofopendata.od4d.net/chapters/issues/indigenous-data.html).
 * Diana M Dalbotten, Emi Ito, Susan Eriksson, Holly Pellerin, Lowana Greensky, Courtney Kowalczak, Antony Berthelote (2017) Gidakiimanaanawigamig’s Circle of Learning: A Model for Partnership between Tribal Community and Research University. [International Journal of Partnership Studies, Vol. 4(3).](https://doi.org/10.24926/ijps.v4i3.176)
-* Tim Davies, Stephen B Walker, Mor Rubinstein, Fernando Perini (eds) (2019 Cape Town and Ottawa) 
+* Tim Davies, Stephen B Walker, Mor Rubinstein, Fernando Perini (eds) (2019 Cape Town and Ottawa)
 [State of Open Data: Histories and Horizons.](https://www.stateofopendata.od4d.net/)  
-* Sarah de Leeuw (2017) Putting calls into action. 
+* Sarah de Leeuw (2017) Putting calls into action.
 [Can Fam Physician 63: 56–59.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5257223/)
-* Sarah Dickson-Hoyle, Ronald E Ignace, Marianne B Ignace, Shannon M Hagerman, Lori D Daniels, Kelsey Copes-Gerbitz (2021) 
+* Sarah Dickson-Hoyle, Ronald E Ignace, Marianne B Ignace, Shannon M Hagerman, Lori D Daniels, Kelsey Copes-Gerbitz (2021)
 Walking on two legs: a pathway of Indigenous restoration and reconciliation in fire-adapted landscapes.
 [Restoration Ecology 30: e13566.](https://doi.org/10.1111/rec.13566)
 * Elie Dolgin (2023) Scientists Unveil a More Diverse Human Genome
@@ -73,6 +73,9 @@ Fresh Banana Leaves: Healing Indigenous Landscapes Through Indigenous Science.
 [Penguin Random House. ISBN 9781623176051](https://www.penguinrandomhouse.com/books/675699/fresh-banana-leaves-by-jessica-hernandez/).
 * Lydia Jennings, Talia Anderson, Andrew Martinez, Rogena Sterling (2023)
 Applying the ‘CARE Principles for Indigenous Data Governance’ to ecology and biodiversity research. [Nature Ecology & Evolution 7](https://doi.org/10.1038/s41559-023-02161-2).
+* Lydia Jennings, Katherine Jones, Riley Taitingfong, Andrew Martinez, Dominique David-Chavez, Rosanna ʻAnolani Alegado, Adrien Tofighi-Niaki, Julie Maldonado, Bill Thomas, Dennis Dye, Jeff Weber, Katie V. Spellman, Scott Ketchum, Ruth Duerr, Noor Johnson, Jennifer Balch & Stephanie Russo Carroll (2025)
+Governance of Indigenous data in open earth systems science.
+[Nat Commun 16, 572](https://doi.org/10.1038/s41467-024-53480-2).
 * Tahu Kukutai, John Taylor (2016) Indigenous Data Sovereignty: Toward an Agenda.
 [Australian National U Press.](https://www.jstor.org/stable/j.ctt1q1crgf)
 * Ray Lovett, Vanessa Lee, Tahu Kukutai, Stephanie Carroll Rainie, Jennifer Walker. 2019.
@@ -89,9 +92,12 @@ Applying the ‘CARE Principles for Indigenous Data Governance’ to ecology and
 * Desi Rodriguez-Lonebear (2016)
 [Building a Data Revolution in Indian Country. In Indigenous Data Sovereignty--Toward an agenda,ch 14, 253-272.](https://www.jstor.org/stable/j.ctt1q1crgf.21)
 * Steven Semken (2018) Sense of Place and Place-Based Introductory Geoscience Teaching for American Indian and Alaska Native Undergraduates.
-[Geoscience Education 53: 149-157.](https://doi.org/10.5408/1089-9995-53.2.149) 
+[Geoscience Education 53: 149-157.](https://doi.org/10.5408/1089-9995-53.2.149)
 * Erica AH Smithwick, Chris Caldwell et al. (2019)
 [Learning About Forest Futures Under Climate Change Through Transdisciplinary Collaboration Across Traditional and Western Knowledge Systems. Springer](https://doi.org/10.1007/978-3-030-13827-1_5).
+* Talisha Sutton-Kennedy, Alycia Crall, Amy Trice, Joseph Gum (2026)
+Repository Resilience in Practice: Findings and Strategies from a Community in Crisis
+[zenodo ESIP](https://doi.org/10.5281/zenodo.20617196)
 * H. Holden Thorp (2024)
 Learning with Lakota scientists.
 [Science 385: 1025](https://doi.org/10.1126/science.ads7901).
@@ -99,9 +105,9 @@ Learning with Lakota scientists.
 [Research Ideas and Outcomes 3: e15111.](https://doi.org/10.3897/rio.3.e15111)
 * Sarah Trembath (2024) [Decoloniality.](https://subjectguides.library.american.edu/c.php?g=1025915&p=7715527)
 * Eve Tuck, K. Wayne Yang (2012) Decolonization is not a metaphor.
-[Decolonization: Indigeneity,	Education	&	Society 1: 1-40](https://jps.library.utoronto.ca/index.php/des/article/view/18630)
+[Decolonization: Indigeneity, Education & Society 1: 1-40](https://jps.library.utoronto.ca/index.php/des/article/view/18630)
 * Susan Tussy (2021)
-[State Of the Craft in Research Data Management. GLOBUS.](https://www.globus.org/blog/state-craft-research-data-management-1) (discusses sovereignty) 
+[State Of the Craft in Research Data Management. GLOBUS.](https://www.globus.org/blog/state-craft-research-data-management-1) (discusses sovereignty)
 * Maggie Walter, Tahu Kukutai, Stephanie Russo Carroll, Desi Rodriguez-Lonebear  (2020)
 [Indigenous Data Sovereignty and Policy. 1st ed. Routledge, 244p](https://doi.org/10.4324/9780429273957).
 * Victoria Warren-Mears (n.d.) Principles and Models for Data Sharing Agreements with American Indian/Alaska Native Communities.
@@ -113,30 +119,29 @@ Learning with Lakota scientists.
 
 * [ADSA Panel: Community-Centered Benefit Sharing and New Data Equities](https://adsaannual2021.sched.com/event/q8Ui) (9 Feb 2022;
 [Video Recording](https://m.youtube.com/watch?v=Q2jb7f_1aNY))
-    * [Keolu Fox (University of California, San Diego)](https://ifi.ucsd.edu/dr-keolu-fox/) - Moderator
-    * [Latifa Jackson (Howard University)](http://www.georgetownhowardctsa.org/research/meet-our-researchers/latifa-jackson-phd)
-    * [Kaja Wasik (Variant Bio)](https://www.linkedin.com/in/kaja-wasik-8a8aa26b)
-    * [Ann McCartney (National Institutes of Health, National Human Genome Research Institute, Bioinformatics)](https://genomeinformatics.github.io/people/mccartney/)
-    * [Krystal Tsosie (Native BioData Consortium, Arizona State University)](https://www.dataleadershipcollaborative.com/about/contributors/krystal-tsosie)
+  * [Keolu Fox (University of California, San Diego)](https://ifi.ucsd.edu/dr-keolu-fox/) - Moderator
+  * [Latifa Jackson (Howard University)](http://www.georgetownhowardctsa.org/research/meet-our-researchers/latifa-jackson-phd)
+  * [Kaja Wasik (Variant Bio)](https://www.linkedin.com/in/kaja-wasik-8a8aa26b)
+  * [Ann McCartney (National Institutes of Health, National Human Genome Research Institute, Bioinformatics)](https://genomeinformatics.github.io/people/mccartney/)
+  * [Krystal Tsosie (Native BioData Consortium, Arizona State University)](https://www.dataleadershipcollaborative.com/about/contributors/krystal-tsosie)
 * [Earth Parternership CRRR Webinar (2021) Nicole Bowman on Indigenous Data Sovereignty and Tribal Nation Implications for Addressing the Federal Evidence-Based Policy Making Act of 2018](https://drive.google.com/file/d/18f05xIRdYHMza2UunPV4hAYzkuLKL6uW)
 * [ESIIL Innovation Summit (annual in May)](https://esiil.org/innovation-summit)
 & [ESIIL Hackathon (annual in Oct/Nov)](https://esiil.org/virtual-hackathon)
-* [Food sovereignty, Native knowledge-keeping part of Indigenous Peoples Day events (8-11 Oct 2023, CU Boulder)](https://www.colorado.edu/today/2023/10/06/food-sovereignty-native-knowledge-keeping-part-indigenous-peoples-day-events) 
+* [Food sovereignty, Native knowledge-keeping part of Indigenous Peoples Day events (8-11 Oct 2023, CU Boulder)](https://www.colorado.edu/today/2023/10/06/food-sovereignty-native-knowledge-keeping-part-indigenous-peoples-day-events)
 * [Institute for Social Research--Webinar on ethical use of indigenous data](https://www.icpsr.umich.edu/web/about/cms/3322)
 * [International Institute for the Sociology of Law--Workshop on International Law, the United Nations Declarations of the Rights of Indigenous Peoples and Indigenous Data Sovereignty](https://www.iisj.net/en/workshops/international-law-united-nations-declarations-rights-indigenous-peoples-and-indigenous), 11-12 July, 2019
 * [NASA Applied Sciences--An Introduction to Remote Sensing for Tribal Lands](https://appliedsciences.nasa.gov/join-mission/training/english/introduction-remote-sensing-tribal-lands)
 * [NCEAS Seminar Series: Advancing Ecology and Environmental Data Science for a More Just and Equitable Future](https://www.nceas.ucsb.edu/equity-justice-seminar)
-  * [Indigenous Data Sovereignty--How Scientists and Researchers can Empower Data Governance](https://www.youtube.com/watch?v=RjolET69Z8c). Lydia Jennings. 7 April 2021. [Poster](https://www.nceas.ucsb.edu/sites/default/files/2021-03/NCEAS-Equity-Justice-Seminar-JENNINGS.pdf) 
+  * [Indigenous Data Sovereignty--How Scientists and Researchers can Empower Data Governance](https://www.youtube.com/watch?v=RjolET69Z8c). Lydia Jennings. 7 April 2021. [Poster](https://www.nceas.ucsb.edu/sites/default/files/2021-03/NCEAS-Equity-Justice-Seminar-JENNINGS.pdf)
 * [Rising Voices](https://risingvoices.ucar.edu/) Panel: [NOAA Environmental Data Talks - Speaker Series Data, Diversity, and Disaster](https://youtu.be/CAZpPuJX9uM) October 16, 2020
 
 #### My Events
 
-  * [Exploring Data Sovereignty and the Sovereign Data Network 13-15 Feb 2024](https://ncar.ucar.edu/exploring-data-sovereignty-workshop)
-  * [ESIIL Innovation Summit 14-16 May 2024](https://esiil.org/innovation-summit)
-  * [UW Earth Partnership Native Education Pathways Workshop 24-28 Jun 2024](https://earthpartnership.wisc.edu/pre-college-opportunities-for-native-youth-in-wi/)
-  * [ESIIL Working Group Maka Sitomniya 8-1 Jul 2024](https://github.com/byandell/geospatial/blob/main/maka_sitomniya.md)
-  * [Seven Generation Inter-Tribal Leadership Summit 9-11 Oct 2024](https://www.lco.edu/7gensummit) 
-
+* [Exploring Data Sovereignty and the Sovereign Data Network 13-15 Feb 2024](https://ncar.ucar.edu/exploring-data-sovereignty-workshop)
+* [ESIIL Innovation Summit 14-16 May 2024](https://esiil.org/innovation-summit)
+* [UW Earth Partnership Native Education Pathways Workshop 24-28 Jun 2024](https://earthpartnership.wisc.edu/pre-college-opportunities-for-native-youth-in-wi/)
+* [ESIIL Working Group Maka Sitomniya 8-1 Jul 2024](https://github.com/byandell/geospatial/blob/main/maka_sitomniya.md)
+* [Seven Generation Inter-Tribal Leadership Summit 9-11 Oct 2024](https://www.lco.edu/7gensummit)
 
 ## Indigenous Organizations & Communities
 
@@ -156,7 +161,7 @@ as global efforts to address climate change, growing connections with Indigenous
   * [Winds of Change](https://woc.aises.org/)
 * [Enrich Hub](https://www.enrich-hub.org/)  
 * [First Nations Principles of OCAP](https://fnigc.ca/ocap-training/)
-* [Geoscience Alliance](https://geosciencealliance.org/useful-resources/) 
+* [Geoscience Alliance](https://geosciencealliance.org/useful-resources/)
 * [Global Indigenous Data Alliance (GIDA)](https://www.gida-global.org/)
   * [CARE Principlies for Indigenous Data Governance (GIDA)](https://www.gida-global.org/care)
   * [CARE Principles: Unpacking Indigenous Data Governance](https://medium.com/opendatacharter/spotlight-care-principles-f475ec2bf6ec)
@@ -165,10 +170,10 @@ as global efforts to address climate change, growing connections with Indigenous
 * [Indigenous Climate Resilience Network](https://www.icrn.us/)
 * [IndigiData](https://indigidata.org/)
   * [Training the Next Generation of Indigenous Data Scientists (2021 NY Times)](https://www.nytimes.com/2021/06/29/science/indigenous-data-microbiome-science.html)
-  * [Using data to bring power, autonomy to Indigenous communities (OSU College of Arts and Sciences)](https://artsandsciences.osu.edu/news/using-data-bring-power-autonomy-indigenous-communities) 
-  * [Indigenous scientists exchange knowledge at local workshop (NW Treaty Tribes)](https://nwtreatytribes.org/indigenous-scientists-exchange-knowledge-at-local-workshop/) 
-  * [Situating IndigiData and Dark Laboratory (Aydelotte)](https://aydelotte.swarthmore.edu/publications/situating-indigidata-and-dark-laboratory/) 
-  * [Indigidata For the Next Seven Generations (YouTube)](https://m.youtube.com/watch?v=-dL7fUX6rcI) 
+  * [Using data to bring power, autonomy to Indigenous communities (OSU College of Arts and Sciences)](https://artsandsciences.osu.edu/news/using-data-bring-power-autonomy-indigenous-communities)
+  * [Indigenous scientists exchange knowledge at local workshop (NW Treaty Tribes)](https://nwtreatytribes.org/indigenous-scientists-exchange-knowledge-at-local-workshop/)
+  * [Situating IndigiData and Dark Laboratory (Aydelotte)](https://aydelotte.swarthmore.edu/publications/situating-indigidata-and-dark-laboratory/)
+  * [Indigidata For the Next Seven Generations (YouTube)](https://m.youtube.com/watch?v=-dL7fUX6rcI)
   * [IndigiData Aotearoa](https://www.indigidataaotearoa.com)
 * [Land Knowledge](https://landknowledge.org/)
 * [Nagoya Protocol-Convention on Biological Diversity](https://www.dcceew.gov.au/science-research/australias-biological-resources/nagoya-protocol-convention-biological)
@@ -187,7 +192,7 @@ as global efforts to address climate change, growing connections with Indigenous
 * [Status of Tribes and Climate Change Report (STACC)](https://sites.google.com/view/staccreport/)
 * [Summer internship for INdigenous peoples in Genomics (SING)](https://singconsortium.org/)
 * [Te Mana Raraunga, Māori Data Sovereignty Network](https://www.temanararaunga.maori.nz/)
-* [Traditional Lifeways and Storytelling--Tools for Adaptation and Resilience to Ecosystem Change](https://link.springer.com/article/10.1007/s10745-019-00113-8) 
+* [Traditional Lifeways and Storytelling--Tools for Adaptation and Resilience to Ecosystem Change](https://link.springer.com/article/10.1007/s10745-019-00113-8)
 * [Tribal Climate Adaptation Menu](https://forestadaptation.org/tribal-climate-adaptation-menu)
 * [Tribal College--Journal of American Indian Higher Education](https://tribalcollegejournal.org/paul-boyer-on-the-new-information-age/)
 * [Tribal Exchange Network (TXG)](http://www.tribalexchangenetwork.org/)
@@ -204,14 +209,14 @@ as global efforts to address climate change, growing connections with Indigenous
 
 * [Sara Smith](https://www.wisconsinacademy.org/contributor/sara-smith) (18 Apr 2023, WI Academy) [Traditional Perspectives and Tribal Resilience](https://www.wisconsinacademy.org/evenings/traditional-perspectives-and-tribal-resilience) ([video](https://www.wisconsinacademy.org/video/traditional-perspectives-and-tribal-resilience))
 * [Robin Wall Kimmerer on “To the Best of Our Knowledge”](https://www.crowdcast.io/e/Kinship_ttbook/register) (30 Mar 2022 1pm)
-* [Madison Library Takeover: Thrival Tools Event](https://www.madisonpubliclibrary.org/new/library-takeover-thrival-tools-event) (26 Feb 2022 6-8:30pm) 
-* [Owning Our Past (Grace Church, Madison)](https://www.gracechurchmadison.org/owning-our-past) 
-    * 7 Feb-1 May 2022 zoom meetings
-    * [Onondaga Nation and Senator Daniel Inouye](https://www.onondaganation.org/news/2012/onondaga-nation-and-senator-daniel-inouye/) 
-    * [Returning Home: Three Oneida Children Find a Final Resting Place – StoryCorps](https://storycorps.org/stories/returning-home-three-oneida-children-find-a-final-resting-place/) 
+* [Madison Library Takeover: Thrival Tools Event](https://www.madisonpubliclibrary.org/new/library-takeover-thrival-tools-event) (26 Feb 2022 6-8:30pm)
+* [Owning Our Past (Grace Church, Madison)](https://www.gracechurchmadison.org/owning-our-past)
+  * 7 Feb-1 May 2022 zoom meetings
+  * [Onondaga Nation and Senator Daniel Inouye](https://www.onondaganation.org/news/2012/onondaga-nation-and-senator-daniel-inouye/)
+  * [Returning Home: Three Oneida Children Find a Final Resting Place – StoryCorps](https://storycorps.org/stories/returning-home-three-oneida-children-find-a-final-resting-place/)
 * [UW Earth Partnership IAS Webinar Series](https://earthpartnership.wisc.edu/spencer-webinar-resources/)
-    * Good Relatives? 2018 Federal Evidence-Based Policy Making Act and Implications for Tribal and Academic Research Partnerships. Nicole Bowman, 31 Mar 2021
-    * Culturally Responsive Research Relationships. Nicole Bowman, 12 Oct 2020
+  * Good Relatives? 2018 Federal Evidence-Based Policy Making Act and Implications for Tribal and Academic Research Partnerships. Nicole Bowman, 31 Mar 2021
+  * Culturally Responsive Research Relationships. Nicole Bowman, 12 Oct 2020
 
 ### Tribes
 
@@ -241,8 +246,8 @@ as global efforts to address climate change, growing connections with Indigenous
 
 * Menominee
   * [David RM Beck (2002) Siege & Survival. U NE Press](https://www.nebraskapress.unl.edu/nebraska/9780803213302)
-  * [Ada Deer, Native American Voice Inside Government and Out, Dies at 88 - The New York Times](https://www.nytimes.com/2023/08/18/us/ada-deer-dead.html) 
-    * [The Remarkable Life of Ada Deer (WI Alumni Association)](https://www.uwalumni.com/news/forging-firsts-the-remarkable-life-of-ada-deer/) 
+  * [Ada Deer, Native American Voice Inside Government and Out, Dies at 88 - The New York Times](https://www.nytimes.com/2023/08/18/us/ada-deer-dead.html)
+    * [The Remarkable Life of Ada Deer (WI Alumni Association)](https://www.uwalumni.com/news/forging-firsts-the-remarkable-life-of-ada-deer/)
   * Jennifer K Gauthier (13 Mar 2023, [CESA](https://login.myquickreg.com/register/event/event.cfm?eventid=33325)) Mamaceqtawak: The Movers Strengthening Community Connections to Menominee Ways of Well-Being
   * [Kemāmaceqtaq: Harvest of the Moon](https://menominee.extension.wisc.edu/kemamaceqtaq-were-all-moving/)
   * [Menominee Theoretical Model of Sustainability](https://www.menominee.edu/sustainable-development-institute/about-sdi/the-menominee-theoretical-model-of-sustainability)
@@ -250,9 +255,9 @@ as global efforts to address climate change, growing connections with Indigenous
   * [Nicholas Perloff (1982) Menominee DRUMS. U OK Press](https://www.oupress.com/9780806137773/menominee-drums/)
   * [Menominee Tribe (YouTube)](https://www.youtube.com/results?search_query=menominee+tribe)
     * [The Land Is a Teacher: A Conversation with Jeff Grignon](https://edgeeffects.net/jeff-grignon/)
-    * [Broadband Literacy Menominee Nation WI](https://youtu.be/hjJlDtcQRfs) 
+    * [Broadband Literacy Menominee Nation WI](https://youtu.be/hjJlDtcQRfs)
     * [Nama’o: The Ancient Story Teller](https://www.youtube.com/watch?v=c5vII8Qzi3c)
-  * Menominee sturgeon 
+  * Menominee sturgeon
     * [David RM Beck (1995 WI Mag History) Return to Namä'o Uskíwämît: The Importance of Sturgeon in Menominee Indian History](https://www.jstor.org/stable/4636602)
     * [What is Possible in Community? Reflecting on Harvest Days at Sturgeon Lake First Nation](https://www.nccie.ca/story/what-is-possible-in-community-reflecting-on-harvest-days-at-sturgeon-lake-first-nation/?lang=fr)
 
@@ -291,15 +296,14 @@ as global efforts to address climate change, growing connections with Indigenous
 
 ### Wisconsin
 
-* [About The Ways – PBS Wisconsin Education](https://theways.org/story/waadookodaading) 
-* [Don't Just Teach About Cultures—Teach Culturally. Here's the Difference (David J O'Connor)](https://www.hmhco.com/blog/teaching-culture-vs-teaching-culturally) 
-* [Erik Ness (2023 Isthmus) We’re in our forever home](https://isthmus.com/news/cover-story/ojibwe-fight-enbridge-pipeline-on-bad-river/) 
-* [UW Press - : Spirits of Earth: The Effigy Mound Landscape of Madison and the Four Lakes, Robert A. Birmingham](https://uwpress.wisc.edu/books/3734.htm) 
+* [About The Ways – PBS Wisconsin Education](https://theways.org/story/waadookodaading)
+* [Don't Just Teach About Cultures—Teach Culturally. Here's the Difference (David J O'Connor)](https://www.hmhco.com/blog/teaching-culture-vs-teaching-culturally)
+* [Erik Ness (2023 Isthmus) We’re in our forever home](https://isthmus.com/news/cover-story/ojibwe-fight-enbridge-pipeline-on-bad-river/)
+* [UW Press - : Spirits of Earth: The Effigy Mound Landscape of Madison and the Four Lakes, Robert A. Birmingham](https://uwpress.wisc.edu/books/3734.htm)
 
 ### Miscellaneous
 
-* [Relational Systems Thinking](https://jabsc.org/index.php/jabsc/article/view/577) 
-* [9 Terms to Avoid in Communications with Indigenous Peoples](https://www.ictinc.ca/blog/9-terms-to-avoid-in-communications-with-indigenous-peoples) 
+* [Relational Systems Thinking](https://jabsc.org/index.php/jabsc/article/view/577)
+* [9 Terms to Avoid in Communications with Indigenous Peoples](https://www.ictinc.ca/blog/9-terms-to-avoid-in-communications-with-indigenous-peoples)
 * [United Nations Declaration on the Rights of Indigenous Peoples](https://www.un.org/development/desa/indigenouspeoples/declaration-on-%20the-rights-of-indigenous-peoples.html) | [Document](https://www.un.org/development/desa/indigenouspeoples/wp-content/uploads/sites/19/2018/11/UNDRIP_E_web.pdf)
-* [Native American Boarding Schools Took Children's Culture, and Hundreds Died (2023 New York Times)](https://www.nytimes.com/interactive/2023/08/30/us/native-american-boarding-schools.html) 
-
+* [Native American Boarding Schools Took Children's Culture, and Hundreds Died (2023 New York Times)](https://www.nytimes.com/interactive/2023/08/30/us/native-american-boarding-schools.html)
