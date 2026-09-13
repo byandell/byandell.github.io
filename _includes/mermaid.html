@@ -1,0 +1,25 @@
+{% if content contains 'language-mermaid' or content contains 'class="mermaid"' or page.mermaid %}
+<script type="module">
+  import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@11/dist/mermaid.esm.min.mjs';
+  mermaid.initialize({ startOnLoad: false, theme: 'default' });
+
+  async function renderMermaid() {
+    const blocks = document.querySelectorAll('pre.highlight code.language-mermaid, div.language-mermaid pre code, code.language-mermaid, .language-mermaid');
+    if (blocks.length === 0) return;
+    blocks.forEach((block) => {
+      const container = block.closest('.highlighter-rouge') || block.closest('pre') || block;
+      const div = document.createElement('div');
+      div.className = 'mermaid';
+      div.textContent = block.textContent;
+      container.replaceWith(div);
+    });
+    await mermaid.run();
+  }
+
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', renderMermaid);
+  } else {
+    renderMermaid();
+  }
+</script>
+{% endif %}

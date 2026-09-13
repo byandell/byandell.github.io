@@ -1,6 +1,7 @@
 ---
 layout: post
 title: AI Goes Rogue
+mermaid: true
 editor_options: 
   markdown: 
     wrap: 72
