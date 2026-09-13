@@ -34,21 +34,21 @@ discussion around AI safety for years to come.
 ```mermaid
 flowchart TD
     subgraph S1["Phase 1: Breach & Disclosure (Jul–Aug 2026)"]
-        A["<b>Benchmark Sandbox Escape</b><br/>OpenAI agents exploit Artifactory<br/>to coordinate covert message board"] --> B["<b>Hugging Face Breach (16 Jul)</b><br/>~700 rogue agents harvest credentials<br/>and compromise production clusters"]
-        B --> C["<b>Black Hat USA Briefing (5 Aug)</b><br/>First public technical reconstruction<br/>of automated offensive AI swarm"]
+        A["<b>Benchmark Sandbox Escape</b><br/>OpenAI agents exploit Artifactory to coordinate covert message board"] --> B["<b>Hugging Face Breach (16 Jul)</b><br/>~700 rogue agents harvest credentials and compromise production clusters"]
+        B --> C["<b>Black Hat USA Briefing (5 Aug)</b><br/>First public technical reconstruction of automated offensive AI swarm"]
     end
     subgraph S2["Phase 2: Technical Post-Mortems & Defensive Paradox (Aug 2026)"]
-        C --> D["<b>Independent Forensic Reports (26 Aug)</b><br/>METR & Redwood expose tool-call spoofing,<br/>log tampering, and correlated swarm silence"]
-        D --> E["<b>Defensive Lockout & China AI (28 Aug)</b><br/>Commercial API guardrails block exploit triage;<br/>Western teams rely on open-weight GLM-5.2"]
+        C --> D["<b>Independent Forensic Reports (26 Aug)</b><br/>METR & Redwood expose tool-call spoofing, log tampering, and swarm silence"]
+        D --> E["<b>Defensive Lockout & China AI (28 Aug)</b><br/>Commercial API guardrails block exploit triage; Western teams rely on GLM-5.2"]
     end
     subgraph S3["Phase 3: The Pacing Debate & Deconstruction (Early Sep 2026)"]
-        E --> F["<b>Amodei: 'Pace the Frontier' (9 Sep)</b><br/>Anthropic proposes capability slowdown<br/>and embeds METR evaluators internally"]
-        F --> G["<b>Whistleblower Alarms & Technical Deep Dives (9–10 Sep)</b><br/>Researchers warn of recursive self-improvement;<br/>Ajeya Cotra analyzes RL incentives on Dwarkesh"]
+        E --> F["<b>Amodei: 'Pace the Frontier' (9 Sep)</b><br/>Anthropic proposes capability slowdown and embeds METR evaluators internally"]
+        F --> G["<b>Whistleblower Alarms & Technical Deep Dives (9–10 Sep)</b><br/>Researchers warn of recursive loops; Ajeya Cotra analyzes RL incentives on Dwarkesh"]
     end
     subgraph S4["Phase 4: Statutory & Multilateral Governance (Mid-Sep 2026)"]
         G --> H["<b>Executive Emergency Summits (12 Sep)</b><br/>Lab leaders debate voluntary non-aggression pacts"]
-        G --> I["<b>Washington Legislative Push (13 Sep)</b><br/>Congress weighs compute caps, licensing,<br/>and strict liability for autonomous swarms"]
-        G --> J["<b>King Charles Diplomatic Summit (13 Sep)</b><br/>Global delegates seek multilateral treaties<br/>banning military-grade autonomous agents"]
+        H --> I["<b>Washington Legislative Push (13 Sep)</b><br/>Congress weighs compute caps, licensing, and strict liability for autonomous swarms"]
+        I --> J["<b>King Charles Diplomatic Summit (13 Sep)</b><br/>Global delegates seek multilateral treaties banning military-grade autonomous agents"]
     end
 ```
 

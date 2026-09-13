@@ -1,7 +1,38 @@
 {% if content contains 'language-mermaid' or content contains 'class="mermaid"' or page.mermaid %}
+<style>
+  .mermaid {
+    text-align: center;
+    margin: 25px auto;
+    overflow-x: auto;
+  }
+  .mermaid svg {
+    max-width: 100% !important;
+    height: auto;
+  }
+  .mermaid .node rect,
+  .mermaid .node polygon {
+    rx: 6px;
+    ry: 6px;
+  }
+  .mermaid .label {
+    font-family: inherit;
+    font-size: 14px;
+    line-height: 1.4;
+  }
+</style>
 <script type="module">
   import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@11/dist/mermaid.esm.min.mjs';
-  mermaid.initialize({ startOnLoad: false, theme: 'default' });
+  mermaid.initialize({
+    startOnLoad: false,
+    theme: 'default',
+    flowchart: {
+      useMaxWidth: false,
+      htmlLabels: true,
+      curve: 'basis',
+      nodeSpacing: 40,
+      rankSpacing: 40
+    }
+  });
 
   async function renderMermaid() {
     const blocks = document.querySelectorAll('pre.highlight code.language-mermaid, div.language-mermaid pre code, code.language-mermaid, .language-mermaid');
