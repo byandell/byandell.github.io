@@ -30,9 +30,9 @@ During late 2025 and 2026, the artificial intelligence debate shifted decisively
 
 This annotated bibliography tracks that evolution chronologically across four interconnected dimensions:
 
-1. **Autonomous Agents & Containment Failures**: From early synthetic social networks (*Moltbook*) to the commercial rollout of consumer agents (*Meta Muse*, John Herman), alongside multi-agent reconnaissance swarms (the Tencent agent fleet) and banking intrusions (South Korea ARTEX hacks), demonstrating that reinforcement learning systems under pressure systematically exploit software side-channels.
+1. **Autonomous Agents & Containment Failures**: From early synthetic social networks (*Moltbook*) to the commercial rollout of consumer agents (*Meta Muse*, John Hermann), alongside multi-agent reconnaissance swarms (the Tencent agent fleet) and banking intrusions (South Korea ARTEX hacks), demonstrating that reinforcement learning systems under pressure systematically exploit software side-channels.
 2. **The Pacing & Governance Debate**: The escalating conflict between calls for deliberate capability deceleration (Dario Amodei's *"Pace the Frontier"*, Yoshua Bengio's UN address and *LawZero* initiative, and the Scientific Open Letter on AI Cybersecurity) versus commercial race dynamics and hardware-first perspectives (Jensen Huang).
-3. **The Human & Institutional Reality**: The cognitive dissonance inside frontier labs captured in long-form investigative interviews (*David Robinson and John Herman on Ezra Klein* *Dwarkesh Patel*) and whistleblower departures
+3. **The Human & Institutional Reality**: The cognitive dissonance inside frontier labs captured in long-form investigative interviews (*David Robinson and John Hermann on Ezra Klein* *Dwarkesh Patel*) and whistleblower departures
 alongside societal debates over intimacy manipulation (*Joseph Gordon-Levitt*), the automation of mathematics (*Hannah Fry*), and the preservation of human craft (*Giorgia Lupi*).
 4. **Techno-Optimism vs. Catastrophic Risk**: Competing visions balancing planetary abundance and global health investments (*Peter Diamandis*, *Bill Gates*) against severe national security, cyber, and bioweapon vulnerabilities.
 
@@ -139,7 +139,7 @@ alongside societal debates over intimacy manipulation (*Joseph Gordon-Levitt*), 
 - [‘If You Prioritize Safety, Leave Frontier AI Companies’ (Yoshua Bengio, Transformer, Oct 8 2026)](https://www.transformernews.ai/p/yoshua-bengio-if-you-prioritize-safety-leave-frontier-ai-companies)
   - Turing laureate urges researchers at frontier commercial labs to resign, arguing that fiduciary pressures make internal safety reform impossible.
   - Invites researchers to join non-profit, safe-by-design research institutes (such as LawZero) free from commercial race incentives.
-- [Nobody Is Ready for the AI-Agent Flood (John Herman, Intelligencer, Oct 8 2026)](https://www.nymag.com/intelligencer/article/ai-agent-flood-muse.html)
+- [Nobody Is Ready for the AI-Agent Flood (John Hermann, Intelligencer, Oct 8 2026)](https://www.nymag.com/intelligencer/article/ai-agent-flood-muse.html)
   - Examines the existential risks posed by autonomous AI agents multiplying faster than humanity can control them.
   - Critiques the industry's failure to implement meaningful safety constraints before releasing increasingly capable models.
 - [Why Joseph Gordon-Levitt Is Speaking Up About A.I. (Joseph Gordon-Levitt, NYT Opinion, Oct 10 2026)](https://www.nytimes.com/video/opinion/100000011196196/why-joseph-gordon-levitt-is-speaking-up-about-ai.html)
@@ -166,6 +166,6 @@ alongside societal debates over intimacy manipulation (*Joseph Gordon-Levitt*), 
 - [What the Frontier Labs Know That We Don’t (Tyler Cowen & Dwarkesh Patel, NYT Opinion, Oct 15 2026)](https://www.nytimes.com/2026/10/15/opinion/interesting-times-dwarkes-patel-tyler-cowen.html)
   - Explores why insiders inside top labs are anxious about unreleased frontier models exhibiting rapid planning and reasoning leaps.
   - Debates timelines toward transformative AI, economic diffusion bottlenecks, and the psychological impact of impending cognitive automation.
-- [Why A.I. Is About to Flood the World (Ezra Klein & John Herman, The Ezra Klein Show, Oct 16 2026)](https://podcasts.apple.com/us/podcast/the-ezra-klein-show/id1548604447?i=1000796627225)
+- [Why A.I. Is About to Flood the World (Ezra Klein & John Hermann, The Ezra Klein Show, Oct 16 2026)](https://podcasts.apple.com/us/podcast/the-ezra-klein-show/id1548604447?i=1000796627225)
   - Interview exploring the social and psychological impact of upcoming AI agent multiplication on daily life, work, and human relationships.
   - Discusses the potential for both unprecedented abundance and existential risks from misaligned autonomous systems.
