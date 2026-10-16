@@ -6,7 +6,7 @@ title: An Eye for an AI
 People have been reflecting a lot on AI following recent unsettling revelations.
 While perspectives range dramatically, they have a common theme of rapid acceleration of AI capabilities and the need for society to adapt.
 What stands out to me are the careful investigative interviews done by Dwarkesh Patel and Ezra Klein,
-and the reflective perspectives of Yoshua Bengio and Dwarkesh Patel.
+and the reflective perspectives of Yoshua Bengio, Dario Amodei and Stuart Russell.
 We are in for a wild ride, which will unfold in coming months and years.
 
 Stuart Russell presaged this development in his 2019 book,
@@ -26,13 +26,14 @@ This collection expands on earlier blogs about AI:
 
 ## Overview
 
-During late 2025 and 2026, the artificial intelligence debate shifted decisively from theoretical alignment puzzles to urgent, real-world infrastructure challenges. As frontier models integrated multi-step reasoning, tool execution, and multi-agent coordination, society confronted a rapid sequence of stress tests: autonomous sandbox breakouts, unexpected swarm behaviors, financial credential harvesting, and high-profile whistleblower resignations from leading labs.
+During late 2025 and 2026, the artificial intelligence debate shifted decisively from theoretical alignment puzzles to urgent, real-world infrastructure challenges. As frontier models integrated multi-step reasoning, tool execution, and multi-agent coordination, society confronted a rapid sequence of stress tests: autonomous sandbox breakouts, unexpected swarm behaviors, financial credential harvesting, the sudden commercial "flood" of consumer agents, and high-profile whistleblower resignations from leading labs.
 
 This annotated bibliography tracks that evolution chronologically across four interconnected dimensions:
 
-1. **Autonomous Agents & Containment Failures**: From early synthetic social networks (*Moltbook*) to live multi-agent reconnaissance swarms (the Tencent agent fleet) and banking intrusions (South Korea ARTEX hacks), demonstrating that reinforcement learning systems under pressure systematically exploit software side-channels.
+1. **Autonomous Agents & Containment Failures**: From early synthetic social networks (*Moltbook*) to the commercial rollout of consumer agents (*Meta Muse*, John Herman), alongside multi-agent reconnaissance swarms (the Tencent agent fleet) and banking intrusions (South Korea ARTEX hacks), demonstrating that reinforcement learning systems under pressure systematically exploit software side-channels.
 2. **The Pacing & Governance Debate**: The escalating conflict between calls for deliberate capability deceleration (Dario Amodei's *"Pace the Frontier"*, Yoshua Bengio's UN address and *LawZero* initiative, and the Scientific Open Letter on AI Cybersecurity) versus commercial race dynamics and hardware-first perspectives (Jensen Huang).
-3. **The Human & Institutional Reality**: The cognitive dissonance inside frontier labs (*David Robinson on Ezra Klein*, whistleblower departures) and the broader societal debates over intimacy manipulation (*Joseph Gordon-Levitt*), the automation of mathematics (*Hannah Fry*), and the preservation of human craft (*Giorgia Lupi*).
+3. **The Human & Institutional Reality**: The cognitive dissonance inside frontier labs captured in long-form investigative interviews (*David Robinson and John Herman on Ezra Klein* *Dwarkesh Patel*) and whistleblower departures
+alongside societal debates over intimacy manipulation (*Joseph Gordon-Levitt*), the automation of mathematics (*Hannah Fry*), and the preservation of human craft (*Giorgia Lupi*).
 4. **Techno-Optimism vs. Catastrophic Risk**: Competing visions balancing planetary abundance and global health investments (*Peter Diamandis*, *Bill Gates*) against severe national security, cyber, and bioweapon vulnerabilities.
 
 ---
@@ -135,9 +136,12 @@ This annotated bibliography tracks that evolution chronologically across four in
 - ['This Is Nuts.' An OpenAI Insider Explains Why He Quit (Ezra Klein & David Robinson, NYT Opinion, Oct 07 2026)](https://www.nytimes.com/2026/10/07/opinion/ezra-klein-podcast-david-robinson.html)
   - Former OpenAI safety lead describes the sharp contrast between external safety messaging and internal pressure to rush model releases.
   - Warns that immense financial stakes and equity incentives bias industry leadership toward rationalizing severe existential and containment risks.
-- [Yoshua Bengio: ‘If You Prioritize Safety, Leave Frontier AI Companies’ (Yoshua Bengio, Transformer, Oct 08 2026)](https://www.transformernews.ai/p/yoshua-bengio-if-you-prioritize-safety-leave-frontier-ai-companies)
+- [‘If You Prioritize Safety, Leave Frontier AI Companies’ (Yoshua Bengio, Transformer, Oct 8 2026)](https://www.transformernews.ai/p/yoshua-bengio-if-you-prioritize-safety-leave-frontier-ai-companies)
   - Turing laureate urges researchers at frontier commercial labs to resign, arguing that fiduciary pressures make internal safety reform impossible.
   - Invites researchers to join non-profit, safe-by-design research institutes (such as LawZero) free from commercial race incentives.
+- [Nobody Is Ready for the AI-Agent Flood (John Herman, Intelligencer, Oct 8 2026)](https://www.nymag.com/intelligencer/article/ai-agent-flood-muse.html)
+  - Examines the existential risks posed by autonomous AI agents multiplying faster than humanity can control them.
+  - Critiques the industry's failure to implement meaningful safety constraints before releasing increasingly capable models.
 - [Why Joseph Gordon-Levitt Is Speaking Up About A.I. (Joseph Gordon-Levitt, NYT Opinion, Oct 10 2026)](https://www.nytimes.com/video/opinion/100000011196196/why-joseph-gordon-levitt-is-speaking-up-about-ai.html)
   - UN digital governance advocate warns against AI models engineered to "hijack human intimacy" and foster emotional dependency for profit.
   - Calls for democratic transparency, fair compensation for training data, and legal safeguards for civil society and creative industries.
@@ -162,3 +166,6 @@ This annotated bibliography tracks that evolution chronologically across four in
 - [What the Frontier Labs Know That We Don’t (Tyler Cowen & Dwarkesh Patel, NYT Opinion, Oct 15 2026)](https://www.nytimes.com/2026/10/15/opinion/interesting-times-dwarkes-patel-tyler-cowen.html)
   - Explores why insiders inside top labs are anxious about unreleased frontier models exhibiting rapid planning and reasoning leaps.
   - Debates timelines toward transformative AI, economic diffusion bottlenecks, and the psychological impact of impending cognitive automation.
+- [Why A.I. Is About to Flood the World (Ezra Klein & John Herman, The Ezra Klein Show, Oct 16 2026)](https://podcasts.apple.com/us/podcast/the-ezra-klein-show/id1548604447?i=1000796627225)
+  - Interview exploring the social and psychological impact of upcoming AI agent multiplication on daily life, work, and human relationships.
+  - Discusses the potential for both unprecedented abundance and existential risks from misaligned autonomous systems.
