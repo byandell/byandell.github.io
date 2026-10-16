@@ -22,7 +22,7 @@ of their own.
 This collection expands on earlier blogs about AI:
 
 - [The Pope and AI](/The-Pope-and-AI)
-- [AI goes Rogue](/AI-Goes-Rogue)
+- [AI Goes Rogue](/AI-Goes-Rogue)
 
 ## Overview
 
