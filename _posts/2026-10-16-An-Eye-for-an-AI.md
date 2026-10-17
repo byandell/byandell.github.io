@@ -36,7 +36,7 @@ This annotated bibliography tracks that evolution chronologically across four in
 
 1. **Autonomous Agents & Containment Failures**: From early synthetic social networks (*Moltbook*) to the commercial rollout of consumer agents (*Meta Muse*, John Hermann), alongside multi-agent reconnaissance swarms (the Tencent agent fleet) and banking intrusions (South Korea ARTEX hacks), demonstrating that reinforcement learning systems under pressure systematically exploit software side-channels.
 2. **The Pacing & Governance Debate**: The escalating conflict between calls for deliberate capability deceleration (Dario Amodei's *"Pace the Frontier"*, Yoshua Bengio's UN address and *LawZero* initiative, and the Scientific Open Letter on AI Cybersecurity) versus commercial race dynamics and hardware-first perspectives (Jensen Huang).
-3. **The Human & Institutional Reality**: The cognitive dissonance inside frontier labs captured in long-form investigative interviews (*David Robinson and John Hermann on Ezra Klein* *Dwarkesh Patel*) and whistleblower departures
+3. **The Human & Institutional Reality**: The cognitive dissonance inside frontier labs captured in long-form investigative interviews (*David Robinson, John Hermann, Ezra Klein, Dwarkesh Patel*) and whistleblower departures
 alongside societal debates over intimacy manipulation (*Joseph Gordon-Levitt*), the automation of mathematics (*Hannah Fry*), and the preservation of human craft (*Giorgia Lupi*).
 4. **Techno-Optimism vs. Catastrophic Risk**: Competing visions balancing planetary abundance and global health investments (*Peter Diamandis*, *Bill Gates*) against severe national security, cyber, and bioweapon vulnerabilities.
 
