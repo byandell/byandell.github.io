@@ -7,6 +7,7 @@ People have been reflecting a lot on AI following recent unsettling revelations.
 While perspectives range dramatically, they have a common theme of rapid acceleration of AI capabilities and the need for society to adapt.
 What stands out to me are the careful investigative interviews done by Dwarkesh Patel and Ezra Klein,
 and the reflective perspectives of Yoshua Bengio, Dario Amodei and Stuart Russell.
+Oh, and watch what Joshua Gordon-Levitt does.
 We are in for a wild ride, which will unfold in coming months and years.
 
 Stuart Russell presaged this development in his 2019 book,
