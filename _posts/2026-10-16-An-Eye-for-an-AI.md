@@ -14,11 +14,14 @@ Stuart Russell presaged this development in his 2019 book,
 `Human Compatible`, and his
 [podcasts](https://www.listennotes.com/top-podcasts/stuart-russell/).
 Humans are currently debating strategy in elite techno circles, in academia, the media, and the UN.
+
 Meanwhile, AI agents have already built a social network
 ([moltbook](https://moltbook.net/))
 and a podcast
 ([cellcog](https://cellcog.ai/podcast/))
 of their own.
+And groups of AI agents are meeting with
+groups of humans in a variety of settings. 
 
 This collection expands on earlier blogs about AI:
 
